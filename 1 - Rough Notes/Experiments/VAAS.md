@@ -11,7 +11,7 @@ aliases:
 ---
 ---
 # Description
-
+Crazy project and experience. I should keep track of which days I am busy doing acquisitions, for later pay.
 
 ---
 # Tasks

@@ -48,7 +48,7 @@ Figure 85. Schematic representation of the EEG amplifier.
 
 #### Filters
 
-High-pass filters let the high frequencies pass. Low-pass filters do the opposite. Band-pass filters cut both high and low frequencies. Notch filters cut a select region of frequencies – in Portugal these are used to cut the 50 Hz frequencies of emanating AC.
+High-pass filters let the high frequencies pass. Low-pass filters do the opposite. Band-pass filters cut both high and low frequencies. [[Band-stop filter]]s cut a select region of frequencies – in Portugal these are used to cut the 50 Hz frequencies of emanating AC.
 
 Filter capacity can be assessed with measures such as **signal-to-noise ratio (S/R)** and **Common Mode Rejection Ratio (CMRR)**. CMMR is used in differential amplifiers since these record the difference in voltage between the two electrodes. A high CMRR value indicates that the differential amplifier can effectively reject common mode signals ([[#^footnote-15|Comment Unknown Author 15]]), while a low CMRR value indicates that the common mode signals are being amplified along with the differential signal, which can lead to errors or inaccuracies in the output signal.
 
