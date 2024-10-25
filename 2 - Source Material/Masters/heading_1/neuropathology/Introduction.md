@@ -1,0 +1,3 @@
+## Introduction
+
+As I have said before, the two main pillars of neurological knowledge come from observation of structural anomalies (anatomical) and abnormal behaviour observation (phenotypical). The relationship between the two consist in the disease (pathological) and allow for beliefs on the workings of the brain (physiological). This being so, I will provide a list of pathologies, hopefully listed according to the corresponding are of the brain which it affects.

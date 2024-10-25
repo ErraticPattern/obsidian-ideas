@@ -1,0 +1,4 @@
+# Annotations  
+(8/23/2024, 11:03:49 PM)
+
+[Go to annotation](zotero://open-pdf/library/items/AB5E9LVU?page=7&annotation=RWG5QR9X) “In this paper, we describe an adaptive spatial filtering approach called Artifact Subspace Reconstruction (ASR), which we briefly introduced in [20]. The ASR filter operates online and is designed to detect and remove high-amplitude data components (for instance, stemming from eye blinks, muscle, and sensor motion) of high amplitude relative to some artifact-free reference data, while recovering EEG background activity that lies in the subspace spanned by the artifact components (see Fig. 9 for an example). Fig. 3 graphically demonstrates the ASR procedure, which we outline next.” ([Mullen et al., 2015, p. 7](zotero://select/library/items/XT3I58CR))

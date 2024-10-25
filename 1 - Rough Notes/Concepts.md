@@ -1,0 +1,15 @@
+- [x] Pre-commit hooks ✅ 2024-06-12
+- [ ] Harp message
+- [ ] Common Language Runtime
+- [ ] Likert Scale
+- [ ] CUDA
+- [ ] FAIR data sharing principles
+- [ ] Overheads
+- [ ] Tokens in LLMs
+- [ ] Ahead of Print (AOP)
+- [ ] SDK and Wrappers
+- [ ] RAPI connection
+- [ ] Macros
+- [ ] Web Scraping and APIs
+- [ ] CNKI (China National Knowledge Infrastructure)
+- [ ] Hydrocephalus

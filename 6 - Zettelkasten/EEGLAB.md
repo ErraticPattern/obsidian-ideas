@@ -1,0 +1,35 @@
+---
+creation date: 2024-09-18 11:10
+aliases: 
+tags:
+  - baby
+  - software
+  - matlab
+modification date: Wednesday, 18th September 2024, 11:10:35
+id:
+---
+---
+
+## Parent note
+[[Neuroscience Software]]
+## Backlinking
+
+
+---
+# EEGLAB
+
+
+---
+# Notes
+## Resources
+
+| Website | Description | 
+| ------- | ----------- |
+
+---
+## Links
+- [Google Search](https://www.google.com/search?q=EEGLAB)
+
+---
+# Bibliography
++ 

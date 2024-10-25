@@ -1,0 +1,36 @@
+- [x] Sign up for university in September (**23/set a 18/out 2024**). ✅ 2024-10-13
+- [x] Admissão Provas Mestrado - vê o que é. ✅ 2024-10-01
+- [ ] Find app that changes your keyboard configuration for optimal setup.
+- [ ] Learn about CodeSpace in GitHub.
+- [ ] [[ECoG]] [[ESI|electrical source imaging]] 
+- [ ] Idea: Company that provides experiment quality control. Use in lab.
+- [ ] Idea: Suggest a way for BIDS to save environmental data (indoor or outdoor).
+- [ ] Update BIDS functions.
+- [ ] Find if there is an app that can save your computer's setup (installed apps and browser settings).
+- [ ] Find more about [G-Node GIN](https://gin.g-node.org/).
+- [ ] Check why EEGLAB recommends not performing baseline removal when doing [[ESI|electrical source imaging]].
+- [x] Ask for age of participants in experiment 2. ✅ 2024-06-14
+- [ ] Check Qualtrics - Qualtrics will be handled by MSU. ⏫ 
+- [x] Update participant ID in *.mff* files. ✅ 2024-06-14
+- [x] Update the coordinates' json file in bids - make a script. 🛫 2024-06-14 📅 2024-07-14 ✅ 2024-10-13
+- [?] Neurosciences - NeurULisboa
+- [ ] Try to make NET work in MATLAB (Fork it)
+- [-] Try to make scan_classifier work. ⏬ 
+- [x] Check scimago ✅ 2024-07-16
+- [ ] See [different-ai/file-organizer-2000: AI-powered organization for people who struggle with organization (github.com)](https://github.com/different-ai/file-organizer-2000?tab=readme-ov-file)
+- [ ] Learn how to add a footer in powerpoint.
+- [x] Check KeePass ✅ 2024-09-03
+- [x] Ask Alice for the docx with the survey questions. ✅ 2024-09-03
+- [x] Cancel gmail's trial. 📅 2024-09-30 ✅ 2024-10-01
+- [ ] Make a plot for the assessments such as in [[Hexaco]].
+- [ ] Text Thenia about Denmark.
+- [ ] Create a github book or some other documentation tool for Windows Setup and scientific research applied to neuroscience.
+- [ ] Create a template github repository to easily start new studies with the default folders and files. Have a README file explaining the rules.
+- [ ] Check scripts on github (e.g. simulatneous eeg and et, eeg and fmri)
+- [ ] Create a script that gets demogprahic information based on BIDS organization.
+- [ ] Make the transition from matlab to python by translating the scripts. Use AI to help. Try using python standards of filenames, functions, and scripts while also trying to maintain the standards I adopted in matlab.
+- [ ] Update Zotero Template to hyperlink yaml fields. Also create a template for journals.
+- [ ] In the future create a query note that fetches all annotations by colors, such that I will have notes by quotes, ideas, methodologies, etc. (Maybe use the color hashtags).
+- [ ] Add also the word documents from my thesis.
+- [ ] Create scripts/functions for the `scans.tsv` and `sessions.tsv`. Make sure you also understand the `beh` folder better.
+- [ ] Have a meeting with Diego and ask him about the simultaneous-mri preprocessing of eeg, the statistical analysis he performed, and if he knows where the exp.4 data is. ⏫ 

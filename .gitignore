@@ -1,1 +1,14 @@
+# add file types
 *.png
+*.jpg
+*.jpeg
+*.gif
+*.svg
+*.docx
+# add folders
+.obsidian/
+.trash/
+# manual
+0 - Supplementary
+2 - Source Material/Masters/MSc_in_Neuroscience.docx
+0 - Supplementary/sensitive/Github Synch.md

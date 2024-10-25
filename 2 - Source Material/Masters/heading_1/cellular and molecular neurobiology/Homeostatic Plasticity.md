@@ -1,0 +1,3 @@
+## Homeostatic Plasticity
+
+The major form of homeostatic plasticity is ‘synaptic scaling’, which describes phenomena whereby the strength of all synapses on a given cell are adjusted in response to prolonged changes in activity. Specifically, prolonged decreases in overall activity cause a net scaling up of total synaptic strengths while prolonged increases in activity cause the opposite, a scaling down of synaptic strengths. This form of plasticity operates on a much slower timescale than LTP or LTD and may be particularly important during the development of neural circuits. See more (Turrigiano & Nelson, 2004).

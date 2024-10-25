@@ -1,0 +1,33 @@
+# Open Questions and Paradigms
+
+The problem of phenomenological representation. It is commonly accepted that the voluntary movement of our body follows a simple formula. Some input is integrated in the cerebral cortex which requires some movement; in turn, this leads to activity in the motor cortex which in turn goes to the periphery to command some action. Even if we do not know how information is computed in the CNS, there is no trouble in understanding this mechanism of information flow. Now what is responsible for vision? One could say light prompts activity in the brain which in turn creates a representation of the world. However, such a hypothesis leads to problems. We are asserting our experience is a representation. But then light itself is a representation of it. To this, an appeal to reality can be made. Is it legitimate? Is it not the same as saying God is responsible for it? How could we possibly bridge this gap? Motor control is within the representational world, and so it is fairly unproblematic; representation itself is a different problem. What if one could say our experience is reality itself? If so, then it must be the same for everything. And why would living things need neurons as a medium for seeing what is real? Are we to believe neurons, which simply propagate signals, are necessary to see reality when the latter is so much more complex? Is not the change of experiences proof that objective reality is not fixed? It seems clear it must be a representation. How can this be? Going along the lines of the motor pathway, we could say something real interacts with the neurons in themselves, the information being processed in the cortex. But where is the action? What bridges the real to representation? No action can be understood properly. The question is: Where is the output? Where is the movement of the hand? Sure, brain activity is high in the occipital cortex when we are seeing. But how can that activity translate to vision? Perhaps, there is indeed an action and we are simply incapable of perceiving it in any way. We would still exist without perceiving it. We are most likely built to perceive what enhances our survival and not to perceive everything (all of reality). With representation must come the idea of illusion. The colors have such an essence, and we can never know why. It could never be described. Yellow is to green what 1 is to 0 and what this is to that. It seems as if at the fundamental level, our inability to describe the senses hints at them being simply information - different structures, which are differentiated. Are you telling me that fundamentally similar neurons, separate themselves into areas of different cognitions? The same gives rise to difference?
+
+How can I have access to the real? If I want to understand more about the real, I need to represent it (accepting the representation insight). Evolution surely made use of it. For there to be evolution and improvement of representation, the represented stuff must had come from somewhere. One thing is certain, the real living beings who represent (I’m only sure of myself) must be the product of an interaction between real structures which allowed for representing. Let’s not forget that this is a metaphysical problem.
+
+Why does consciousness exist? It seems like consciousness exists as a tool for constant learning about the world – updating its represented models. But how do some things become intuitive? How does that transition happen? How can I intuit, and turn unconscious some conscious tasks? In what way do both operations occur? Attention must be fundamentally different form language processing. Note: Consciousness is a very loose concept, which must be defined in some intuitive way and only then be discussed.
+
+What is the basal electrical state of a brain? How does it change in daily tasks? What other ways can be conceived for analysing brain activity which allows for a better temporal-spatial resolution? In what type of data should the brain be abstracted? What tools do we have for analysis of brain information flow? How many parameters are necessary to describe the brain? These refer to some of the most important computational, theoretical, and neuroimaging problems in neuroscience. Overall, all of these try to analyse the brain in better ways.
+
+How did that fundamental functional asymmetry arise in the cerebral cortex? If the left cortex is better suited for logical and abstract tasks, while the right hemisphere is more suited for more practical and intuitive tasks then how come that there is an anatomical symmetry between both regions of the cortex? At least this is so by looking from the outside at the brain; perhaps there is an asymmetry in terms of neuronal circuitry. To know more about brain cortical asymmetry (Duboc et al., 2015).
+
+## The large-scale integration problem
+
+How does the brain orchestrate the symphony of emotions, perceptions, thoughts, and actions that come together effortlessly from neural processes that are distributed across the brain? What are the neural mechanisms that select and coordinate this distributed brain activity to produce a flow of adapted and unified cognitive moments (Varela et al., 2001)? ([[#^footnote-51|Comment Unknown Author 51]])
+
+## The Astonishing Hypothesis
+
+The Astonishing Hypothesis claims that conscious experiences can be generated by packs of neurons, which are themselves cooked up from unconscious ingredients. It was expounded by Francis Crick in his book.
+
+## Conscious Realism
+
+Conscious realism makes a bold claim: consciousness, not spacetime and its objects, is fundamental reality and is properly described as a network of conscious agents.
+
+**DEFINITION**. A conscious agent, C, is a seven tuple C = (X, G, W, P, D, A, T), where X, G, and W are measurable spaces, P: W × X → X, D: X × G → G, and A: G × W → W, are Markovian kernels, and T is a totally ordered set.
+
+## Adaptive Resonance Theory (ART)
+
+The primary intuition behind the ART model is that object identification and recognition generally occur as a result of the interaction of 'top-down' observer expectations with 'bottom-up' sensory information.
+
+It departs from the classical circuit paradigm of neuroscience and sees neural networks (aggregations of neurons) as oscillations of activity which can propagate their own oscillations and interact with others.
+
+## Predictive Coding Model
