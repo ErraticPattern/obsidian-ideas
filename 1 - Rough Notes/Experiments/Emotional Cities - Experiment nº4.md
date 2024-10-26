@@ -12,7 +12,12 @@ aliases:
 ---
 ---
 # Description
+Data organization:
+- Motion-BIDS:
 
+| [[Optical Motion Tracking]] | [[Virtual Reality]] | [[inertial measurement units]] | [[global positioning system]] |
+| --------------------------- | ------------------- | ------------------------------ | ----------------------------- |
+| No                          | No                  | Yes                            | Yes                              |
 
 ---
 # Tasks
