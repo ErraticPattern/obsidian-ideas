@@ -1,22 +1,22 @@
 ---
 title: "Analyzing Neural Time Series Data: Theory and Practice"
-itemType: "book"
+itemType: book
 publicationTitle: ""
 bookTitle: ""
 seriesTitle: ""
-publisher: "The MIT Press"
-place: ""
+publisher: The MIT Press
+place: 
 volume: ""
 numberOfVolumes: ""
 issue: ""
 pages: ""
 edition: ""
-date: "2014-01-17"
+date: 2014-01-17
 DOI: ""
-ISBN: "978-0-262-31955-3"
+ISBN: 978-0-262-31955-3
 ISSN: ""
-url: "https://direct.mit.edu/books/monograph/4013/Analyzing-Neural-Time-Series-DataTheory-and"
-importance: 
+url: https://direct.mit.edu/books/monograph/4013/Analyzing-Neural-Time-Series-DataTheory-and
+importance: "9.7"
 status: incomplete
 tags:
   - article
