@@ -33,4 +33,5 @@
 - [ ] In the future create a query note that fetches all annotations by colors, such that I will have notes by quotes, ideas, methodologies, etc. (Maybe use the color hashtags).
 - [ ] Add also the word documents from my thesis.
 - [ ] Create scripts/functions for the `scans.tsv` and `sessions.tsv`. Make sure you also understand the `beh` folder better.
-- [ ] Have a meeting with Diego and ask him about the simultaneous-mri preprocessing of eeg, the statistical analysis he performed, and if he knows where the exp.4 data is. ⏫ 
+- [x] Have a meeting with Diego and ask him about the simultaneous-mri preprocessing of eeg, the statistical analysis he performed, and if he knows where the exp.4 data is. ⏫ ✅ 2024-10-27
+- [ ] Try to make NET work in MATLAB (Fork it). ⏫ 
