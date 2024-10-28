@@ -50,7 +50,7 @@ tags:
 {% if annotation.annotatedText %}
 {% if annotation.colorCategory | lower == 'green' %}
 {% set texts = annotation.annotatedText.split(',') %}
-> {% for text in texts %}[[{{ text | trim }}]]{% if not loop.last %}, {% endif %}{% endfor %}
+> {% for text in texts %}[[{{ text | trim | replace('/', '-') }}]]{% if not loop.last %}, {% endif %}{% endfor %}
 {% else %}
 > {{annotation.annotatedText}}
 {% endif %}
@@ -83,6 +83,18 @@ No annotations available.
 {% endfor %}
 {% else %}
 No notes available.
+{% endif %}
+
+### Collected Quotes
+
+{% if blue_annotations.length > 0 %}
+Here are all the blue-highlighted quotes:
+
+{% for quote in blue_annotations %}
+- {{ quote }}
+{% endfor %}
+{% else %}
+No blue-highlighted quotes available.
 {% endif %}
 
 {% persist "notes" %}
