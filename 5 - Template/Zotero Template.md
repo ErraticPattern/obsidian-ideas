@@ -85,18 +85,6 @@ No annotations available.
 No notes available.
 {% endif %}
 
-### Collected Quotes
-
-{% if blue_annotations.length > 0 %}
-Here are all the blue-highlighted quotes:
-
-{% for quote in blue_annotations %}
-- {{ quote }}
-{% endfor %}
-{% else %}
-No blue-highlighted quotes available.
-{% endif %}
-
 {% persist "notes" %}
 {% if isFirstImport %}
 <!-- Write your personal notes here -->
