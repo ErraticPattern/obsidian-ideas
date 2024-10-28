@@ -18,7 +18,7 @@ id:
 ## Definition
 FAA was derived by subtracting the logarithmic alpha power at electrode F4 (right frontal hemisphere) from F4 (left frontal hemisphere), i.e. F4–F3. ([[mavrosMobileEEGStudy2022]])
 ## Associations
-+ Positive affect/approach [[Motivation]]
++ Positive affect/[[Approach motivation]]
 ## Interpretation
 + More FAA is associate with approach motivation. For example, [[mavrosMobileEEGStudy2022]] showed that there is higher FAA for outdoor spaces in relation to indoor ones, suggesting an impetus to engage in *movement*.
 >[!quote]

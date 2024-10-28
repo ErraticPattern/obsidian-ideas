@@ -21,6 +21,7 @@ id:
 + [[Cognitive Load]]
 + [[Attention-deficit hyperactivity disorder]] (see [[#^09aa3e|this neuroelectrics webinar]])
 There is an increase in TBR during rest.
++ [[mind  wandering]]
 
 
 ---
