@@ -1,7 +1,7 @@
 # Annotations  
 (26/05/2024, 13:38:40)
 
-[Go to annotation](zotero://open-pdf/library/items/4AP95GYQ?page=2&annotation=8RBS4N25) “SAM is a scale that measures the dimensions of pleasure, arousal and dominance (also called “PAD”) using a series of graphic abstract characters horizontally arranged according to a 9-points scale (even though 5-, 7-points and other variants exist).” ([Betella and Verschure, 2016, p. 2](zotero://select/library/items/WZ23S5CE))
+[Go to annotation](zotero://open-pdf/library/items/4AP95GYQ?page=2&annotation=8RBS4N25) “SAM is a scale that measures the dimensions of pleasure, [[Arousal|arousal]] and [[dominance]] (also called “PAD”) using a series of graphic abstract characters horizontally arranged according to a 9-points scale (even though 5-, 7-points and other variants exist).” ([Betella and Verschure, 2016, p. 2](zotero://select/library/items/WZ23S5CE))
 
 ![](NX82KPCE.png)  
 [Go to annotation](zotero://open-pdf/library/items/4AP95GYQ?page=2&annotation=NX82KPCE)  

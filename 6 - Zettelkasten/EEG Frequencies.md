@@ -14,7 +14,7 @@ id:
 
 ---
 # EEG Frequencies
-*[[Alpha State]] rhythms, like most EEG phenomena, typically exhibit an inverse relationship between amplitude and frequency. For example, hyperventilation and some drugs (alcohol, for example) may cause reductions of alpha frequencies together with increased amplitudes. Other drugs (barbiturates, for example) are associated with increased amplitude of low-amplitude beta activity superimposed on scalp alpha rhythms* (Nunez and Srinivasan, Electric Fields of the Brain).
+*[[Alpha State]] rhythms, like most [[EEG]] phenomena, typically exhibit an inverse relationship between amplitude and frequency. For example, hyperventilation and some drugs (alcohol, for example) may cause reductions of alpha frequencies together with increased amplitudes. Other drugs (barbiturates, for example) are associated with increased amplitude of low-amplitude beta activity superimposed on scalp alpha rhythms* (Nunez and Srinivasan, Electric Fields of the Brain).
 
 ---
 # Notes

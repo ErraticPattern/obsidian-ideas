@@ -130,7 +130,7 @@ tags:
 
 
 
-**Comment**: Understand what EEG is and why it is preferred over ECoG (for now at least!). Its limitations include the spatial spreading of activity and the fact that it is comprised of superimposed coherent activity at the scale of centimeters.
+**Comment**: Understand what [[EEG]] is and why it is preferred over [[ECoG]] (for now at least!). Its limitations include the spatial spreading of activity and the fact that it is comprised of superimposed coherent activity at the scale of centimeters.
 
 
 - **Color**: #ffd400 (Yellow)
@@ -172,7 +172,7 @@ tags:
 
 
 
-**Comment**: Check this page in order to know general information about: cortical surface area, number of neurons, axons, interconnecting fibers and types of synaptic potentials.
+**Comment**: Check this page in order to know general information about: cortical surface area, number of neurons, axons, interconnecting fibers and types of [[Synaptic Potentials|synaptic potentials]].
 
 
 - **Color**: #ffd400 (Yellow)
