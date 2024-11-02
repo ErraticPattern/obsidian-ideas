@@ -31,8 +31,8 @@ PublishDate:: 242024-08-02
 - [ ] Hans Berger 
 - [ ] Renshaw, Forbes and Morison that inserted these glass micro electrodes into the cortex and recorded single neurons.
 - [ ]  These two scientists, Hodgkin and Huxley showed up and they built this beautiful, beautiful models of the cell membrane and the ionic mechanism, and had these circuit diagram.
-- [ ] So in 1969, Eb Fetz from University of Washington published this beautiful paper called Operant Conditioning of Cortical Unit Activity, where he was able to record a single unit neuron from a monkey and was able to have the monkey modulated based on its activity and reward system.
-- [ ] Christof Koch’s lab
+- [ ] So in 1969, Eb Fetz from University of Washington published this beautiful paper called Operant Conditioning of Cortical Unit Activity, where he was able to record a single unit [[Neuron|neuron]] from a monkey and was able to have the monkey modulated based on its activity and reward system.
+- [ ] [[Christof Koch]]’s lab
 - [ ] [[Utah Array]]
 ---
 >[!quote]
