@@ -17,7 +17,7 @@ id:
 # General Linear Modeling
 
 >[!quote]
-> For [[EEG]] and [[MEG]] analysis it is customary to use averaging to obtain ERPs/ERFs, whereas for fMRI it is customary to use GLMs. [[NIRS]] data falls a bit in between regarding the temporal characteristics of the acquisition system, which can be quite fast, and the characteristics of the physiological response, which is just as sluggish as the [[BOLD Signal]] response. Consequently for NIRS data both averaging approaches are used (e.g., in the tutorials for single-channel and multi-channel NIRS data) and GLM approaches are used.
+> For [[EEG]] and [[MEG]] analysis it is customary to use averaging to obtain ERPs/ERFs, whereas for fMRI it is customary to use GLMs. [[fNIRS]] data falls a bit in between regarding the temporal characteristics of the acquisition system, which can be quite fast, and the characteristics of the physiological response, which is just as sluggish as the [[BOLD Signal]] response. Consequently for NIRS data both averaging approaches are used (e.g., in the tutorials for single-channel and multi-channel NIRS data) and GLM approaches are used.
 ---
 # Notes
 

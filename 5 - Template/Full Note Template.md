@@ -34,6 +34,11 @@ _%>
 ---
 # Notes
 
+## Definition
+
+## Associations
+
+## Interpretaion
 
 ---
 ## Links

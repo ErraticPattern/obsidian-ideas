@@ -1,11 +1,4 @@
-### Cerebrum
-
-It is composed of 2 hemispheres, divided by the longitudinal fissure. It contains a cortex (grey matter), with 6 cortical layers, in depth. The cortex can be divided into lobes.
-
-![Diagram  Description automatically generated](<2 - Source Material/Masters/attachments/Diagram  Description automatically generated.png>)
-
-Figure 26. Overview of cortical lobes.
-
+[[Cerebrum 1]]
 #### Frontal (executive functions and motor control)
 
 ##### Precentral Gyrus
