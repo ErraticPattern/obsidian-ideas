@@ -9,7 +9,7 @@ id:
 ---
 
 ## Parent note
-[[Brain structures]]---
+[[Brain anatomy]]---
 ## Backlinking
 
 

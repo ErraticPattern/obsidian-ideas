@@ -4,7 +4,7 @@
 
 [[Imaging techniques]]
 
-[[Brain structures]]
+[[Brain anatomy]]
 
 [[Central nervous system]]
 

@@ -6,24 +6,7 @@
 
 - Encephalitis lethargica
 
-### Brain Tumours
-
-The most common type of tumour comes from neuroepithelial tissue. Its origin is associated with immature precursor cells. The 2 main types are diffuse gliomas and neuronal or mixed glioneuronal tumours.
-
-Anaplastic classification of diffuse gliomas:
-
-- Grade I
-- Grade II
-- Grade III
-- Grade IV
-
- ![Diagram  Description automatically generated](<2 - Source Material/Masters/attachments/Diagram  Description automatically generated 19.png>)
-
-Figure 142. Classification of gliomas based on genetic factors (van der Meulen M et al. Neurology (2022); 99(20): 903-908).
-
-![](<2 - Source Material/Masters/attachments/Attachment 161.png>)
-
-Figure 143. Origin of gliomas. Oligodendrogliomas do not come from NSCs. The most malign gliomas localize in subependymal areas.
+[[Brain Tumors]]
 
 ### Epilepsy
 
@@ -259,29 +242,7 @@ Figure 152. Atherosclerosis leading to an occlusion.
 
 Figure 153. Aneurysms preferentially blossom in the Circle of Willis, with the anterior communicating artery being the most common location for rupture. The posterior communicating artery is the second most common site. Saccular aneurysms are more likely than fusiform to rupture.
 
-### Addiction/Use Disorder
-
-While it is a disorder mainly associated with an environmental component, there can also exist genetic contribution to it.
-
-Examples of genetic contribution include:
-
-- CYP2A6 mutation (Cytochrome p450)– dysregulates nicotine metabolism.
-- Mutation in Fatty acid amide hydrolase (FAAD) – endogenous cannabinoid regulator.
-- Mu-opioid receptor mutation – heroin addiction.
-
-Drugs of abuse (see neuropharmacology section) are known to cause an abnormal increase of dopamine release in the dopaminergic pathways, leading to a very strong association between reward and the drug. The release of dopamine in the NAcc due to activation of the VTA causes feelings of pleasure.
-
-Addiction mechanism are also dependent on other neurotransmitters such as GABA and glutamate. Glutamate is involved in the learning of addiction. Furthermore, GABAergic neurons produce dynorphin, which serves as a negative feedback mechanism in this circuit: Dynorphin, released from terminals of the NAcc neurons, acts on κ opioid receptors, located on DA neurons, to inhibit their functioning.
-
-![A diagram of a brain  Description automatically generated](<2 - Source Material/Masters/attachments/A diagram of a brain  Description automatically generated 2.png>)
-
-Besides, there is also a hijacking of synaptic plasticity mechanisms which leads to highly stable and fortified synapses responsible for the formation of prevalent drug-associated memories.
-
-Long-term effects of drug consumption depend on the activation of transcription factors. Some of the most important ones are the cAMP response element-binding (CREB) protein, which is upregulated by the activation of Gs dopamine receptors, ΔFosB and nuclear factor kB (NFkB). These are known to mediate changes in the cytoskeleton, leading to dendritic spine formation.
-
-![A diagram of a cell division  Description automatically generated](<2 - Source Material/Masters/attachments/A diagram of a cell division  Description automatically generated.png>)
-
-ΔFosB is extremely stable and has a gradual and progressive rise in concentration after drug consumption. Due to its stability, it effects changes during long periods of time. Furthermore, ΔFosB is known to mimic the effect of dendritic sprouting observed in cases of drug of abuse consumption. Therefore, ΔFosB might be responsible for the hypersensibility to drugs and intransigence of addiction.
+##[[Addiction-Use Disorder]]
 
 ### Other Syndromes
 
