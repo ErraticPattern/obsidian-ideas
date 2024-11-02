@@ -38,7 +38,7 @@ _%>
 
 ## Associations
 
-## Interpretaion
+## Interpretation
 
 ---
 ## Links

@@ -201,6 +201,27 @@ tags:
 
 
 
+#### Page 8
+
+
+
+
+![](<0 - Supplementary/images/teremRevealingSubvoxelMotions2018.md/image-8-x42-y51.png>)
+
+
+
+> *(No annotated text)*
+
+
+
+
+- **Color**: #ffd400 (Yellow)
+- **Date**: 2024-11-02 8:10 pm
+
+---
+
+
+
 
 
 ### Notes
@@ -255,7 +276,7 @@ Terem, I., Ni, W. W., Goubran, M., Rahimi, M. S., Zaharchuk, G., Yeom, K. W., Mo
 
 - #amplified_mri
 
-- #balanced_steady-state_free_precession_bssfp
+- #balanced_steady-state_free_precession_(bssfp)
 
 - #cardiac-gated
 
@@ -306,7 +327,5 @@ Terem, I., Ni, W. W., Goubran, M., Rahimi, M. S., Zaharchuk, G., Yeom, K. W., Mo
 
 
 
-<!-- Any additional notes or comments -->
 
-
-%% Import Date: 2024-11-02T19:40:50.380+00:00 %%
+%% Import Date: 2024-11-02T20:11:00.264+00:00 %%

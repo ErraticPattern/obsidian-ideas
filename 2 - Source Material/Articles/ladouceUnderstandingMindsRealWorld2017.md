@@ -218,7 +218,14 @@ No notes available.
 
 %% begin notes %%
 
-<!-- Write your personal notes here -->
+### Bookmark
+
+- **Bookmark**: Page <!-- Specify the page number or section -->
+- **Status**: #incomplete
+- **Relevance**: 7.6
+## Commentaries
+
+
 
 %% end notes %%
 
@@ -300,4 +307,4 @@ Ladouce, S., Donaldson, D. I., Dudchenko, P. A., & Ietswaart, M. (2017). Underst
 
 
 
-%% Import Date: 2024-11-02T00:06:00.576+00:00 %%
+%% Import Date: 2024-11-02T20:11:00.253+00:00 %%
