@@ -1,5 +1,5 @@
 ## Peripheral nervous system
-
+![[A-model-of-the-human-nervous-system-by-Rufus-Benjamin-Weaver..jpg]]
 ### Cranial nerves (12 pairs)
 
 Innervate head and neck.
