@@ -21,7 +21,6 @@ status: complete
 tags:
   - article
 ---
-
 ## Rigor and replication in time-frequency analyses of cognitive electrophysiology data
 
 ### Table of Contents
