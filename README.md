@@ -57,6 +57,8 @@ Installed `Tesseract-OCR` to perform text recognition (OCR = optical character r
 ## Using *Templater*
 To use a template from *templater* you have to create a note from *templater*. You can use the hotkey `Alt+N` to create a new note with the template. To apply the template to an existing note search for it using `Ctrl+P` or use the templater icon in the top-left corner. Using templater you can:
 + Create lab notes.
+### Using *Git*
+Initiate a git repository in you obsidian folder. If it fails to push your commits than it is most likely due to a problem in permission. Most likely you have another associated account other than the one which is associated with the remote repository. To solve this go on `Manage Windows Credentials` and input your correct credentials in the Github section.
 ## Using *Tasks*
 Use tasks to organize future assignments.
 ## Linking Notes

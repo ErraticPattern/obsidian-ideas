@@ -26,7 +26,7 @@ Figure 52. The unfolded cerebellum.
 - Golgi cells (these inhibit the granular cells)
 - Granular cells (only excitatory neuron from cerebellum)
 
-#### Afferent connections ([[#^footnote-11|Comment Unknown Author 11]])
+#### Afferent connections
 
 - Climbing fibers (Each fiber establishes multiple synapses with only one Purkinje cell, as well as with the stellate and basket cells) – these come from the olivo-cerebellar tracts (from inferior olivary nucleus); these are monosynaptic.
 

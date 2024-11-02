@@ -1,6 +1,6 @@
 ## Central nervous system
 
-[[Cerebrum 1]]
+[[Cerebrum]]
 
 [[Limbic system]]
 
