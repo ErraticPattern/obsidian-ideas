@@ -28,8 +28,8 @@
 - [ ] Create a template github repository to easily start new studies with the default folders and files. Have a README file explaining the rules.
 - [ ] Check scripts on github (e.g. simulatneous eeg and et, eeg and fmri)
 - [ ] Create a script that gets demogprahic information based on BIDS organization.
-- [ ] Make the transition from matlab to python by translating the scripts. Use AI to help. Try using python standards of filenames, functions, and scripts while also trying to maintain the standards I adopted in matlab.
-- [ ] Update Zotero Template to hyperlink yaml fields. Also create a template for journals.
+- [ ] Make the transition from matlab to python by translating the scripts. Use AI to help. Try using python standards of filenames, functions, and scripts while also trying to maintain the standards I adopted in matlab. ⏬ 
+- [x] Update Zotero Template to hyperlink yaml fields. Also create a template for journals. ✅ 2024-11-03
 - [ ] In the future create a query note that fetches all annotations by colors, such that I will have notes by quotes, ideas, methodologies, etc. (Maybe use the color hashtags).
 - [ ] Add also the word documents from my thesis.
 - [ ] Create scripts/functions for the `scans.tsv` and `sessions.tsv`. Make sure you also understand the `beh` folder better.
