@@ -48,23 +48,7 @@ Dentate gyrus has 3 layers:
 - Granular layer
 - Polymorphic layer
 
-#### Hippocampal formation
-
-Memory formation. Inferior to the lateral ventricle.
-
-![](<2 - Source Material/Masters/attachments/Attachment 28.png>)
-
-It contains 3 layers:
-
-- Molecular layer
-- Pyramidal layer
-- Polymorphic layer
-
-Internal circuitry: entorhinal cortex→ dentate gyrus→ CA3→ CA1 → subiculum→ entorhinal cortex.
-
-![](<2 - Source Material/Masters/attachments/Attachment 29.png>)
-
-Major external circuit (Papez circuit): hippocampus→ fornix→ mammillary bodies→ anterior nucleus of thalamus→ cingulate cortex→ temporal cortex→ hippocampus
+[[Hippocampus]]
 
 #### Amygdaloid nucleus
 

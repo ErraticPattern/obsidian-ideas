@@ -57,17 +57,83 @@ Installed `Tesseract-OCR` to perform text recognition (OCR = optical character r
 ## Using *Templater*
 To use a template from *templater* you have to create a note from *templater*. You can use the hotkey `Alt+N` to create a new note with the template. To apply the template to an existing note search for it using `Ctrl+P` or use the templater icon in the top-left corner. Using templater you can:
 + Create lab notes.
-### Using *Git*
+## Using *Git*
 Initiate a git repository in you obsidian folder. If it fails to push your commits than it is most likely due to a problem in permission. Most likely you have another associated account other than the one which is associated with the remote repository. To solve this go on `Manage Windows Credentials` and input your correct credentials in the Github section.
+## Using *Canvas*
+Use this tool to create workflows. It is useful for planning paper and thesis writing. It might be useful to share your canvas outside obsidian. For this you can export to `html` using the following code on the developer's console:
+```
+// Get a copy of the canvas content element
+let view = app.workspace.activeLeaf.view;
+if (view.getViewType() !== "canvas") {
+  throw new Error("The active view is not a canvas");
+}
+let content = view.contentEl.cloneNode(true);
+
+// Remove the canvas background dots
+content.querySelector(".canvas-background").remove();
+
+// Remove the canvas UI controls
+content.querySelector(".canvas-card-menu").remove();
+content.querySelector(".canvas-controls").remove();
+
+// Remove the canvas node labels (image filenames)
+content.querySelectorAll(".canvas-node-label").forEach((el) => el.remove());
+
+// Get all the CSS, except for print styles
+// https://developer.mozilla.org/en-US/docs/Web/API/StyleSheetList#get_all_css_rules_for_the_document_using_array_methods
+let allCSS = [...document.styleSheets]
+  .map((styleSheet) =>
+    [...styleSheet.cssRules]
+      .map((rule) => rule.cssText)
+      .filter((cssText) => !cssText.includes("@media print")) // No print styles
+      .join("\n")
+  )
+  .join("\n");
+
+// Global regex matches app:// followed by any characters except /
+let pattern = /app:\/\/[^\/]*/g;
+
+// Generate HTML & CSS. Remove any app:// prefixes from URLs.
+let html = `
+<!DOCTYPE HTML>
+<html>
+<head>
+<style>
+${allCSS}
+/* Use exact colors for card backgrounds and bullets */
+body { -webkit-print-color-adjust: exact; print-color-adjust: exact; }
+</style>
+</head>
+<body class="${document.querySelector("body").className}">
+${content.outerHTML}
+</body>
+</html>`.replaceAll(pattern, "");
+
+// Save html file
+let filename = "canvas-export.html";
+existingFile = app.vault.getAbstractFileByPath(filename);
+if (existingFile) {
+  app.vault.delete(existingFile);
+}
+app.vault.create(filename, html);
+
+console.log("Open this file in your browser and print to PDF:");
+console.log(`${app.vault.adapter.basePath}/${filename}`);
+```
+Another option is to use the `Canvas2Document` plugin.
 ## Using *Tasks*
 Use tasks to organize future assignments.
-## Linking Notes
+## Using *Advanced Tables*
+Don't forget to enable source mode otherwise hitting tab will only indent the current row. You can also export as a `csv` file by copying the formatted text to a file and importing from excel.
+# Linking Notes
 **Inside Vaults:**
 You can use the Note Linker plugin to automatically create backlinks between notes. 
 **Between Vaults:**
 Furthermore, it is possible to link notes between vaults using the Advanced URI plugin. This can be done by adding the URI link or dragging the note to the vault.
-## Using *Advanced Tables*
-Don't forget to enable source mode otherwise hitting tab will only indent the current row. You can also export as a `csv` file by copying the formatted text to a file and importing from excel.
+## Using *Virtual Linker / Glossary*
+This plugin is extremely useful for backlinking since it automatically searches and matches words in the body text to other notes.
+## Using *Omnisearch*
+Useful plugin for vaults with a large number of notes. It easily queries your notes for keywords and does it in a better way compared with the default option. 
 
 ---
 # To do

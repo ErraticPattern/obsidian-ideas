@@ -328,7 +328,7 @@ tags:
 
 
 
-> [[brain]]
+> [[Brain]]
 
 
 

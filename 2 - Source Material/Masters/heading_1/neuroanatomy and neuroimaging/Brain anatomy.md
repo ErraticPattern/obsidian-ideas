@@ -23,6 +23,7 @@ Figure 25. Etymology of the brain structures’ denomination.
 - [Google Search](https://www.google.com/search?q=Brain+anatomy)
 
 ## Backlinking
-+ 
++ [[Corpus Callosum]]
++ [[Primary Motor Cortex]]
 ## References
-+ 
++ http://helpthereisabraininmyhead.com/brain-atlas
