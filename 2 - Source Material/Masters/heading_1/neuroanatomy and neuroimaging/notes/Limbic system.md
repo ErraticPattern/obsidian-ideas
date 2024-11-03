@@ -62,7 +62,7 @@ Pleasure zone in brain of rats
 
 #### Fibers
 
-- Alveus -> Fimbria -> Crus of Fornix -> Fornix (afferent and, mostly, efferent pathways of hippocampus); fornix is connected by the commissure of the fornix
+- Alveus -> Fimbria -> Crus of Fornix -> Fornix (afferent and, mostly, efferent pathways of [[hippocampus]]); fornix is connected by the commissure of the fornix
 - Stria terminalis
 - Mammillothalamic tract
 
