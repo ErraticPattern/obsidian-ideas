@@ -4,4 +4,4 @@ There are two main EEG configurations which standardize electrode placement: the
 
 ![A diagram of a helmet  Description automatically generated](<2 - Source Material/Masters/attachments/A diagram of a helmet  Description automatically generated.png>)
 
-Figure 90. Different EEG configurations. Left The standard 1020 system. Right The Standard 1010 system.
+Figure 90. Different EEG configurations. Left The standard 10-20 system. Right The Standard 10-10 system.
