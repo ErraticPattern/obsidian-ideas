@@ -37,6 +37,28 @@ tags:
 
 
 
+#### Page 3
+
+
+
+
+
+
+
+
+> [[random-dot direction discrimination task]]
+
+
+
+
+
+- **Color**: #5fb236 (Green)
+- **Date**: 2024-11-04 3:37 pm
+
+---
+
+
+
 #### Page 17
 
 
@@ -93,6 +115,362 @@ tags:
 
 - **Color**: #5fb236 (Green)
 - **Date**: 2024-10-27 10:48 pm
+
+---
+
+
+
+#### Page 22
+
+
+
+
+
+
+
+
+> [[direction discrimination task]]
+
+
+
+
+
+- **Color**: #5fb236 (Green)
+- **Date**: 2024-11-04 3:37 pm
+
+---
+
+
+
+#### Page 23
+
+
+
+
+
+
+
+
+> [[psychophysiological analysis]]
+
+
+
+
+
+- **Color**: #5fb236 (Green)
+- **Date**: 2024-11-04 3:38 pm
+
+---
+
+
+
+#### Page 24
+
+
+
+
+![](<0 - Supplementary/images/ghermanHumanVMPFCEncodes2018.md/image-24-x269-y704.png>)
+
+
+
+> *(No annotated text)*
+
+
+
+
+- **Color**: #a28ae5 (Purple)
+- **Date**: 2024-11-04 3:38 pm
+
+---
+
+
+
+#### Page undefined
+
+
+
+
+
+
+
+
+> [[adaptive behaviour]]
+
+
+
+
+
+- **Color**: #5fb236 (Green)
+- **Date**: 2024-11-04 3:36 pm
+
+---
+
+
+
+
+
+
+
+
+> [[perceptual decision making]]
+
+
+
+
+
+- **Color**: #5fb236 (Green)
+- **Date**: 2024-11-04 3:40 pm
+
+---
+
+
+
+
+
+
+
+
+> [[metacognitive evaluation]]
+
+
+
+
+
+- **Color**: #5fb236 (Green)
+- **Date**: 2024-11-04 3:40 pm
+
+---
+
+
+
+
+
+
+
+
+> [[lateral anterior cingulate prefrontal cortex]]
+
+
+
+
+
+- **Color**: #5fb236 (Green)
+- **Date**: 2024-11-04 3:41 pm
+
+---
+
+
+
+
+
+
+
+
+> [[anterior cingulate prefrontal cortex]]
+
+
+
+
+
+- **Color**: #5fb236 (Green)
+- **Date**: 2024-11-04 3:41 pm
+
+---
+
+
+
+
+
+
+
+> Concurrently, psychophysiological work in humans and non-human primates using time-resolved measurements has shown that confidence encoding can also be observed at earlier stages, and as early as the decision process itself
+
+
+
+
+
+- **Color**: #ff6666 (Red)
+- **Date**: 2024-11-04 3:44 pm
+
+---
+
+
+
+
+
+
+
+
+> [[humans]]
+
+
+
+
+
+- **Color**: #5fb236 (Green)
+- **Date**: 2024-11-04 3:41 pm
+
+---
+
+
+
+
+
+
+
+
+> [[non-human primates]]
+
+
+
+
+
+- **Color**: #5fb236 (Green)
+- **Date**: 2024-11-04 3:41 pm
+
+---
+
+
+
+
+
+
+
+
+> [[striatum]]
+
+
+
+
+
+- **Color**: #5fb236 (Green)
+- **Date**: 2024-11-04 3:44 pm
+
+---
+
+
+
+
+
+
+
+
+> [[dorsomedial prefrontal cortex]]
+
+
+
+
+
+- **Color**: #5fb236 (Green)
+- **Date**: 2024-11-04 3:44 pm
+
+---
+
+
+
+
+
+
+
+
+> [[cingulate cortex]]
+
+
+
+
+
+- **Color**: #5fb236 (Green)
+- **Date**: 2024-11-04 3:44 pm
+
+---
+
+
+
+
+
+
+
+
+> [[insular cortex]]
+
+
+
+
+
+- **Color**: #5fb236 (Green)
+- **Date**: 2024-11-04 3:45 pm
+
+---
+
+
+
+
+
+
+
+
+> [[prefrontal cortex]]
+
+
+
+
+
+- **Color**: #5fb236 (Green)
+- **Date**: 2024-11-04 3:45 pm
+
+---
+
+
+
+
+
+
+
+
+> [[parietal cortex]]
+
+
+
+
+
+- **Color**: #5fb236 (Green)
+- **Date**: 2024-11-04 3:45 pm
+
+---
+
+
+
+
+
+
+
+
+> [[occipital cortex]]
+
+
+
+
+
+- **Color**: #5fb236 (Green)
+- **Date**: 2024-11-04 3:46 pm
+
+---
+
+
+
+
+
+
+
+
+> [[ventromedial prefrontal cortex]]
+
+
+
+
+
+- **Color**: #5fb236 (Green)
+- **Date**: 2024-11-04 3:45 pm
 
 ---
 
@@ -191,7 +569,5 @@ Gherman, S., & Philiastides, M. G. (2018). Human VMPFC encodes early signatures 
 
 
 
-<!-- Any additional notes or comments -->
 
-
-%% Import Date: 2024-10-27T22:50:43.857+00:00 %%
+%% Import Date: 2024-11-04T15:47:16.900+00:00 %%
