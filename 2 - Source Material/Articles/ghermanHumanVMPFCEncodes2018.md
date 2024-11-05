@@ -37,6 +37,117 @@ tags:
 
 
 
+#### Page 2
+
+
+
+
+
+
+
+
+> [[EEG]]
+
+
+
+
+
+- **Color**: #5fb236 (Green)
+- **Date**: 2024-11-04 3:59 pm
+
+---
+
+
+
+
+
+
+
+> exploit the trial-by-trial variability in these signals to build parametric EEG-informed fMRI predictors
+
+
+
+
+
+- **Color**: #ffd400 (Yellow)
+- **Date**: 2024-11-04 3:59 pm
+
+---
+
+
+
+
+
+
+
+
+> [[depression]]
+
+
+
+
+
+- **Color**: #5fb236 (Green)
+- **Date**: 2024-11-04 3:49 pm
+
+---
+
+
+
+
+
+
+
+
+> [[schizophrenia]]
+
+
+
+
+
+- **Color**: #5fb236 (Green)
+- **Date**: 2024-11-04 3:50 pm
+
+---
+
+
+
+
+
+
+
+
+> [[Parkinson’s disease]]
+
+
+
+
+
+- **Color**: #5fb236 (Green)
+- **Date**: 2024-11-04 3:50 pm
+
+---
+
+
+
+
+
+
+
+
+> [[decision-making]]
+
+
+
+
+
+- **Color**: #5fb236 (Green)
+- **Date**: 2024-11-04 3:50 pm
+
+---
+
+
+
 #### Page 3
 
 
@@ -54,6 +165,150 @@ tags:
 
 - **Color**: #5fb236 (Green)
 - **Date**: 2024-11-04 3:37 pm
+
+---
+
+
+
+
+
+
+
+> multivariate single-trial classifier to discriminate between High vs. Low confidence trials in the EEG data
+
+
+
+
+
+- **Color**: #a28ae5 (Purple)
+- **Date**: 2024-11-04 4:01 pm
+
+---
+
+
+
+
+
+
+
+
+> [[accumulation-to-bound model]]
+
+
+
+
+
+- **Color**: #5fb236 (Green)
+- **Date**: 2024-11-04 4:01 pm
+
+---
+
+
+
+
+
+
+
+
+> [[speeded perceptual discrimination task]]
+
+
+
+
+
+- **Color**: #5fb236 (Green)
+- **Date**: 2024-11-04 4:03 pm
+
+---
+
+
+
+
+
+
+
+> speeded perceptual discrimination task whereby they were asked to judge the motion direction of random dot kinematograms (left vs. right), and rate their confidence in each choice on a 9-point scale
+
+
+
+
+
+- **Color**: #a28ae5 (Purple)
+- **Date**: 2024-11-04 4:03 pm
+
+---
+
+
+
+
+
+
+
+> confidence is largely known to scale positively with decision accuracy and negatively with response time
+
+
+
+
+
+- **Color**: #ff6666 (Red)
+- **Date**: 2024-11-04 4:06 pm
+
+---
+
+
+
+
+
+
+
+
+> [[serial autocorrelation regression]]
+
+
+
+
+
+- **Color**: #5fb236 (Green)
+- **Date**: 2024-11-05 12:02 pm
+
+---
+
+
+
+
+
+
+
+
+> [[single-trial multivariate classifier]]
+
+
+
+
+
+- **Color**: #5fb236 (Green)
+- **Date**: 2024-11-05 12:13 pm
+
+---
+
+
+
+#### Page 4
+
+
+
+
+![](<0 - Supplementary/images/ghermanHumanVMPFCEncodes2018.md/image-4-x22-y283.png>)
+
+
+
+> *(No annotated text)*
+
+
+
+
+- **Color**: #a28ae5 (Purple)
+- **Date**: 2024-11-05 12:13 pm
 
 ---
 
@@ -452,7 +707,7 @@ tags:
 
 
 - **Color**: #5fb236 (Green)
-- **Date**: 2024-11-04 3:46 pm
+- **Date**: 2024-11-04 3:48 pm
 
 ---
 
@@ -570,4 +825,4 @@ Gherman, S., & Philiastides, M. G. (2018). Human VMPFC encodes early signatures 
 
 
 
-%% Import Date: 2024-11-04T15:47:16.900+00:00 %%
+%% Import Date: 2024-11-05T18:35:21.375+00:00 %%
