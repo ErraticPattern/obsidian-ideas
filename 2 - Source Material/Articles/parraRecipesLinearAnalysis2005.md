@@ -179,7 +179,16 @@ No notes available.
 
 %% begin notes %%
 
-<!-- Write your personal notes here -->
+### Bookmark
+
+- **Bookmark**: Page <!-- Specify the page number or section -->
+- **Status**: #incomplete
+- **Relevance**: 7.4
+## Commentaries
+
+$$
+y(t)=\mathbf{w}^{T}\mathbf{x}(t)=\sum_{i=1}^{D}w_{i}x_{i}(t).
+$$
 
 %% end notes %%
 
