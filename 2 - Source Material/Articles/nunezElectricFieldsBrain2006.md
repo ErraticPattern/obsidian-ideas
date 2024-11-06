@@ -54,7 +54,7 @@ tags:
 
 
 - **Color**: #ffd400 (Yellow)
-- **Date**: 2024-07-13 1:33 pm
+- **Date**: 2024-10-25 8:47 pm
 
 ---
 
@@ -75,7 +75,7 @@ tags:
 
 
 - **Color**: #ffd400 (Yellow)
-- **Date**: 2024-07-13 1:35 pm
+- **Date**: 2024-10-25 8:47 pm
 
 ---
 
@@ -96,7 +96,7 @@ tags:
 
 
 - **Color**: #ffd400 (Yellow)
-- **Date**: 2024-07-13 1:51 pm
+- **Date**: 2024-10-25 8:47 pm
 
 ---
 
@@ -117,7 +117,7 @@ tags:
 
 
 - **Color**: #ffd400 (Yellow)
-- **Date**: 2024-07-13 1:49 pm
+- **Date**: 2024-10-25 8:47 pm
 
 ---
 
@@ -130,11 +130,11 @@ tags:
 
 
 
-**Comment**: Understand what [[EEG]] is and why it is preferred over [[ECoG]] (for now at least!). Its limitations include the spatial spreading of activity and the fact that it is comprised of superimposed coherent activity at the scale of centimeters.
+**Comment**: Understand what EEG is and why it is preferred over ECoG (for now at least!). Its limitations include the spatial spreading of activity and the fact that it is comprised of superimposed coherent activity at the scale of centimeters.
 
 
 - **Color**: #ffd400 (Yellow)
-- **Date**: 2024-07-13 1:48 pm
+- **Date**: 2024-10-25 8:47 pm
 
 ---
 
@@ -155,7 +155,7 @@ tags:
 
 
 - **Color**: #ffd400 (Yellow)
-- **Date**: 2024-07-14 9:21 pm
+- **Date**: 2024-10-25 8:47 pm
 
 ---
 
@@ -172,11 +172,11 @@ tags:
 
 
 
-**Comment**: Check this page in order to know general information about: cortical surface area, number of neurons, axons, interconnecting fibers and types of [[Synaptic Potentials|synaptic potentials]].
+**Comment**: Check this page in order to know general information about: cortical surface area, number of neurons, axons, interconnecting fibers and types of synaptic potentials.
 
 
 - **Color**: #ffd400 (Yellow)
-- **Date**: 2024-07-14 9:29 pm
+- **Date**: 2024-10-25 8:47 pm
 
 ---
 
@@ -193,7 +193,7 @@ tags:
 
 
 - **Color**: #ffd400 (Yellow)
-- **Date**: 2024-07-14 9:31 pm
+- **Date**: 2024-10-25 8:47 pm
 
 ---
 
@@ -214,7 +214,7 @@ tags:
 
 
 - **Color**: #ffd400 (Yellow)
-- **Date**: 2024-07-14 9:31 pm
+- **Date**: 2024-10-25 8:47 pm
 
 ---
 
@@ -235,7 +235,7 @@ tags:
 
 
 - **Color**: #ffd400 (Yellow)
-- **Date**: 2024-07-14 9:35 pm
+- **Date**: 2024-10-25 8:47 pm
 
 ---
 
@@ -252,7 +252,7 @@ tags:
 
 
 - **Color**: #ffd400 (Yellow)
-- **Date**: 2024-07-14 10:03 pm
+- **Date**: 2024-10-25 8:47 pm
 
 ---
 
@@ -269,7 +269,7 @@ tags:
 
 
 - **Color**: #ffd400 (Yellow)
-- **Date**: 2024-07-14 10:59 pm
+- **Date**: 2024-10-25 8:47 pm
 
 ---
 
@@ -286,7 +286,7 @@ tags:
 
 
 - **Color**: #ffd400 (Yellow)
-- **Date**: 2024-07-14 10:59 pm
+- **Date**: 2024-10-25 8:47 pm
 
 ---
 
@@ -307,7 +307,7 @@ tags:
 
 
 - **Color**: #ffd400 (Yellow)
-- **Date**: 2024-07-14 11:03 pm
+- **Date**: 2024-10-25 8:47 pm
 
 ---
 
@@ -328,7 +328,7 @@ tags:
 
 
 - **Color**: #ffd400 (Yellow)
-- **Date**: 2024-07-13 2:13 pm
+- **Date**: 2024-10-25 8:47 pm
 
 ---
 
@@ -345,7 +345,7 @@ tags:
 
 
 - **Color**: #ffd400 (Yellow)
-- **Date**: 2024-07-15 10:52 am
+- **Date**: 2024-10-25 8:47 pm
 
 ---
 
@@ -370,7 +370,7 @@ frontal regions, depending partly on the subject's state of relaxation.
 
 
 - **Color**: #ffd400 (Yellow)
-- **Date**: 2024-07-16 4:50 pm
+- **Date**: 2024-10-25 8:47 pm
 
 ---
 
@@ -391,7 +391,7 @@ frontal regions, depending partly on the subject's state of relaxation.
 
 
 - **Color**: #ffd400 (Yellow)
-- **Date**: 2024-07-16 5:19 pm
+- **Date**: 2024-10-25 8:47 pm
 
 ---
 
@@ -408,7 +408,7 @@ frontal regions, depending partly on the subject's state of relaxation.
 
 
 - **Color**: #ffd400 (Yellow)
-- **Date**: 2024-07-16 4:58 pm
+- **Date**: 2024-10-25 8:47 pm
 
 ---
 
@@ -429,7 +429,7 @@ frontal regions, depending partly on the subject's state of relaxation.
 
 
 - **Color**: #ffd400 (Yellow)
-- **Date**: 2024-07-16 5:25 pm
+- **Date**: 2024-10-25 8:47 pm
 
 ---
 
@@ -450,7 +450,7 @@ frontal regions, depending partly on the subject's state of relaxation.
 
 
 - **Color**: #ffd400 (Yellow)
-- **Date**: 2024-07-16 5:52 pm
+- **Date**: 2024-10-25 8:47 pm
 
 ---
 
@@ -471,7 +471,7 @@ frontal regions, depending partly on the subject's state of relaxation.
 
 
 - **Color**: #ffd400 (Yellow)
-- **Date**: 2024-07-16 5:43 pm
+- **Date**: 2024-10-25 8:47 pm
 
 ---
 
@@ -492,7 +492,7 @@ frontal regions, depending partly on the subject's state of relaxation.
 
 
 - **Color**: #ffd400 (Yellow)
-- **Date**: 2024-07-16 6:03 pm
+- **Date**: 2024-10-25 8:47 pm
 
 ---
 
@@ -513,7 +513,7 @@ frontal regions, depending partly on the subject's state of relaxation.
 
 
 - **Color**: #ffd400 (Yellow)
-- **Date**: 2024-07-16 6:09 pm
+- **Date**: 2024-10-25 8:47 pm
 
 ---
 
@@ -530,7 +530,7 @@ frontal regions, depending partly on the subject's state of relaxation.
 
 
 - **Color**: #ffd400 (Yellow)
-- **Date**: 2024-07-16 6:10 pm
+- **Date**: 2024-10-25 8:47 pm
 
 ---
 
@@ -547,7 +547,7 @@ frontal regions, depending partly on the subject's state of relaxation.
 
 
 - **Color**: #ffd400 (Yellow)
-- **Date**: 2024-07-16 6:12 pm
+- **Date**: 2024-10-25 8:47 pm
 
 ---
 
@@ -568,7 +568,7 @@ frontal regions, depending partly on the subject's state of relaxation.
 
 
 - **Color**: #ffd400 (Yellow)
-- **Date**: 2024-07-16 6:14 pm
+- **Date**: 2024-10-25 8:47 pm
 
 ---
 
@@ -589,7 +589,45 @@ frontal regions, depending partly on the subject's state of relaxation.
 
 
 - **Color**: #ffd400 (Yellow)
-- **Date**: 2024-07-17 12:32 am
+- **Date**: 2024-10-25 8:47 pm
+
+---
+
+
+
+#### Page 37
+
+
+
+
+![](<0 - Supplementary/images/nunezElectricFieldsBrain2006.md/image-37-x130-y334.png>) ^6ea205
+
+
+
+> *(No annotated text)*
+
+
+
+
+- **Color**: #ff6666 (Red)
+- **Date**: 2024-11-06 5:09 pm
+
+---
+
+
+
+
+![](<0 - Supplementary/images/nunezElectricFieldsBrain2006.md/image-37-x138-y149.png>)
+
+
+
+> *(No annotated text)*
+
+
+
+
+- **Color**: #ff6666 (Red)
+- **Date**: 2024-11-06 5:09 pm
 
 ---
 
@@ -610,7 +648,66 @@ frontal regions, depending partly on the subject's state of relaxation.
 
 
 - **Color**: #ffd400 (Yellow)
-- **Date**: 2024-07-17 1:34 am
+- **Date**: 2024-10-25 8:47 pm
+
+---
+
+
+
+#### Page 43
+
+
+
+
+![](<0 - Supplementary/images/nunezElectricFieldsBrain2006.md/image-43-x190-y177.png>)
+
+
+
+> *(No annotated text)*
+
+
+
+
+- **Color**: #ff6666 (Red)
+- **Date**: 2024-11-06 5:09 pm
+
+---
+
+
+
+#### Page 44
+
+
+
+
+![](<0 - Supplementary/images/nunezElectricFieldsBrain2006.md/image-44-x167-y393.png>)
+
+
+
+> *(No annotated text)*
+
+
+
+
+- **Color**: #ff6666 (Red)
+- **Date**: 2024-11-06 5:09 pm
+
+---
+
+
+
+
+![](<0 - Supplementary/images/nunezElectricFieldsBrain2006.md/image-44-x175-y302.png>)
+
+
+
+> *(No annotated text)*
+
+
+
+
+- **Color**: #ff6666 (Red)
+- **Date**: 2024-11-06 5:09 pm
 
 ---
 
@@ -673,10 +770,20 @@ frontal regions, depending partly on the subject's state of relaxation.
 
 %% begin notes %%
 
-*Bookmark:* 21
+### Bookmark
+
+- **Bookmark**: Page 21
+- **Status**: #incomplete
+- **Relevance**: 9.5
 ## Commentaries
 
-**Backlinking:**
+> [!definition]
+> From this [[#^6ea205|Note]]. Represents a general formula for synaptic cortical activity.
+> $$
+\Phi(\mathbf{r}_{1},t)\approx C_{1}\Psi_{i}(\mathbf{r}_{1},t)-C_{2}\Psi_{e}(\mathbf{r}_{1},t)
+> $$
+
+
 
 %% end notes %%
 
@@ -704,13 +811,13 @@ Nunez, P. L., & Srinivasan, R. (2006). _Electric Fields of the Brain: The Neurop
 ### Tags
 
 
-- #Medical_/_Neurology
+- #medical_/_neurology
 
-- #Medical_/_Neuroscience
+- #medical_/_neuroscience
 
-- #Science_/_Life_Sciences_/_Anatomy_&_Physiology
+- #science_/_life_sciences_/_anatomy_&_physiology
 
-- #Science_/_Life_Sciences_/_Neuroscience
+- #science_/_life_sciences_/_neuroscience
 
 
 
@@ -720,7 +827,7 @@ Nunez, P. L., & Srinivasan, R. (2006). _Electric Fields of the Brain: The Neurop
 
 - **Google Books Link**: 
 
-- **Nunez and Srinivasan - 2006 - Electric Fields of the Brain The Neurophysics of .pdf**: C:\Users\joaop\Zotero\storage\M3GPZ5PS\Nunez and Srinivasan - 2006 - Electric Fields of the Brain The Neurophysics of .pdf
+- **Nunez and Srinivasan - 2006 - Electric Fields of the Brain The Neurophysics of .pdf**: C:\Users\joaop\Zotero\storage\EGVSDZJN\Nunez and Srinivasan - 2006 - Electric Fields of the Brain The Neurophysics of .pdf
 
 
 
@@ -734,4 +841,22 @@ Nunez, P. L., & Srinivasan, R. (2006). _Electric Fields of the Brain: The Neurop
 
 
 
-%% Import Date: 2024-10-14T14:17:52.979+01:00 %%
+### Backlinking
+
+
+#### Metadata Links
+
+
+
+- publisher: [[Oxford University Press]]
+
+
+
+- date: [[2006]]
+
+
+
+
+
+
+%% Import Date: 2024-11-06T17:17:05.681+00:00 %%

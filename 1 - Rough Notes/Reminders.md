@@ -14,7 +14,7 @@
 - [x] Update participant ID in *.mff* files. ✅ 2024-06-14
 - [x] Update the coordinates' json file in bids - make a script. 🛫 2024-06-14 📅 2024-07-14 ✅ 2024-10-13
 - [?] Neurosciences - NeurULisboa
-- [ ] Try to make NET work in MATLAB (Fork it)
+- [ ] Try to make NET work in MATLAB (Fork it) 🔽 
 - [-] Try to make scan_classifier work. ⏬ 
 - [x] Check scimago ✅ 2024-07-16
 - [ ] See [different-ai/file-organizer-2000: AI-powered organization for people who struggle with organization (github.com)](https://github.com/different-ai/file-organizer-2000?tab=readme-ov-file)
@@ -36,3 +36,5 @@
 - [x] Have a meeting with Diego and ask him about the simultaneous-mri preprocessing of eeg, the statistical analysis he performed, and if he knows where the exp.4 data is. ⏫ ✅ 2024-10-27
 - [ ] Try to make NET work in MATLAB (Fork it). ⏫ 
 - [ ] Check out [[EEGLAB]]'s postAmicaUtility plugin. 🔽 
+- [ ] Install Gpower. ⏬ 
+- [ ] Learn how to setup and use clusters of computers for faster computations. ⏬ 
