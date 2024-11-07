@@ -8,3 +8,5 @@ Go to task manager and restart file explorer.
 - Click `Alt-Space`, it will open the windows menu (even if we can't see it)
 - Click ``M``, it select the "move" option
 - Move the windows with the arrows on keyboard
+## Battery Information
+Run `powercfg /batteryreport` in command line. Open the `html` file in any browser.
