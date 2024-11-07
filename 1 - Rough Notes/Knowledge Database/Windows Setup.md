@@ -1,3 +1,6 @@
+# Machine
+## GPU
+If applicable update your GPU drivers. For example, it is possible to utilize GPU in [[MATLAB]] computations using the `gpuArray` function.
 # Setup
 ## E-mails
 Always have 4 compulsory distinct e-mails:
