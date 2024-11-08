@@ -8,6 +8,7 @@
 - [ ] Update BIDS functions.
 - [ ] Find if there is an app that can save your computer's setup (installed apps and browser settings).
 - [ ] Find more about [G-Node GIN](https://gin.g-node.org/).
+- [ ] Find more about [Make.md](https://www.make.md/docs/Getting%20Started)
 - [ ] Check why EEGLAB recommends not performing baseline removal when doing [[ESI|electrical source imaging]].
 - [x] Ask for age of participants in experiment 2. ✅ 2024-06-14
 - [ ] Check Qualtrics - Qualtrics will be handled by MSU. ⏫ 
