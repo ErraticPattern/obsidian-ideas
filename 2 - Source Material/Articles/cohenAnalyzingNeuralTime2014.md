@@ -37,6 +37,341 @@ tags:
 
 
 
+#### Page 88
+
+
+
+
+
+
+
+> From a convenience-of-analysis perspective, 1000 Hz is the optimal sampling rate.
+
+
+
+
+
+- **Color**: #ff6666 (Red)
+- **Date**: 2024-10-29 3:46 pm
+
+---
+
+
+
+
+
+
+
+> At 1000 Hz, there is a one-to-one conversion between time in milliseconds and time in samples. That is, 14 ms is also 14 samples. 500 and 2000 Hz are the next-most convenient sampling rates (14 ms is, respectively, 7 and 28 samples).
+
+
+
+
+
+- **Color**: #ffd400 (Yellow)
+- **Date**: 2024-10-29 3:46 pm
+
+---
+
+
+
+#### Page 89
+
+
+
+
+
+
+
+
+> [[Response EMG]]
+
+
+
+
+
+- **Color**: #5fb236 (Green)
+- **Date**: 2024-10-29 3:46 pm
+
+---
+
+
+
+
+
+
+
+
+> [[force grips]]
+
+
+
+
+
+- **Color**: #5fb236 (Green)
+- **Date**: 2024-10-29 3:46 pm
+
+---
+
+
+
+
+
+
+
+
+> [[Eye tracker]]
+
+
+
+
+
+- **Color**: #5fb236 (Green)
+- **Date**: 2024-10-29 3:47 pm
+
+---
+
+
+
+#### Page 94
+
+
+
+
+
+
+
+> Preprocessing Steps Necessary and Useful for Advanced Data Analysis
+
+
+
+
+
+- **Color**: #aaaaaa (Gray)
+- **Date**: 2024-10-29 3:48 pm
+
+---
+
+
+
+#### Page 97
+
+
+
+
+
+
+
+
+> [[edge artifacts]]
+
+
+
+
+
+- **Color**: #5fb236 (Green)
+- **Date**: 2024-10-29 4:09 pm
+
+---
+
+
+
+#### Page 99
+
+
+
+
+![](<0 - Supplementary/images/cohenAnalyzingNeuralTime2014.md/image-99-x110-y365.png>)
+
+
+
+> *(No annotated text)*
+
+
+
+
+- **Color**: #ffd400 (Yellow)
+- **Date**: 2024-10-29 4:10 pm
+
+---
+
+
+
+#### Page 104
+
+
+
+
+![](<0 - Supplementary/images/cohenAnalyzingNeuralTime2014.md/image-104-x44-y427.png>)
+
+
+
+> *(No annotated text)*
+
+
+
+
+- **Color**: #ffd400 (Yellow)
+- **Date**: 2024-10-29 4:12 pm
+
+---
+
+
+
+
+
+
+
+
+> [[Earlobes]]
+
+
+
+
+
+- **Color**: #5fb236 (Green)
+- **Date**: 2024-10-29 4:12 pm
+
+---
+
+
+
+#### Page 106
+
+
+
+
+
+
+
+> Preprocessing can help turn good data into very good data, but no amount of preprocessing will turn low-quality and noisy data into very good data.
+
+
+
+
+
+- **Color**: #2ea8e5 (Blue)
+- **Date**: 2024-10-29 4:13 pm
+
+---
+
+
+
+
+
+
+
+> Do not rush into a recording if you are unsatisfied with the data quality, and do not be afraid to pause the experiment if the data quality suddenly decreases during a recording and you think you can fix it. Explain to subjects (if they are human and awake) the importance of collecting clean data; they will try to help give you clean data.
+
+
+
+
+
+- **Color**: #ffd400 (Yellow)
+- **Date**: 2024-10-29 4:14 pm
+
+---
+
+
+
+#### Page 113
+
+
+
+
+
+
+
+
+> [[EMG]]
+
+
+
+
+
+- **Color**: #5fb236 (Green)
+- **Date**: 2024-10-29 4:15 pm
+
+---
+
+
+
+
+
+
+
+> . EMG is noticeable as bursts of 20- to 40-Hz activity, often has relatively large amplitude, and is typically maximal in electrodes around the face, neck, and ears.
+
+
+
+
+
+- **Color**: #ff6666 (Red)
+- **Date**: 2024-10-29 4:15 pm
+
+---
+
+
+
+
+
+
+
+> EMG bursts are deleterious for EEG data if you plan on analyzing activity above 15 Hz.
+
+
+
+
+
+- **Color**: #ff6666 (Red)
+- **Date**: 2024-10-29 4:15 pm
+
+---
+
+
+
+#### Page 114
+
+
+
+
+![](<0 - Supplementary/images/cohenAnalyzingNeuralTime2014.md/image-114-x58-y401.png>)
+
+
+
+> *(No annotated text)*
+
+
+
+
+- **Color**: #ffd400 (Yellow)
+- **Date**: 2024-10-29 4:16 pm
+
+---
+
+
+
+#### Page 116
+
+
+
+
+
+
+
+> Many EEG artifacts can therefore be minimized with proper training. After  setting up the EEG cap, show the subject her EEG data in real time on a computer monitor  that she can see. Explain that EEG data contain both brain activity and noise from muscles.  You can have her blink, clench her jaw, tense her neck/shoulder muscles, talk, smile, wiggle  her ears, and so on. When subjects know what kinds of behaviors produce EEG artifacts, they  can minimize those behaviors during the task.
+
+
+
+
+
+- **Color**: #ffd400 (Yellow)
+- **Date**: 2024-10-29 4:16 pm
+
+---
+
+
+
 #### Page 238
 
 
@@ -645,6 +980,359 @@ tags:
 
 
 
+#### Page 252
+
+
+
+
+![](<0 - Supplementary/images/cohenAnalyzingNeuralTime2014.md/image-252-x63-y242.png>)
+
+
+
+> *(No annotated text)*
+
+
+
+**Comment**: I could create a script that checks the consistency of the baseline normalized activity for different baselines. I would then choose as my baseline the one that gives more stable results.
+
+
+- **Color**: #ffd400 (Yellow)
+- **Date**: 2024-10-27 11:03 pm
+
+---
+
+
+
+#### Page 253
+
+
+
+
+
+
+
+> Although in ERP analyses it is common to have the baseline end at time = 0, for timefrequency analyses this can be suboptimal because temporal smoothing from time-frequency  decomposition can produce some temporal leakage of trial-related activity to the pretrial  time period, particularly if the activity occurs shortly after the time = 0 event. Thus, a good  baseline time period might be –500 to –200 ms, or –400 to –100 ms.
+
+
+
+
+
+- **Color**: #ff6666 (Red)
+- **Date**: 2024-10-27 11:04 pm
+
+---
+
+
+
+
+
+
+
+> Because any activity present in the baseline period will be transferred to the task-related  activity, it is a good idea to use the pretrial period as a baseline even if you are not examining  stimulus-locked activity. For example, if there are multiple stimuli and a response in each  trial, and your hypotheses concern response-related activity, a preresponse baseline window  may include stimulus-related activity.
+
+
+
+
+
+- **Color**: #ff6666 (Red)
+- **Date**: 2024-10-27 11:07 pm
+
+---
+
+
+
+#### Page 254
+
+
+
+
+
+
+
+> A pretrial baseline period is optimal. Whenever possible, try to design your experiment  such that a pretrial baseline period of several hundred milliseconds can be use
+
+
+
+
+
+- **Color**: #a28ae5 (Purple)
+- **Date**: 2024-10-27 11:13 pm
+
+---
+
+
+
+
+
+
+
+> There are three alternative options for baseline normalization that you could consider.
+
+
+
+
+**Comment**: The following approaches are very interesting but all of them are only suitable for trial-based tasks. What should I do if I have few trials, and all of these radically different conditions? Shall I use a participant-averaged baseline?
+
+
+- **Color**: #ffd400 (Yellow)
+- **Date**: 2024-10-27 11:20 pm
+
+---
+
+
+
+#### Page 255
+
+
+
+
+
+
+
+
+> [[Signal-to-noise ratio]]
+
+
+
+
+
+- **Color**: #5fb236 (Green)
+- **Date**: 2024-10-27 11:26 pm
+
+---
+
+
+
+#### Page 256
+
+
+
+
+
+
+
+> For example, in the ERP literature, SNR is often estimated as the ratio of a component  peak voltage to the temporal variance during the pretrial baseline period. T
+
+
+
+
+
+- **Color**: #ff6666 (Red)
+- **Date**: 2024-10-27 11:27 pm
+
+---
+
+
+
+
+![](<0 - Supplementary/images/cohenAnalyzingNeuralTime2014.md/image-256-x64-y427.png>)
+
+
+
+> *(No annotated text)*
+
+
+
+
+- **Color**: #ff6666 (Red)
+- **Date**: 2024-10-27 11:29 pm
+
+---
+
+
+
+
+
+
+
+> SNRtf can be useful for two reasons. First, it can be used to help determine the quality of  single-subject data when you are interpreting the robustness of a finding. That is, changes  in power over time, across electrodes, or among conditions can be considered robust if  the SNR is “big enough.
+
+
+
+
+**Comment**: This is a topic of research that needs to be better researched.
+
+
+- **Color**: #ffd400 (Yellow)
+- **Date**: 2024-10-27 11:34 pm
+
+---
+
+
+
+#### Page 257
+
+
+
+
+![](<0 - Supplementary/images/cohenAnalyzingNeuralTime2014.md/image-257-x92-y195.png>)
+
+
+
+> *(No annotated text)*
+
+
+
+
+- **Color**: #ffd400 (Yellow)
+- **Date**: 2024-10-27 11:32 pm
+
+---
+
+
+
+
+
+
+
+> The second reason whySNRtf might be useful is in testing hypotheses about withinsubject, cross-trial variability.
+
+
+
+
+
+- **Color**: #ffd400 (Yellow)
+- **Date**: 2024-10-27 11:34 pm
+
+---
+
+
+
+#### Page 258
+
+
+
+
+
+
+
+
+> [[error-related medial frontal theta]]
+
+
+
+
+
+- **Color**: #5fb236 (Green)
+- **Date**: 2024-10-27 11:41 pm
+
+---
+
+
+
+
+
+
+
+> One way to test whether you have enough trials is by estimating the reliability of the  trial-averaged power using random subsets of trials
+
+
+
+
+
+- **Color**: #a28ae5 (Purple)
+- **Date**: 2024-10-27 11:56 pm
+
+---
+
+
+
+#### Page 259
+
+
+
+
+![](<0 - Supplementary/images/cohenAnalyzingNeuralTime2014.md/image-259-x87-y202.png>)
+
+
+
+> *(No annotated text)*
+
+
+
+**Comment**: This is a really good way to estimate sample size.
+
+
+- **Color**: #a28ae5 (Purple)
+- **Date**: 2024-10-27 11:56 pm
+
+---
+
+
+
+
+
+
+
+
+> [[Cronbach’s α]]
+
+
+
+
+
+- **Color**: #5fb236 (Green)
+- **Date**: 2024-10-27 11:58 pm
+
+---
+
+
+
+
+
+
+
+> Based on other measures of reliability (such as Cronbach’s α, for example), trial counts that  correspond to correlations of around 0.7 should provide a reasonable number of trials per  condition.
+
+
+
+
+
+- **Color**: #ff6666 (Red)
+- **Date**: 2024-10-27 11:58 pm
+
+---
+
+
+
+#### Page 260
+
+
+
+
+
+
+
+> However, after time-frequency decomposition, the temporal precision decreases because the  estimate of power at each time point is a weighted combination of temporally surrounding time points. This means that activity from neighboring time points is autocorrelated  and thus provides redundant information. In other words, after time-frequency decomposition, the temporal resolution is greater than the temporal precision. Thus, you can often  downsample the results after the time-frequency decomposition with little or no loss of  information. In many cases the results can be downsampled to 40 or 50 Hz (that is, one  estimate of activity each 20 or 25 ms)
+
+
+
+
+
+- **Color**: #ff6666 (Red)
+- **Date**: 2024-10-28 12:00 am
+
+---
+
+
+
+
+
+
+
+> Furthermore, you should justify the reason for applying or not applying baseline normalization.
+
+
+
+
+
+- **Color**: #a28ae5 (Purple)
+- **Date**: 2024-10-28 12:02 am
+
+---
+
+
+
 #### Page 352
 
 
@@ -818,4 +1506,4 @@ Cohen, M. X. (2014). _Analyzing Neural Time Series Data: Theory and Practice_. T
 
 
 
-%% Import Date: 2024-10-27T22:50:43.845+00:00 %%
+%% Import Date: 2024-11-08T17:20:13.885+00:00 %%

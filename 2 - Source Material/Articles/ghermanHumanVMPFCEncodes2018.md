@@ -298,7 +298,7 @@ tags:
 
 
 
-![](<0 - Supplementary/images/ghermanHumanVMPFCEncodes2018.md/image-4-x22-y283.png>)
+![](<0 - Supplementary/images/ghermanHumanVMPFCEncodes2018.md/image-4-x22-y285.png>)
 
 
 
@@ -308,7 +308,7 @@ tags:
 
 
 - **Color**: #a28ae5 (Purple)
-- **Date**: 2024-11-05 12:13 pm
+- **Date**: 2024-11-06 4:01 pm
 
 ---
 
@@ -825,4 +825,4 @@ Gherman, S., & Philiastides, M. G. (2018). Human VMPFC encodes early signatures 
 
 
 
-%% Import Date: 2024-11-05T18:35:21.375+00:00 %%
+%% Import Date: 2024-11-08T17:20:13.950+00:00 %%

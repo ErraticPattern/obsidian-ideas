@@ -37,19 +37,25 @@ This is a (temporary) folder holding information scrapped from the web using the
 8. It is possible to create internal links, be it inside the same note using `[[^]]` or for different notes using `[[^^]]`, e.g. [[Windows Setup#^537f7f]]. Remember to use the pipe operator to create an alias for the link name, such as [[Windows Setup#^537f7f|Obsidian]]. The advantage of this feature is the possibility to link directly note's sections or links.
 ---
 # Plugins
-## Using *Zotero* 
+## Using *Zotero Integration* 
 Check the [[Research Workflow]] note to understand how to implement Zotero for productive references management. 
-**Requirements:**
+### Requirements (Zotero 6)
 + *Better bibtex* addon for Zotero (available on GitHub).
 + *ZoteroDuplicateMeger* addon for Zotero (available on GitHub).
 + Zotero Integration plugin in obsidian.
-**How to cite (full and short citation):**
+###  Citing
+***Workflow***
 1. Open a note.
 2. Copy citation/bibliography in Zotero.
 3. `Ctrl+P` and type "Zotero".
 4. Select desired option.
 *Note: Current citation style is set as APA 7.*
-**How to add annotations:** -> ==***This step is no longer required after the latest updates.***==
+
+***Changing Citation Key***
+![[Pasted image 20241108171523.png]]
+It is possible to change the item format. If choosing ``bibtex`` then the hotkey `Ctrl+Shift+C` will copy the full ``Bibtex`` citation to the clipboard. 
+### How to add annotations
+Note: ==***This step is no longer required after the latest updates.***==
 1. Create note from annotation in Zotero.
 2. Import annotations in Obsidian using `Ctrl+P` and type "Zotero".
 **Add-ons:**

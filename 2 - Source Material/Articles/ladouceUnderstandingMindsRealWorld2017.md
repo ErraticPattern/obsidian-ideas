@@ -208,6 +208,27 @@ tags:
 
 
 
+#### Page 6
+
+
+
+
+![](<0 - Supplementary/images/ladouceUnderstandingMindsRealWorld2017.md/image-6-x37-y371.png>)
+
+
+
+> *(No annotated text)*
+
+
+
+
+- **Color**: #a28ae5 (Purple)
+- **Date**: 2024-11-03 11:48 am
+
+---
+
+
+
 
 
 ### Notes
@@ -307,4 +328,4 @@ Ladouce, S., Donaldson, D. I., Dudchenko, P. A., & Ietswaart, M. (2017). Underst
 
 
 
-%% Import Date: 2024-11-02T20:11:00.253+00:00 %%
+%% Import Date: 2024-11-08T17:20:14.022+00:00 %%

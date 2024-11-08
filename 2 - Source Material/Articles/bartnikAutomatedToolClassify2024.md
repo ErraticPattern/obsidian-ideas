@@ -1,7 +1,7 @@
 ---
-title: An Automated Tool to Classify and Transform Unstructured MRI Data into BIDS Datasets
-itemType: journalArticle
-publicationTitle: Neuroinformatics
+title: "An Automated Tool to Classify and Transform Unstructured MRI Data into BIDS Datasets"
+itemType: "journalArticle"
+publicationTitle: "Neuroinformatics"
 bookTitle: ""
 seriesTitle: ""
 publisher: ""
@@ -11,12 +11,12 @@ numberOfVolumes: ""
 issue: ""
 pages: ""
 edition: ""
-date: 2024-03-26
-DOI: 10.1007/s12021-024-09659-5
+date: "2024-03-26"
+DOI: "10.1007/s12021-024-09659-5"
 ISBN: ""
-ISSN: 1559-0089
-url: https://doi.org/10.1007/s12021-024-09659-5
-importance: "4.5"
+ISSN: "1559-0089"
+url: "https://doi.org/10.1007/s12021-024-09659-5"
+importance: 
 status: incomplete
 tags:
   - article
@@ -403,7 +403,5 @@ Bartnik, A., Singh, S., Sum, C., Smith, M., Bergsland, N., Zivadinov, R., & Dwye
 
 
 
-<!-- Any additional notes or comments -->
 
-
-%% Import Date: 2024-10-26T02:19:13.211+01:00 %%
+%% Import Date: 2024-11-08T17:20:13.872+00:00 %%

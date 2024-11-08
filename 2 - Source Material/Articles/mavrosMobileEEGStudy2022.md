@@ -52,7 +52,7 @@ tags:
 
 
 - **Color**: #ff6666 (Red)
-- **Date**: 2024-10-22 10:33 pm
+- **Date**: 2024-10-25 8:46 pm
 
 ---
 
@@ -70,7 +70,7 @@ tags:
 
 
 - **Color**: #5fb236 (Green)
-- **Date**: 2024-10-15 12:26 pm
+- **Date**: 2024-10-25 8:46 pm
 
 ---
 
@@ -88,7 +88,7 @@ tags:
 
 
 - **Color**: #5fb236 (Green)
-- **Date**: 2024-10-15 12:26 pm
+- **Date**: 2024-10-25 8:46 pm
 
 ---
 
@@ -105,7 +105,7 @@ tags:
 
 
 - **Color**: #ff6666 (Red)
-- **Date**: 2024-10-22 10:33 pm
+- **Date**: 2024-10-25 8:46 pm
 
 ---
 
@@ -122,7 +122,7 @@ tags:
 
 
 - **Color**: #ffd400 (Yellow)
-- **Date**: 2024-10-22 10:36 pm
+- **Date**: 2024-10-25 8:46 pm
 
 ---
 
@@ -140,7 +140,7 @@ tags:
 
 
 - **Color**: #5fb236 (Green)
-- **Date**: 2024-10-22 10:36 pm
+- **Date**: 2024-10-25 8:46 pm
 
 ---
 
@@ -157,7 +157,7 @@ tags:
 
 
 - **Color**: #f19837 (Orange)
-- **Date**: 2024-10-22 6:04 pm
+- **Date**: 2024-10-25 8:46 pm
 
 ---
 
@@ -179,7 +179,7 @@ tags:
 
 
 - **Color**: #5fb236 (Green)
-- **Date**: 2024-10-15 1:25 am
+- **Date**: 2024-10-25 8:46 pm
 
 ---
 
@@ -197,7 +197,7 @@ tags:
 
 
 - **Color**: #5fb236 (Green)
-- **Date**: 2024-10-15 6:48 pm
+- **Date**: 2024-10-25 8:46 pm
 
 ---
 
@@ -218,7 +218,7 @@ tags:
 
 
 - **Color**: #ff6666 (Red)
-- **Date**: 2024-10-22 6:05 pm
+- **Date**: 2024-10-25 8:46 pm
 
 ---
 
@@ -235,7 +235,7 @@ tags:
 
 
 - **Color**: #ff6666 (Red)
-- **Date**: 2024-10-22 6:08 pm
+- **Date**: 2024-10-25 8:46 pm
 
 ---
 
@@ -253,7 +253,7 @@ tags:
 
 
 - **Color**: #5fb236 (Green)
-- **Date**: 2024-10-22 6:08 pm
+- **Date**: 2024-10-25 8:46 pm
 
 ---
 
@@ -270,7 +270,7 @@ tags:
 
 
 - **Color**: #ff6666 (Red)
-- **Date**: 2024-10-22 6:08 pm
+- **Date**: 2024-10-25 8:46 pm
 
 ---
 
@@ -287,7 +287,7 @@ tags:
 
 
 - **Color**: #ff6666 (Red)
-- **Date**: 2024-10-22 7:29 pm
+- **Date**: 2024-10-25 8:46 pm
 
 ---
 
@@ -304,7 +304,7 @@ tags:
 
 
 - **Color**: #ffd400 (Yellow)
-- **Date**: 2024-10-22 6:03 pm
+- **Date**: 2024-10-25 8:46 pm
 
 ---
 
@@ -326,7 +326,7 @@ tags:
 
 
 - **Color**: #5fb236 (Green)
-- **Date**: 2024-10-15 1:43 am
+- **Date**: 2024-10-25 8:46 pm
 
 ---
 
@@ -344,7 +344,45 @@ tags:
 
 
 - **Color**: #5fb236 (Green)
-- **Date**: 2024-10-15 1:43 am
+- **Date**: 2024-10-25 8:46 pm
+
+---
+
+
+
+#### Page 8
+
+
+
+
+
+
+
+> urban environments (urban green, urban outdoor, urban indoor)
+
+
+
+
+
+- **Color**: #ffd400 (Yellow)
+- **Date**: 2024-10-25 8:46 pm
+
+---
+
+
+
+
+
+
+
+> social density (crowded vs uncrowded)
+
+
+
+
+
+- **Color**: #ffd400 (Yellow)
+- **Date**: 2024-10-25 8:46 pm
 
 ---
 
@@ -365,7 +403,7 @@ tags:
 
 
 - **Color**: #ffd400 (Yellow)
-- **Date**: 2024-10-22 7:31 pm
+- **Date**: 2024-10-25 8:46 pm
 
 ---
 
@@ -382,7 +420,7 @@ tags:
 
 
 - **Color**: #ff6666 (Red)
-- **Date**: 2024-10-22 10:10 pm
+- **Date**: 2024-10-25 8:46 pm
 
 ---
 
@@ -403,7 +441,7 @@ tags:
 
 
 - **Color**: #ff6666 (Red)
-- **Date**: 2024-10-22 10:10 pm
+- **Date**: 2024-10-25 8:46 pm
 
 ---
 
@@ -420,7 +458,7 @@ tags:
 
 
 - **Color**: #ff6666 (Red)
-- **Date**: 2024-10-22 10:18 pm
+- **Date**: 2024-10-25 8:46 pm
 
 ---
 
@@ -441,7 +479,7 @@ tags:
 
 
 - **Color**: #ffd400 (Yellow)
-- **Date**: 2024-10-22 7:31 pm
+- **Date**: 2024-10-25 8:46 pm
 
 ---
 
@@ -462,7 +500,7 @@ tags:
 
 
 - **Color**: #a28ae5 (Purple)
-- **Date**: 2024-10-15 1:37 am
+- **Date**: 2024-10-25 8:46 pm
 
 ---
 
@@ -483,7 +521,7 @@ tags:
 
 
 - **Color**: #f19837 (Orange)
-- **Date**: 2024-10-22 9:33 pm
+- **Date**: 2024-10-25 8:46 pm
 
 ---
 
@@ -501,7 +539,7 @@ tags:
 
 
 - **Color**: #5fb236 (Green)
-- **Date**: 2024-10-15 1:29 am
+- **Date**: 2024-10-25 8:46 pm
 
 ---
 
@@ -518,7 +556,7 @@ tags:
 
 
 - **Color**: #a28ae5 (Purple)
-- **Date**: 2024-10-22 6:14 pm
+- **Date**: 2024-10-25 8:46 pm
 
 ---
 
@@ -536,7 +574,7 @@ tags:
 
 
 - **Color**: #5fb236 (Green)
-- **Date**: 2024-10-15 1:30 am
+- **Date**: 2024-10-25 8:46 pm
 
 ---
 
@@ -547,14 +585,14 @@ tags:
 
 
 
-> [[Ag/ AgCl electrodes]]
+> [[Ag- AgCl electrodes]]
 
 
 
 
 
 - **Color**: #5fb236 (Green)
-- **Date**: 2024-10-15 1:30 am
+- **Date**: 2024-10-25 8:46 pm
 
 ---
 
@@ -571,7 +609,7 @@ tags:
 
 
 - **Color**: #ffd400 (Yellow)
-- **Date**: 2024-10-15 11:03 am
+- **Date**: 2024-10-25 8:46 pm
 
 ---
 
@@ -593,7 +631,7 @@ tags:
 
 
 - **Color**: #5fb236 (Green)
-- **Date**: 2024-10-15 1:42 am
+- **Date**: 2024-10-25 8:46 pm
 
 ---
 
@@ -611,7 +649,7 @@ tags:
 
 
 - **Color**: #5fb236 (Green)
-- **Date**: 2024-10-15 1:42 am
+- **Date**: 2024-10-25 8:46 pm
 
 ---
 
@@ -629,7 +667,7 @@ tags:
 
 
 - **Color**: #5fb236 (Green)
-- **Date**: 2024-10-15 1:31 am
+- **Date**: 2024-10-25 8:46 pm
 
 ---
 
@@ -647,7 +685,7 @@ tags:
 
 
 - **Color**: #5fb236 (Green)
-- **Date**: 2024-10-15 1:32 am
+- **Date**: 2024-10-25 8:46 pm
 
 ---
 
@@ -665,7 +703,7 @@ tags:
 
 
 - **Color**: #5fb236 (Green)
-- **Date**: 2024-10-15 1:33 am
+- **Date**: 2024-10-25 8:46 pm
 
 ---
 
@@ -683,7 +721,7 @@ tags:
 
 
 - **Color**: #5fb236 (Green)
-- **Date**: 2024-10-15 1:36 am
+- **Date**: 2024-10-25 8:46 pm
 
 ---
 
@@ -701,7 +739,7 @@ tags:
 
 
 - **Color**: #5fb236 (Green)
-- **Date**: 2024-10-15 1:36 am
+- **Date**: 2024-10-25 8:46 pm
 
 ---
 
@@ -720,7 +758,7 @@ tags:
 
 
 - **Color**: #e56eee (Magenta)
-- **Date**: 2024-10-22 7:33 pm
+- **Date**: 2024-10-25 8:46 pm
 
 ---
 
@@ -737,7 +775,7 @@ tags:
 
 
 - **Color**: #a28ae5 (Purple)
-- **Date**: 2024-10-22 6:27 pm
+- **Date**: 2024-10-25 8:46 pm
 
 ---
 
@@ -754,7 +792,7 @@ tags:
 
 
 - **Color**: #a28ae5 (Purple)
-- **Date**: 2024-10-19 10:43 pm
+- **Date**: 2024-10-25 8:46 pm
 
 ---
 
@@ -771,7 +809,7 @@ tags:
 
 
 - **Color**: #ffd400 (Yellow)
-- **Date**: 2024-10-17 2:11 pm
+- **Date**: 2024-10-25 8:46 pm
 
 ---
 
@@ -792,7 +830,7 @@ tags:
 
 
 - **Color**: #ffd400 (Yellow)
-- **Date**: 2024-10-17 11:17 am
+- **Date**: 2024-10-25 8:46 pm
 
 ---
 
@@ -809,7 +847,7 @@ tags:
 
 
 - **Color**: #a28ae5 (Purple)
-- **Date**: 2024-10-17 11:17 am
+- **Date**: 2024-10-25 8:46 pm
 
 ---
 
@@ -826,7 +864,7 @@ tags:
 
 
 - **Color**: #ffd400 (Yellow)
-- **Date**: 2024-10-17 11:17 am
+- **Date**: 2024-10-25 8:46 pm
 
 ---
 
@@ -844,7 +882,7 @@ tags:
 
 
 - **Color**: #5fb236 (Green)
-- **Date**: 2024-10-22 6:12 pm
+- **Date**: 2024-10-25 8:46 pm
 
 ---
 
@@ -862,7 +900,7 @@ tags:
 
 
 - **Color**: #5fb236 (Green)
-- **Date**: 2024-10-22 6:11 pm
+- **Date**: 2024-10-25 8:46 pm
 
 ---
 
@@ -880,7 +918,7 @@ tags:
 
 
 - **Color**: #5fb236 (Green)
-- **Date**: 2024-10-22 6:11 pm
+- **Date**: 2024-10-25 8:46 pm
 
 ---
 
@@ -898,7 +936,7 @@ tags:
 
 
 - **Color**: #5fb236 (Green)
-- **Date**: 2024-10-22 6:12 pm
+- **Date**: 2024-10-25 8:46 pm
 
 ---
 
@@ -915,7 +953,7 @@ tags:
 
 
 - **Color**: #a28ae5 (Purple)
-- **Date**: 2024-10-22 6:12 pm
+- **Date**: 2024-10-25 8:46 pm
 
 ---
 
@@ -932,7 +970,7 @@ tags:
 
 
 - **Color**: #a28ae5 (Purple)
-- **Date**: 2024-10-22 10:27 pm
+- **Date**: 2024-10-25 8:46 pm
 
 ---
 
@@ -942,14 +980,14 @@ tags:
 
 
 
-> TBR was computed by averaging baselinecorrected theta (4–7.5 Hz) and beta (13–24.5 Hz) power across all frontal electrodes (F3, F4, F7, F8, FP1, FP2, AFz, Fz), and then TBR was calculated by dividing the average frontal theta power by the average frontal beta power.
+> TBR was computed by averaging baselinecorrected theta (4–7.5 Hz) and beta (13–24.5 Hz) power across all frontal electrodes (F3, F4, F7, F8, FP1, FP2, AFz, Fz), and then TBR was calculated byt
 
 
 
 
 
 - **Color**: #a28ae5 (Purple)
-- **Date**: 2024-10-22 10:28 pm
+- **Date**: 2024-10-28 4:45 pm
 
 ---
 
@@ -966,7 +1004,7 @@ tags:
 
 
 - **Color**: #a28ae5 (Purple)
-- **Date**: 2024-10-22 6:31 pm
+- **Date**: 2024-10-25 8:46 pm
 
 ---
 
@@ -984,7 +1022,7 @@ tags:
 
 
 - **Color**: #5fb236 (Green)
-- **Date**: 2024-10-15 1:43 am
+- **Date**: 2024-10-25 8:46 pm
 
 ---
 
@@ -1002,7 +1040,7 @@ tags:
 
 
 - **Color**: #5fb236 (Green)
-- **Date**: 2024-10-15 1:44 am
+- **Date**: 2024-10-25 8:46 pm
 
 ---
 
@@ -1020,7 +1058,7 @@ tags:
 
 
 - **Color**: #5fb236 (Green)
-- **Date**: 2024-10-15 11:04 am
+- **Date**: 2024-10-25 8:46 pm
 
 ---
 
@@ -1038,7 +1076,7 @@ tags:
 
 
 - **Color**: #5fb236 (Green)
-- **Date**: 2024-10-15 11:04 am
+- **Date**: 2024-10-25 8:46 pm
 
 ---
 
@@ -1056,7 +1094,7 @@ tags:
 
 
 - **Color**: #5fb236 (Green)
-- **Date**: 2024-10-15 11:04 am
+- **Date**: 2024-10-25 8:46 pm
 
 ---
 
@@ -1074,7 +1112,7 @@ tags:
 
 
 - **Color**: #5fb236 (Green)
-- **Date**: 2024-10-15 11:04 am
+- **Date**: 2024-10-25 8:46 pm
 
 ---
 
@@ -1092,7 +1130,7 @@ tags:
 
 
 - **Color**: #5fb236 (Green)
-- **Date**: 2024-10-15 11:04 am
+- **Date**: 2024-10-25 8:46 pm
 
 ---
 
@@ -1110,7 +1148,7 @@ tags:
 
 
 - **Color**: #5fb236 (Green)
-- **Date**: 2024-10-15 11:05 am
+- **Date**: 2024-10-25 8:46 pm
 
 ---
 
@@ -1128,7 +1166,7 @@ tags:
 
 
 - **Color**: #5fb236 (Green)
-- **Date**: 2024-10-15 11:04 am
+- **Date**: 2024-10-25 8:46 pm
 
 ---
 
@@ -1146,7 +1184,7 @@ tags:
 
 
 - **Color**: #5fb236 (Green)
-- **Date**: 2024-10-22 6:49 pm
+- **Date**: 2024-10-25 8:46 pm
 
 ---
 
@@ -1164,7 +1202,7 @@ tags:
 
 
 - **Color**: #5fb236 (Green)
-- **Date**: 2024-10-22 6:50 pm
+- **Date**: 2024-10-25 8:46 pm
 
 ---
 
@@ -1181,7 +1219,7 @@ tags:
 
 
 - **Color**: #a28ae5 (Purple)
-- **Date**: 2024-10-22 6:50 pm
+- **Date**: 2024-10-25 8:46 pm
 
 ---
 
@@ -1203,7 +1241,7 @@ tags:
 
 
 - **Color**: #5fb236 (Green)
-- **Date**: 2024-10-15 1:40 am
+- **Date**: 2024-10-25 8:46 pm
 
 ---
 
@@ -1221,7 +1259,7 @@ tags:
 
 
 - **Color**: #5fb236 (Green)
-- **Date**: 2024-10-22 7:13 pm
+- **Date**: 2024-10-25 8:46 pm
 
 ---
 
@@ -1239,7 +1277,7 @@ tags:
 
 
 - **Color**: #5fb236 (Green)
-- **Date**: 2024-10-15 1:42 am
+- **Date**: 2024-10-25 8:46 pm
 
 ---
 
@@ -1298,7 +1336,7 @@ Mavros, P., J Wälti, M., Nazemi, M., Ong, C. H., & Hölscher, C. (2022). A mobi
 ### Attachments
 
 
-- **PDF**: C:\Users\joaop\Zotero\storage\YS6WN8QY\s41598-022-20649-y.pdf
+- **PDF**: C:\Users\joaop\Zotero\storage\IPUT6TQT\s41598-022-20649-y.pdf
 
 
 
@@ -1354,4 +1392,4 @@ Mavros, P., J Wälti, M., Nazemi, M., Ong, C. H., & Hölscher, C. (2022). A mobi
 
 
 
-%% Import Date: 2024-10-23T21:57:26.228+01:00 %%
+%% Import Date: 2024-11-08T17:20:14.085+00:00 %%

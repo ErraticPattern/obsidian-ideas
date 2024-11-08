@@ -59,7 +59,201 @@ tags:
 
 
 
+
+
+
+
+
+> [[Mobile EEG]]
+
+
+
+
+
+- **Color**: #5fb236 (Green)
+- **Date**: 2024-10-29 3:30 pm
+
+---
+
+
+
+
+
+
+
+
+> [[Mobile Brain-Body Imaging]]
+
+
+
+
+
+- **Color**: #5fb236 (Green)
+- **Date**: 2024-10-29 3:30 pm
+
+---
+
+
+
+
+
+
+
+> While these physiological contributions are usually considered to be artifacts, they may still provide additional insights if analyzed separately.
+
+
+
+
+
+- **Color**: #ffd400 (Yellow)
+- **Date**: 2024-10-29 3:30 pm
+
+---
+
+
+
+
+
+
+
+> Other artifactual contributions to the recording are even less welcome. For example movement in mobile protocols might lead to mechanical artifacts like cable sway or micro movement of electrodes that contribute artifactual activity into the recording. Finally, environmental sources and the equipment necessary for the experiment itself like head mounted virtual reality (VR) systems or treadmills can be another unavoidable source of electrical artifacts in mobile recordings.
+
+
+
+
+
+- **Color**: #ffd400 (Yellow)
+- **Date**: 2024-10-29 3:31 pm
+
+---
+
+
+
+
+
+
+
+> Mechanical and electrical artifacts do not correlate highly with physiological recordings and thus are typically easier to  detect and to remove than physiological contributions (Chang et al., 2020). The dissociation of potentially correlating physiological sources (brain, eyes, and muscles) is more difficult.
+
+
+
+
+
+- **Color**: #ff6666 (Red)
+- **Date**: 2024-10-29 3:32 pm
+
+---
+
+
+
+
+
+
+
+
+> [[blind source separation]]
+
+
+
+
+
+- **Color**: #5fb236 (Green)
+- **Date**: 2024-10-29 3:33 pm
+
+---
+
+
+
+
+
+
+
+> In most cases a channel density of 64 and upwards is being used for ICA since spatial filtering typically improves with more degrees of freedom, but less consensus is reached considering the applied filter.
+
+
+
+
+
+- **Color**: #ffd400 (Yellow)
+- **Date**: 2024-10-29 3:35 pm
+
+---
+
+
+
+#### Page 3
+
+
+
+
+
+
+
+> it was concluded that the choice of preprocessing was more relevant to the decomposition quality than the algorithm itself.
+
+
+
+
+
+- **Color**: #ff6666 (Red)
+- **Date**: 2024-10-29 6:09 pm
+
+---
+
+
+
+
+
+
+
+> Taken together, previous studies suggest that a high-pass filter between 1 and 2 Hz and no low-pass filter seems to be the best choice to improve ICA decompositions.
+
+
+
+
+
+- **Color**: #ff6666 (Red)
+- **Date**: 2024-10-29 6:11 pm
+
+---
+
+
+
 #### Page 5
+
+
+
+
+
+
+
+> EEG was recorded from 157 active electrodes on both the scalp (129 electrodes) and neck of the participant (28 electrodes). The latter were used to specifically record neck muscle activity for a potential benefit in data cleaning.
+
+
+
+
+
+- **Color**: #ffd400 (Yellow)
+- **Date**: 2024-10-29 3:27 pm
+
+---
+
+
+
+
+
+
+
+> The electrodes on the neck were placed with a custom design neckband (EASYCAP, Herrsching, Germany).
+
+
+
+
+
+- **Color**: #a28ae5 (Purple)
+- **Date**: 2024-10-29 3:27 pm
+
+---
 
 
 
@@ -96,6 +290,185 @@ tags:
 
 - **Color**: #ffd400 (Yellow)
 - **Date**: 2024-10-29 2:13 pm
+
+---
+
+
+
+#### Page 7
+
+
+
+
+
+
+
+> In many cases, it is advisable to specify the filter order in detail to achieve maximal control of the process (see Widmann et al., 2015) for a practical guide to filtering EEG data).
+
+
+
+
+
+- **Color**: #ff6666 (Red)
+- **Date**: 2024-10-29 5:25 pm
+
+---
+
+
+
+
+
+
+
+
+> [[passband-edge]]
+
+
+
+
+
+- **Color**: #5fb236 (Green)
+- **Date**: 2024-10-29 5:26 pm
+
+---
+
+
+
+
+
+
+
+> filter passband-edge defines where signal attenuation begins
+
+
+
+
+
+- **Color**: #ff6666 (Red)
+- **Date**: 2024-10-29 5:25 pm
+
+---
+
+
+
+
+
+
+
+
+> [[cut-off frequency]]
+
+
+
+
+
+- **Color**: #5fb236 (Green)
+- **Date**: 2024-10-29 5:25 pm
+
+---
+
+
+
+
+
+
+
+> cut-off frequency is the frequency where the signal is attenuated by 6 db and can be regarded as the frequency where the filter starts to have a noticeable effect.
+
+
+
+
+
+- **Color**: #ff6666 (Red)
+- **Date**: 2024-10-29 5:25 pm
+
+---
+
+
+
+
+
+
+
+> The transition bandwidth is double the difference between passband-edge and cutoff frequency and is specified by the filter order.
+
+
+
+
+
+- **Color**: #ff6666 (Red)
+- **Date**: 2024-10-29 5:26 pm
+
+---
+
+
+
+
+
+
+
+
+> [[transition bandwidth]]
+
+
+
+
+
+- **Color**: #5fb236 (Green)
+- **Date**: 2024-10-29 5:26 pm
+
+---
+
+
+
+
+
+
+
+
+> [[stopband-edge]]
+
+
+
+
+
+- **Color**: #5fb236 (Green)
+- **Date**: 2024-10-29 5:26 pm
+
+---
+
+
+
+
+
+
+
+> stopband-edge is the passband-edge minus the transition bandwidth and can be regarded as the frequency where the signal attenuation reaches its full effect.
+
+
+
+
+
+- **Color**: #ff6666 (Red)
+- **Date**: 2024-10-29 5:26 pm
+
+---
+
+
+
+
+
+
+
+
+> [[EEGLAB]]
+
+
+
+
+
+- **Color**: #5fb236 (Green)
+- **Date**: 2024-10-29 5:29 pm
 
 ---
 
@@ -163,7 +536,24 @@ tags:
 
 
 
-![](<0 - Supplementary/images/klugIdentifyingKeyFactors2021.md/image-9-x34-y535.png>) ^b0e636
+
+
+
+> As the effects are either clearly visible in the figures or a reflection of the arbitrarily chosen filter steps, statistical testing was not performed.
+
+
+
+
+
+- **Color**: #ffd400 (Yellow)
+- **Date**: 2024-10-29 5:19 pm
+
+---
+
+
+
+
+![](<0 - Supplementary/images/klugIdentifyingKeyFactors2021.md/image-9-x34-y535.png>)
 
 
 
@@ -174,6 +564,112 @@ tags:
 
 - **Color**: #ff6666 (Red)
 - **Date**: 2024-10-29 2:31 pm
+
+---
+
+
+
+#### Page 14
+
+
+
+
+
+
+
+> when computing ICA to remove eye and muscle artifacts it is important to do this on data which was highpass filtered but not low-pass filtered, and it is unproblematic to apply the obtained decomposition to unfiltered data for further analysis.
+
+
+
+
+
+- **Color**: #ff6666 (Red)
+- **Date**: 2024-10-29 3:06 pm
+
+---
+
+
+
+
+
+
+
+> higher-density recordings of 64 and more channels should be used when aiming for an optimal recovery of the brain signals and especially when doing sourcelevel analysis, as low-density recordings cannot separate neural sources adequately.
+
+
+
+
+
+- **Color**: #ff6666 (Red)
+- **Date**: 2024-10-29 3:22 pm
+
+---
+
+
+
+
+
+
+
+> an increasing channel density is required with increasing movement range and velocity in the experimental protocol.
+
+
+
+
+
+- **Color**: #ff6666 (Red)
+- **Date**: 2024-10-29 3:22 pm
+
+---
+
+
+
+
+
+
+
+> when no high-density recording is possible, ICA can still be used to clean the sensor data from eye and muscle activity artifacts.
+
+
+
+
+
+- **Color**: #ff6666 (Red)
+- **Date**: 2024-10-29 3:22 pm
+
+---
+
+
+
+
+
+
+
+> we recommend using higher high-pass filter cut-offs than traditionally used.
+
+
+
+
+
+- **Color**: #ff6666 (Red)
+- **Date**: 2024-10-29 3:22 pm
+
+---
+
+
+
+
+
+
+
+> For MoBI experiments with significant noise even higher filters of 1.5 or even 2 Hz should be employed before computing ICA, depending on the channel montage.
+
+
+
+
+
+- **Color**: #ff6666 (Red)
+- **Date**: 2024-10-29 3:25 pm
 
 ---
 
@@ -317,7 +813,5 @@ Klug, M., & Gramann, K. (2021). Identifying key factors for improving ICA-based 
 
 
 
-<!-- Any additional notes or comments -->
 
-
-%% Import Date: 2024-10-29T14:33:10.101+00:00 %%
+%% Import Date: 2024-11-08T17:20:14.008+00:00 %%

@@ -1,21 +1,21 @@
 ---
-title: An Analysis of the External Validity of EEG Spectral Power in an Uncontrolled Outdoor Environment during Default and Complex Neurocognitive States
-itemType: journalArticle
-publicationTitle: Brain Sciences
+title: "An Analysis of the External Validity of EEG Spectral Power in an Uncontrolled Outdoor Environment during Default and Complex Neurocognitive States"
+itemType: "journalArticle"
+publicationTitle: "Brain Sciences"
 bookTitle: ""
 seriesTitle: ""
-publisher: MDPI
-place: 
+publisher: ""
+place: ""
 volume: "11"
-numberOfVolumes: 
+numberOfVolumes: ""
 issue: "3"
 pages: "330"
 edition: ""
-date: 2021-03-01
-DOI: 10.3390/brainsci11030330
+date: "2021-03-01"
+DOI: "10.3390/brainsci11030330"
 ISBN: ""
-ISSN: 2076-3425
-url: https://www.mdpi.com/2076-3425/11/3/330
+ISSN: "2076-3425"
+url: "https://www.mdpi.com/2076-3425/11/3/330"
 importance: 
 status: incomplete
 tags:
@@ -53,6 +53,137 @@ tags:
 
 - **Color**: #ff6666 (Red)
 - **Date**: 2024-11-02 12:10 am
+
+---
+
+
+
+#### Page 7
+
+
+
+
+
+
+
+> ±50 mV rejection threshold applied to the left EOG channel
+
+
+
+
+
+- **Color**: #a28ae5 (Purple)
+- **Date**: 2024-11-03 11:51 am
+
+---
+
+
+
+
+
+
+
+> For the resting task, the average number of epochs remaining after artifact removal was M = 467, 95% CI = (440–493) for the laboratory environment and M = 447, 95% CI = (417–479) for the outdoor environment.
+
+
+
+
+**Comment**: I should start reporting these kinds of analysis.
+
+
+- **Color**: #a28ae5 (Purple)
+- **Date**: 2024-11-03 11:52 am
+
+---
+
+
+
+
+
+
+
+> Faulty EEG channels were replaced using an EEGLAB-based spherical spline interpolation algorithm
+
+
+
+
+
+- **Color**: #a28ae5 (Purple)
+- **Date**: 2024-11-03 1:11 pm
+
+---
+
+
+
+
+
+
+
+
+> [[null hypothesis significance testing]]
+
+
+
+
+
+- **Color**: #5fb236 (Green)
+- **Date**: 2024-11-03 11:49 am
+
+---
+
+
+
+
+
+
+
+
+> [[Bayes factors]]
+
+
+
+
+
+- **Color**: #5fb236 (Green)
+- **Date**: 2024-11-03 11:49 am
+
+---
+
+
+
+
+
+
+
+> This is useful to adjudicate non-significant NHST outcomes, which cannot be readily interpreted as evidence for the null hypothesis
+
+
+
+
+
+- **Color**: #ff6666 (Red)
+- **Date**: 2024-11-03 11:50 am
+
+---
+
+
+
+#### Page 9
+
+
+
+
+
+
+
+> All empirical data and MATLAB data analysis scripts are available online at the Texas State University Data Repository (https://dataverse.tdl.org/dataverse/brainscieeg; accessed on 20 February 2021).
+
+
+
+
+
+- **Color**: #ffd400 (Yellow)
+- **Date**: 2024-11-03 1:12 pm
 
 ---
 
@@ -242,4 +373,4 @@ Edwards, D. J., & Trujillo, L. T. (2021). An Analysis of the External Validity o
 
 
 
-%% Import Date: 2024-11-02T00:10:15.598+00:00 %%
+%% Import Date: 2024-11-08T17:20:13.931+00:00 %%

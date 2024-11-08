@@ -37,6 +37,125 @@ tags:
 
 
 
+#### Page 3
+
+
+
+
+
+
+
+
+> [[mobile EEG]]
+
+
+
+
+
+- **Color**: #5fb236 (Green)
+- **Date**: 2024-10-25 9:51 pm
+
+---
+
+
+
+#### Page 4
+
+
+
+
+
+
+
+> We believe that standards in multimodal neuroscientific computing are the inevitable prerequisite for researchers to converge on basic principles in the field, further our understanding of human brain function, and foster more efficient research.
+
+
+
+
+**Comment**: I agree with this observation. The ultimate goal is to end on principles/tenets backed up by research.
+
+
+- **Color**: #ffd400 (Yellow)
+- **Date**: 2024-10-26 2:01 am
+
+---
+
+
+
+
+![](<0 - Supplementary/images/klugBeMoBILPipelineAutomated2022.md/image-4-x51-y348.png>)
+
+
+
+> *(No annotated text)*
+
+
+
+
+- **Color**: #ffd400 (Yellow)
+- **Date**: 2024-10-26 1:47 am
+
+---
+
+
+
+
+
+
+
+> As a special feature for MoBI analyses, event extraction from motion data (e.g. heel strikes), eye tracking (e.g. blinks), electrocardiography (ECG, heartbeats), and EEG (using independent components representing eyes movements, heartbeats, or gait) are available.
+
+
+
+
+
+- **Color**: #ffd400 (Yellow)
+- **Date**: 2024-10-26 2:12 am
+
+---
+
+
+
+#### Page 5
+
+
+
+
+
+
+
+
+> [[Lab Streaming Layer]]
+
+
+
+
+
+- **Color**: #5fb236 (Green)
+- **Date**: 2024-10-26 2:13 am
+
+---
+
+
+
+
+
+
+
+
+> [[extensible data format (XDF)]]
+
+
+
+
+
+- **Color**: #5fb236 (Green)
+- **Date**: 2024-10-26 2:10 am
+
+---
+
+
+
 #### Page undefined
 
 
@@ -196,7 +315,5 @@ Klug, M., Jeung, S., Wunderlich, A., Gehrke, L., Protzak, J., Djebbara, Z., Argu
 
 
 
-<!-- Any additional notes or comments -->
 
-
-%% Import Date: 2024-10-25T21:16:05.886+01:00 %%
+%% Import Date: 2024-11-08T17:20:13.989+00:00 %%

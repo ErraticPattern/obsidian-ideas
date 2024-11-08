@@ -52,7 +52,7 @@ tags:
 
 
 - **Color**: #a28ae5 (Purple)
-- **Date**: 2024-10-23 3:53 pm
+- **Date**: 2024-10-25 8:46 pm
 
 ---
 
@@ -69,7 +69,7 @@ tags:
 
 
 - **Color**: #a28ae5 (Purple)
-- **Date**: 2024-10-23 3:51 pm
+- **Date**: 2024-10-25 8:46 pm
 
 ---
 
@@ -91,7 +91,7 @@ tags:
 
 
 - **Color**: #5fb236 (Green)
-- **Date**: 2024-10-23 3:56 pm
+- **Date**: 2024-10-25 8:46 pm
 
 ---
 
@@ -108,7 +108,7 @@ tags:
 
 
 - **Color**: #ff6666 (Red)
-- **Date**: 2024-10-23 3:56 pm
+- **Date**: 2024-10-25 8:46 pm
 
 ---
 
@@ -126,7 +126,7 @@ tags:
 
 
 - **Color**: #5fb236 (Green)
-- **Date**: 2024-10-23 3:56 pm
+- **Date**: 2024-10-25 8:46 pm
 
 ---
 
@@ -147,7 +147,7 @@ tags:
 
 
 - **Color**: #ffd400 (Yellow)
-- **Date**: 2024-10-23 3:54 pm
+- **Date**: 2024-10-25 8:46 pm
 
 ---
 
@@ -168,7 +168,7 @@ tags:
 
 
 - **Color**: #ffd400 (Yellow)
-- **Date**: 2024-10-23 6:44 pm
+- **Date**: 2024-10-25 8:46 pm
 
 ---
 
@@ -189,7 +189,7 @@ tags:
 
 
 - **Color**: #ffd400 (Yellow)
-- **Date**: 2024-10-23 6:44 pm
+- **Date**: 2024-10-25 8:46 pm
 
 ---
 
@@ -243,7 +243,7 @@ Mavros, P., Ngoi, Z. L., Kirk, S., Te, A. S., Grübel, J., Aguilar, L., Olszewsk
 ### Attachments
 
 
-- **PDF**: C:\Users\joaop\Zotero\storage\SMCMFT9L\Mavros et al. - 2023 - Attenuating subjective crowding through beauty an online study on the interaction between environme.pdf
+- **PDF**: C:\Users\joaop\Zotero\storage\WJUH7KP8\Mavros et al. - 2023 - Attenuating subjective crowding through beauty an online study on the interaction between environme.pdf
 
 
 
@@ -292,7 +292,5 @@ Mavros, P., Ngoi, Z. L., Kirk, S., Te, A. S., Grübel, J., Aguilar, L., Olszewsk
 
 
 
-<!-- Any additional notes or comments -->
 
-
-%% Import Date: 2024-10-23T21:57:26.208+01:00 %%
+%% Import Date: 2024-11-08T17:20:14.052+00:00 %%
