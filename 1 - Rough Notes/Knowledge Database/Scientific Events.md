@@ -1,6 +1,9 @@
 + [[Neuroscience]]
 	+ Cosyne
-	+ Cognitive Computational [[Neuroscience]]
+	+ Cognitive Computational Neuroscience
 	+ Global Brain Consortium
+	+ [[Brain Innovation Days]]
+	+ Society for Neuroscience
 
-[[BioMed-AI]]
++ Biomedicine
+	+ [[BioMed-AI]]

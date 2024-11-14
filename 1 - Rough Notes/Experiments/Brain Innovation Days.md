@@ -4,7 +4,7 @@ end date:
 id:
   - 3CF2050B
   - BID
-status: in progress
+status: complete
 tags:
   - "#experiment"
 aliases:
@@ -26,6 +26,12 @@ Outdoor walks with the Pluma backpack were conducted in Lisbon, Michigan, London
 
 The Pluma backpack represents a pivotal methodological advancement in neurourbanism, effectively bridging the gap between controlled laboratory experiments and real-world urban experiences. By enhancing ecological validity in neuro-urbanistic research, this technology paves the way for new research avenues into the neural correlates of urban living. Insights from such studies could inform evidence-based urban planning policies that promote mental well-being, ultimately fostering more psychologically supportive urban environments. Furthermore, the Pluma backpack sets a new standard for multimodal data acquisition in outdoor settings, establishing a foundation for future technological innovations in this field.
 ```
+**30-second Pitch**
+```
+Good morning, everyone! As we all know, urban environments greatly impact our physical and mental health, and as more people move into cities there is a pressing need to better understand this relationship. For this reason, we have developed a novel wearable device: a backpack equipped with environmental and physiological sensors, including EEG to monitor brain activity. Its purpose is to accelerate findings in this complex field of neurourbanism as it can used in virtuallyevery urban context and by anyone. Therefore, I invite you to later come and get a close-up view of the backpack to better understand how it works. Thank you.
+```
+**Flyer**
+![[bid_flyer.pdf]]
 
 ---
 
@@ -50,7 +56,9 @@ AND (
 WHERE completed
 LIMIT 10
 ```
-# Files
+# Appendix
+## Commentaries
+The [[Brain Innovation Days]] was my first event as a presenter. I presented the backpack from [[Emotional Cities - Experiment nº4]]. While it did not start off well, mostly due to lack of engagement by the small crowd it progressively got better. Unfortunately, I did not get the time to visit the city, and the place where I was staying was not the best. However, what really made me extremely happy to have participated in the event was the people I met. I met Angel from [[Starlab]]; I met Moritz, a neuroscientist from [[IDUN Technologies]] that also attended BOOM festival; I met Carolina, which was part of the [[HaDEA]], which funded the emotional cities project; and finally, I met Ana which was such a sweet girl and definitely provided me the best memories of the event. I loved being with her and it broke my heart to leave because I wanted to spend more time with her. There were also other interesting people which I met, but the previous ones were the ones that marked this adventure. I met Julien, the CEO of Cortex Machina. He was a bit of a child though.
 **Title (draft)**
 ```
 NOVEL DATA COLLECTION UNIT FOR EEG AND ENVIRONMENTAL DATA ACQUISITION IN OUTDOOR URBANISTIC ENVIRONMENTS
