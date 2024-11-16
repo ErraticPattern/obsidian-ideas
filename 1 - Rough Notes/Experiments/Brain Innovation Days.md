@@ -4,10 +4,11 @@ end date:
 id:
   - 3CF2050B
   - BID
-status: complete
+status: done
 tags:
   - "#experiment"
 aliases:
+  - BID
 ---
 ---
 # Description
