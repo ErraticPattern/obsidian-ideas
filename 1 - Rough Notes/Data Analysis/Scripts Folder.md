@@ -1,8 +1,8 @@
-+ `init`
-+ `setpath`
-+ `config`
-+ `master`
-+ `rec`
++ `init` ([[Init File]])
++ `setpath` ([[Setpath File]])
++ `config` ([[Config File]])
++ `utils` ([[Utils Folder]])
++ `rec` ([[Recruitment Folder]])
 	+ `assign_participant_id`
 	+ `send_email`
 + `beh`
@@ -13,12 +13,12 @@
 	+ `spreadsheet2participants`
 + `pip_1`
 	+ `config_pip_1`
-	+ `master_pip_1`
+	+ `config_study`
 	+ `00_fetch_data`
 	+ `01_filt_eeg`
 + `ana_1`
 	+ `config_ana_1`
-	+ `master_ana_1`
+	+ `config_study`
 	+ `00_fetch_data`
 
 
