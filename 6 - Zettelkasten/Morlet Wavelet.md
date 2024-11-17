@@ -8,7 +8,7 @@ modification date: Friday, 11th October 2024, 21:38:42
 ---
 
 ## Parent note
-[[S7_2-Course- Complete neural signal processing and analysis- Zero to hero - Udemy]]---
+[[S7_100-Morlet wavelets in time and in frequency]]---
 
 ## Source
 [Source](obsidian://adv-uri?vault=mathematics&filepath=Notes%2FMorlet%20Wavelet.md)

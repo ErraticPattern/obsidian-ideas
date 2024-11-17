@@ -4,6 +4,7 @@ date: 2024-10-11
 aliases:
 tags: web
 ---
+# Morlet wavelets in time and in frequency
 # Notes
 + It can be created by tapering a [[sine]] wave by a [[Gaussian]]. 
 + The process of multiplying a [[wavelet]] to a time-series across its domain is known as [[convolution]].
