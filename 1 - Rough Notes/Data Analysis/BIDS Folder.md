@@ -19,7 +19,7 @@ id:
 
 ---
 # Notes
-
+BIDS information is saved in the `BIDS_info` struct which is the created in the study-specific [[Config File]].
 
 ---
 ## Links
