@@ -58,7 +58,93 @@ tags:
 
 
 
+
+
+
+
+
+> [[ventromedial prefrontal cortex]]
+
+
+
+
+
+- **Color**: #5fb236 (Green)
+- **Date**: 2024-11-08 7:48 pm
+
+---
+
+
+
+
+
+
+
+> This study’s importance lies in exploring how activity in the vmPFC—a key region in the brain’s reward system involved in valuation and decision-making20–22—could predict the efficacy of these anti-smoking campaigns.
+
+
+
+
+
+- **Color**: #ff6666 (Red)
+- **Date**: 2024-11-11 3:23 pm
+
+---
+
+
+
 #### Page 3
+
+
+
+
+
+
+
+> Given the established role of vmPFC in processing value36, these findings suggest that neural activity in the vmPFC reflects the valuation of areas in an urban environment, predicting people’s visitation patterns to or away from areas in that environment.
+
+
+
+
+
+- **Color**: #ff6666 (Red)
+- **Date**: 2024-11-11 3:35 pm
+
+---
+
+
+
+
+
+
+
+> vmPFC activity not only correlated with the density of photographs but also with individuals’ preference ratings for each urban environment photograph, as recorded while participants performed the fMRI task.
+
+
+
+
+
+- **Color**: #ff6666 (Red)
+- **Date**: 2024-11-11 6:41 pm
+
+---
+
+
+
+
+
+
+
+> For example, individuals may be drawn to visit urban spaces not only because of their aesthetic appeal but also due to their socio-cultural relevance. This could include places with historical significance or social importance, which may not necessarily be aesthetically pleasing but still hold considerable value.
+
+
+
+
+
+- **Color**: #ffd400 (Yellow)
+- **Date**: 2024-11-11 6:43 pm
+
+---
 
 
 
@@ -112,6 +198,104 @@ tags:
 
 - **Color**: #a28ae5 (Purple)
 - **Date**: 2024-11-08 6:30 pm
+
+---
+
+
+
+#### Page 6
+
+
+
+
+
+
+
+
+> [[Pearson correlation]]
+
+
+
+
+
+- **Color**: #5fb236 (Green)
+- **Date**: 2024-11-08 7:30 pm
+
+---
+
+
+
+
+
+
+
+
+> [[Spearman correlation]]
+
+
+
+
+
+- **Color**: #5fb236 (Green)
+- **Date**: 2024-11-08 7:30 pm
+
+---
+
+
+
+
+
+
+
+
+> [[Bend correlation]]
+
+
+
+
+
+- **Color**: #5fb236 (Green)
+- **Date**: 2024-11-08 7:29 pm
+
+---
+
+
+
+#### Page undefined
+
+
+
+
+
+
+
+
+> [[fMRI]]
+
+
+
+
+
+- **Color**: #5fb236 (Green)
+- **Date**: 2024-11-08 7:47 pm
+
+---
+
+
+
+
+
+
+
+
+> [[blood-oxygenation-level-dependent (BOLD) signal]]
+
+
+
+
+
+- **Color**: #5fb236 (Green)
+- **Date**: 2024-11-08 7:48 pm
 
 ---
 
@@ -212,7 +396,5 @@ Kaur, A., Rodrigues, A. L., Hoogstraten, S., Blanco-Mora, D. A., Miranda, B., Mo
 
 
 
-<!-- Any additional notes or comments -->
 
-
-%% Import Date: 2024-11-08T18:37:47.362+00:00 %%
+%% Import Date: 2024-11-19T13:22:33.931+00:00 %%
