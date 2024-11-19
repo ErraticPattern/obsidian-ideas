@@ -23,7 +23,7 @@ id:
 ## Definition
 
 ## Associations
-
+Mean-centering the data can be used to get rid of the intercept term in a linear model, such as a [[correlation]].
 ## Interpretation
 
 ---
