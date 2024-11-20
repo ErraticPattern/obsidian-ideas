@@ -9,3 +9,4 @@ description: "Humans are the only Earthlings with complex language. But at what 
 tags:
   - "clippings"
 ---
+## Transcript
