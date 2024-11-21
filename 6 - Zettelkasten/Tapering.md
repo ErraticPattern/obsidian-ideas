@@ -15,7 +15,7 @@ id:
 
 ---
 # Tapering
-
+Tapering results in lower power in [[Power spectral density (PSD)]] and smooths it out. In general, tapering with different windows does not produce much different results. Tapering might not always be necessary as the results can be very similar. Interestingly, [[Hann window]]  suppresses more signal at the edges in comparison to the [[Hamming window]] or a [[Gaussian]] window.
 
 ---
 # Notes
