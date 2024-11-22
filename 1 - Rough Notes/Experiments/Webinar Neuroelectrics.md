@@ -4,7 +4,7 @@ end date:
 id:
   - 3CF20512
   - ne_webinar
-status: in progress
+status: done
 tags:
   - "#experiment"
 aliases:
@@ -12,7 +12,7 @@ aliases:
 ---
 # Description
 
-Presenting at a webinar about the use of Neuroelectrics' EEG products.
+Presenting at a webinar about the use of Neuroelectrics' EEG products. Overall it was a good experience. The moderator was Rafal Nowak. I did well considering I did not rehearse it.
 
 ---
 # Tasks

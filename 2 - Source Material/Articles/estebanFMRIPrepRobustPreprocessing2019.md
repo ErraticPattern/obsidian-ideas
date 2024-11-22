@@ -159,7 +159,14 @@ No notes available.
 
 %% begin notes %%
 
-<!-- Write your personal notes here -->
+### Bookmark
+
+- **Bookmark**: Page <!-- Specify the page number or section -->
+- **Status**: #incomplete
+- **Relevance**: 7
+## Commentaries
+
+
 
 %% end notes %%
 
