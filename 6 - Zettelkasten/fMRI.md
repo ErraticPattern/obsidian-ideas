@@ -1,6 +1,8 @@
 ---
 creation date: 2024-11-02 23:52
-aliases: 
+aliases:
+  - functional magnetic resonance
+  - functional magnetic resonance imaging
 tags:
   - "#topic"
 modification date: Saturday, 2nd November 2024, 23:52:15
