@@ -1,6 +1,9 @@
 ---
 creation date: 2024-09-07 21:10
-aliases: 
+aliases:
+  - GLM
+  - glm
+  - GLMs
 tags:
   - baby
 modification date: Saturday, 7th September 2024, 21:10:13

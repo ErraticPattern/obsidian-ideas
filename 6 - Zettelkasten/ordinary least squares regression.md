@@ -1,6 +1,9 @@
 ---
 creation date: 2024-10-03 20:02
-aliases: 
+aliases:
+  - ordinary least squares
+  - ordinary least square
+  - OLS
 tags:
   - vault
 modification date: Thursday, 3rd October 2024, 20:02:12

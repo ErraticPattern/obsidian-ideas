@@ -1,6 +1,8 @@
 ---
 creation date: 2024-11-23 01:17
-aliases: 
+aliases:
+  - LIMO
+  - Hierarchical Linear Modeling
 tags:
   - baby
 modification date: Saturday, 23rd November 2024, 01:17:56

@@ -1,6 +1,7 @@
 ---
 creation date: 2024-11-19 16:51
-aliases: 
+aliases:
+  - design matrices
 tags:
   - baby
 modification date: Tuesday, 19th November 2024, 16:51:03
