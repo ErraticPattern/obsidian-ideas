@@ -13,4 +13,4 @@
 - [ ] Web Scraping and APIs
 - [ ] CNKI (China National Knowledge Infrastructure)
 - [x] Hydrocephalus ✅ 2024-11-16
-- [ ] Bus factor
+- [x] [[Bus factor]] ✅ 2024-11-27
