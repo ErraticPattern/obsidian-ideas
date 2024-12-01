@@ -40,3 +40,4 @@
 - [ ] Install Gpower. ⏬ 
 - [ ] Learn how to setup and use clusters of computers for faster computations. ⏬ 
 - [ ] Update `matlab_config` to create a logfile of the system information. 🔽 
+- [ ] Implement parallel computing in matlab. 🔽 
