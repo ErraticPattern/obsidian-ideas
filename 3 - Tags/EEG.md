@@ -2,6 +2,7 @@
 creation date: 2024-05-18 12:53
 aliases:
   - Electroencephalogram
+  - Electroencephalography
 tags:
   - "#topic"
 modification date: Saturday, 18th May 2024, 12:53:59

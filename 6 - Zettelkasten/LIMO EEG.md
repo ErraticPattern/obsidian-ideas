@@ -23,6 +23,9 @@ The main goal of the toolbox is to provide ‘full space’ analyses of experime
 
 ---
 # Notes
+To use LIMO you must:
++ Import your BIDS-formatted dataset into [[EEGLAB]] using `pop_importbids`, which is a function from a plugin.
++ You must then precompute measurements such as the [[ERP]], ERSP, and PSD.
 
 ## Definition
 

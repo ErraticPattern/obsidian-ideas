@@ -16,7 +16,7 @@ id:
 
 ---
 # trimOutlier
-[[EEGLAB]] plugin to visualize and clean ()
+[[EEGLAB]] plugin to visualize and clean (optional) EEG data.
 
 ---
 # Notes

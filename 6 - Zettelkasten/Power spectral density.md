@@ -1,6 +1,8 @@
 ---
 creation date: 2024-10-03 18:45
-aliases: 
+aliases:
+  - psd
+  - PSD
 tags:
   - baby
 modification date: Thursday, 3rd October 2024, 18:45:16

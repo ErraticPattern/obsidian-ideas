@@ -198,7 +198,7 @@ tags:
 
 
 
-> [[Power spectral density (PSD)]]
+> [[Power spectral density]]
 
 
 
