@@ -16,7 +16,7 @@ id:
 ---
 # BIDS conversion
 One of the first steps in data analysis is to format data according to BIDS. The requirements include an excel file with subject information to be processed with `bids_spreadsheet2participants.m` and raw data to be converted with  [[Fieldtrip]]'s `data2bids.m`. 
-As of now, I am only used to perform this conversion using [[MATLAB]] and not [[Python]]. Since my main toolboxes for MATLAB include [[EEGLAB]] and [[Fieldtrip]], I create two distinct BIDS non-derivative folders, i.e. for raw data. The first is the direct output of `data2bids` with the  `convert` or `copy` method, which will be saved in the `bidsroot` directory.
+As of now, I am only used to perform this conversion using [[MATLAB]] and not [[Python]]. Since my main toolboxes for MATLAB include [[EEGLAB]] and [[Fieldtrip]], I create two distinct BIDS non-derivative folders, i.e. for raw data. The first is the direct output of `data2bids` with the  `convert` or `copy` method, which will be saved in the `bidsroot` directory. One other output of this function will be `.set` files saved with BIDS-corrected names in the `bids_set` folder, which will be saved in the `sourcedata` folder (`fullfile(sourcedata, 'supp', 'bids_set')`).
 
 ---
 # Notes
