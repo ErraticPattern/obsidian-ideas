@@ -15,7 +15,7 @@ id:
 
 ---
 # FreeSurfer
-Freesurfer can be run on windows via [[Docker Container]].
+While Freesurfer was made for MacOS, it can be run on windows via [[Docker Container]].
 
 ---
 # Notes
