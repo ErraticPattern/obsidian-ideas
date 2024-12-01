@@ -15,7 +15,8 @@ id:
 
 ---
 # BIDS conversion
-One of the first steps in data analysis is to format data according to BIDS. The requirements include an excel file with subject information and raw data
+One of the first steps in data analysis is to format data according to BIDS. The requirements include an excel file with subject information to be processed with `bids_spreadsheet2participants.m` and raw data to be converted with  [[Fieldtrip]]'s `data2bids.m`. 
+As of now, I am only used to perform this conversion using [[MATLAB]] and not [[Python]]. Since my main toolboxes for MATLAB include [[EEGLAB]] and [[Fieldtrip]], I create two distinct BIDS non-derivative folders, i.e. for raw data. The first is the direct output of `data2bids` with the  
 
 ---
 # Notes
