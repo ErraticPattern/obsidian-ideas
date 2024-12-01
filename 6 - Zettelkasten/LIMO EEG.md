@@ -13,11 +13,13 @@ id:
 ## Parent note
 ---
 ## Backlinking
-
+[[pernetLIMOEEGToolbox2011]]
 
 ---
 # LIMO EEG
-
+The main goal of the toolbox is to provide ‘full space’ analyses of experimental effects, i.e. simultaneously for all time and/or frequency time points and all channels, independent components or sources ([Getting started with LIMO MEEG - FieldTrip toolbox](https://www.fieldtriptoolbox.org/getting_started/limo/)).
+>[!figure] ![[Pasted image 20241201015008.png]]
+>*Figure 1*: Workings of [[LIMO EEG|LIMO]].
 
 ---
 # Notes
