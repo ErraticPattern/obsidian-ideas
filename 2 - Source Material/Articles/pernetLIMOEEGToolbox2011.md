@@ -37,6 +37,27 @@ tags:
 
 
 
+#### Page 2
+
+
+
+
+![](<0 - Supplementary/images/pernetLIMOEEGToolbox2011.md/image-2-x41-y479.png>)
+
+
+
+> *(No annotated text)*
+
+
+
+
+- **Color**: #ffd400 (Yellow)
+- **Date**: 2024-12-01 5:03 pm
+
+---
+
+
+
 #### Page 3
 
 
@@ -52,7 +73,49 @@ tags:
 
 
 - **Color**: #ffd400 (Yellow)
-- **Date**: 2024-11-23 1:10 am
+- **Date**: 2024-11-30 7:44 pm
+
+---
+
+
+
+#### Page 8
+
+
+
+
+![](<0 - Supplementary/images/pernetLIMOEEGToolbox2011.md/image-8-x106-y479.png>)
+
+
+
+> *(No annotated text)*
+
+
+
+
+- **Color**: #ffd400 (Yellow)
+- **Date**: 2024-12-01 5:04 pm
+
+---
+
+
+
+#### Page 10
+
+
+
+
+
+
+
+> Also, because analyses are performed on independent electrodes and time frames, one can miss more subtle effects that might develop over time or space, and would be picked up by multivariate [20] or multidimensional [21] approaches.
+
+
+
+
+
+- **Color**: #e56eee (Magenta)
+- **Date**: 2024-11-30 7:46 pm
 
 ---
 
@@ -74,7 +137,7 @@ tags:
 
 
 - **Color**: #5fb236 (Green)
-- **Date**: 2024-11-23 1:13 am
+- **Date**: 2024-11-30 7:44 pm
 
 ---
 
@@ -90,7 +153,14 @@ No notes available.
 
 %% begin notes %%
 
-<!-- Write your personal notes here -->
+### Bookmark
+
+- **Bookmark**: Page <!-- Specify the page number or section -->
+- **Status**: #incomplete
+- **Relevance**: 8.8
+## Commentaries
+
+
 
 %% end notes %%
 
@@ -124,7 +194,7 @@ Pernet, C. R., Chauveau, N., Gaspar, C., & Rousselet, G. A. (2011). LIMO EEG: A 
 ### Attachments
 
 
-- **Pernet et al. - 2011 - LIMO EEG A Toolbox for Hierarchical LInear MOdeling of ElectroEncephaloGraphic Data.pdf**: I:\My Drive\literature\neuro\software\Pernet et al. - 2011 - LIMO EEG A Toolbox for Hierarchical LInear MOdeling of ElectroEncephaloGraphic Data.pdf
+- **Pernet et al. - 2011 - LIMO EEG A Toolbox for Hierarchical LInear MOdeling of ElectroEncephaloGraphic Data.pdf**: C:\Users\joaop\Zotero\storage\ARRSKA45\Pernet et al. - 2011 - LIMO EEG A Toolbox for Hierarchical LInear MOdeling of ElectroEncephaloGraphic Data.pdf
 
 - **Snapshot**: C:\Users\joaop\Zotero\storage\NU845VBY\831409.html
 
@@ -157,7 +227,5 @@ Pernet, C. R., Chauveau, N., Gaspar, C., & Rousselet, G. A. (2011). LIMO EEG: A 
 
 
 
-<!-- Any additional notes or comments -->
 
-
-%% Import Date: 2024-11-26T22:01:18.559+00:00 %%
+%% Import Date: 2024-12-01T17:05:11.229+00:00 %%

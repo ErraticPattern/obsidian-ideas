@@ -59,6 +59,45 @@ tags:
 
 
 
+#### Page 3
+
+
+
+
+
+
+
+
+> [[Channel]]
+
+
+
+
+
+- **Color**: #5fb236 (Green)
+- **Date**: 2024-12-01 5:01 pm
+
+---
+
+
+
+
+
+
+
+> Channel: Complete system for the detection, amplification and display of potential differences between a pair of electrodes, or a computed reference (for example common average reference). Digital EEG machines simulate a multichannel display by tracing several voltage time plots on a visual display.
+
+
+
+
+
+- **Color**: #ffd400 (Yellow)
+- **Date**: 2024-12-01 5:01 pm
+
+---
+
+
+
 #### Page 11
 
 
@@ -655,4 +694,4 @@ Kane, N., Acharya, J., Beniczky, S., Caboclo, L., Finnigan, S., Kaplan, P. W., S
 
 
 
-%% Import Date: 2024-11-08T17:20:13.974+00:00 %%
+%% Import Date: 2024-12-01T17:05:11.192+00:00 %%

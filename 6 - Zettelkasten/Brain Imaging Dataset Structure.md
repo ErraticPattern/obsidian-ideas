@@ -1,6 +1,8 @@
 ---
 creation date: 2024-10-03 19:42
-aliases: 
+aliases:
+  - bids
+  - BIDS
 tags:
   - baby
 modification date: Thursday, 3rd October 2024, 19:42:46
