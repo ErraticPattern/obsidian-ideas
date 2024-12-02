@@ -28,10 +28,11 @@ The main goal of the toolbox is to provide ‘full space’ analyses of experime
 1. Import your BIDS-formatted dataset into [[EEGLAB]] using `pop_importbids`, which is a function from a plugin.
 2. You must then precompute measurements such as the [[ERP]], ERSP, and PSD.
 3. Create a study design.
-4. Compure
-5. View results by always loading the channel location `.mat` file (see [[General Linear Modeling of EEG in EEGLABLIMO part 2 Practicum - YouTube]])
-
-
+4. Compute EEG features and specify parameters.
+5. Choose statistical method.
+6. View results by always loading the channel location `.mat` file (see [[General Linear Modeling of EEG in EEGLABLIMO part 2 Practicum - YouTube]])
+## Troubleshooting
+If the toolbox cannot find the derivatives folder, create it manually.
 ## Definition
 
 ## Associations
