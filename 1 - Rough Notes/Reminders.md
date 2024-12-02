@@ -35,9 +35,10 @@
 - [ ] Add also the word documents from my thesis.
 - [ ] Create scripts/functions for the `scans.tsv` and `sessions.tsv`. Make sure you also understand the `beh` folder better.
 - [x] Have a meeting with Diego and ask him about the simultaneous-mri preprocessing of eeg, the statistical analysis he performed, and if he knows where the exp.4 data is. ⏫ ✅ 2024-10-27
-- [ ] Try to make NET work in MATLAB (Fork it). ⏫ 
+- [ ] Try to make NET work in MATLAB (Fork it). 🔼 
 - [ ] Check out [[EEGLAB]]'s postAmicaUtility plugin. 🔽 
 - [ ] Install Gpower. ⏬ 
 - [ ] Learn how to setup and use clusters of computers for faster computations. ⏬ 
 - [ ] Update `matlab_config` to create a logfile of the system information. 🔽 
-- [ ] Implement parallel computing in matlab. 🔽 
+- [ ] Implement parallel computing in matlab. 🔼 
+- [ ] Start implementing more code for sanity-checks.🔼 
