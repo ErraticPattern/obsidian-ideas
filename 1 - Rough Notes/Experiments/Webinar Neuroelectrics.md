@@ -1,6 +1,6 @@
 ---
 start date: 2024-06-14
-end date: 
+end date: 2024-11-21
 id:
   - 3CF20512
   - ne_webinar

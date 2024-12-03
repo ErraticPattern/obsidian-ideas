@@ -1,6 +1,6 @@
 ---
 start date: 2024-08-30
-end date: 
+end date: 2024-11-14
 id:
   - 3CF2050B
   - BID
@@ -60,6 +60,7 @@ LIMIT 10
 # Appendix
 ## Commentaries
 The [[Brain Innovation Days]] was my first event as a presenter. I presented the backpack from [[Emotional Cities - Experiment nº4]]. While it did not start off well, mostly due to lack of engagement by the small crowd it progressively got better. Unfortunately, I did not get the time to visit the city, and the place where I was staying was not the best. However, what really made me extremely happy to have participated in the event was the people I met. I met Angel from [[Starlab]]; I met Moritz, a neuroscientist from [[IDUN Technologies]] that also attended BOOM festival; I met Carolina, which was part of the [[HaDEA]], which funded the emotional cities project; and finally, I met Ana which was such a sweet girl and definitely provided me the best memories of the event. I loved being with her and it broke my heart to leave because I wanted to spend more time with her. There were also other interesting people which I met, but the previous ones were the ones that marked this adventure. I met Julien, the CEO of Cortex Machina. He was a bit of a child though.
+## Others
 **Title (draft)**
 ```
 NOVEL DATA COLLECTION UNIT FOR EEG AND ENVIRONMENTAL DATA ACQUISITION IN OUTDOOR URBANISTIC ENVIRONMENTS

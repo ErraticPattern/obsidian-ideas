@@ -1,6 +1,6 @@
 ---
 start date: 2024-06-07
-end date: 
+end date: 2024-12-03
 id:
   - 3CCE0508
   - vaas
@@ -8,6 +8,7 @@ status: done
 tags:
   - "#experiment"
 aliases:
+  - vaas
 ---
 ---
 # Description
