@@ -4,7 +4,7 @@ end date:
 id:
   - 3CCE0508
   - vaas
-status: in progress
+status: done
 tags:
   - "#experiment"
 aliases:
