@@ -4,7 +4,7 @@
 - [ ] Learn about CodeSpace in GitHub.
 - [ ] [[ECoG]] [[ESI|electrical source imaging]] 
 - [ ] Idea: Company that provides experiment quality control. Use in lab.
-- [ ] Idea: Suggest a way for BIDS to save environmental data (indoor or outdoor).
+- [ ] Idea: Suggest a way for BIDS to save environmental data (indoor or outdoor). Propose this idea to Bruno. Neurogears might also be interested. There is currently a [BIDS 2.0 project](https://github.com/orgs/bids-standard/projects/10/views/1) being developed. Use of ``geojsons`` might be allowd in this new version.
 - [ ] Update BIDS functions.
 - [ ] Find if there is an app that can save your computer's setup (installed apps and browser settings).
 - [ ] Find more about [G-Node GIN](https://gin.g-node.org/).
@@ -42,3 +42,4 @@
 - [ ] Update `matlab_config` to create a logfile of the system information. 🔽 
 - [ ] Implement parallel computing in matlab. 🔼 
 - [ ] Start implementing more code for sanity-checks.🔼 
+- [ ] Know more about remote desktop connection for windows.
