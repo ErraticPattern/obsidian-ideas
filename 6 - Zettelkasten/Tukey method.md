@@ -29,6 +29,7 @@ id:
 ---
 ## Links
 - [Google Search](https://www.google.com/search?q=Tukey+method)
+- https://www.mathworks.com/matlabcentral/fileexchange/134546-outlier-anomaly-detection-with-matlab/?s_tid=mlc_lp_leaf
 
 ---
 # Bibliography
