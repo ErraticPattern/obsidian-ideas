@@ -32,8 +32,10 @@ Save important documents in your google drive.
 + Install the Google Drive app in order to navigate its contents in the file explorer.
 ## Github
 Always have two accounts (professional and personal):
-- **JoaoAmaro2001**
-- **ErraticPattern**
+- *JoaoAmaro2001*
+- *ErraticPattern*
+### Credential Management
+The credentials of your [[Github]] accounts can be saved using the `Manage Windows Credentials` utility. This can be done by adding generic credentials. For example, `https://ErraticPattern@github.com` can be associated with the ``ErraticPattern`` user. Note that you need to be logged out of all your github accounts when saving your credentials. More information can be found on this [link](https://www.reddit.com/r/github/comments/1czdpoh/how_to_use_multiple_accounts_using_https_on/).
 # Secundary Apps
 ## Privacy
 + **KeePass 2**

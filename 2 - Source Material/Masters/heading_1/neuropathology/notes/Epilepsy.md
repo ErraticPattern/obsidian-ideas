@@ -24,7 +24,11 @@ Tumours are epileptogenic because of localization, brain tissue compression, sec
 
 ## Kluver-Bucy Syndrome
 
-## Multiple Sclerosis# Epilepsy
+## Multiple Sclerosis
+
+
+
+# Epilepsy
 
 It occurs to a synchronous occurrence of cortical activity. Etiologically, epilepsy can be caused by a genetic factor - idiopathic/primary epilepsy – (e.g., channelopathies), by structural/metabolic/infectious/immune causes – secondary epilepsy – or by unknown causes. **Epileptogenesis** is the name given to the process by which a neural circuit passes form a healthy state into a hyperexcitable state – it begins with an initial insult. **Ictogenesis** refers to the mechanisms by which epileptic crisis are generated.
 

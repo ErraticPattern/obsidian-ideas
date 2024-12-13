@@ -696,7 +696,7 @@ tags:
 
 
 
-> [[github]], [[google-code]], [[figshare]]
+> [[Github]], [[google-code]], [[figshare]]
 
 
 
