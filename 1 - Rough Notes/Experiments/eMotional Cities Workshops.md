@@ -13,11 +13,13 @@ aliases:
 # Description
 Tasks regarding the presentation of all the procedures related to the emotional cities project. This involves the following **workshops**:
 - [x] Neuroarchitecture event📅 2024-11-28
-- [<] Copenhagen Eventee📅 2024-12-08
+- [x] Copenhagen Event📅 2024-12-08
 - [<] IGOT workshop📅 2024-12-16
-- [<] Final event (February)
+- [<] Final event (📅 2025-02-28)
 ## Neuroarchitecture
 It was very fun. I went with Alice and Pedro. Very similar organization to the [[Brain Innovation Days]] event, except on a smaller scale.
+## Copenhagen Event
+Interesting and fun event. Interesting since it gave me an idea of how the different people involved in a project play their part, some more successfully than others and why it is important to "Vender o peixe".
 
 ---
 # Tasks
