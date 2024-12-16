@@ -6,6 +6,12 @@ tags:
   - "#topic"
 modification date: Monday, 6th May 2024, 15:44:55
 ---
-
 ## Parent note
+[[EEG]]
+## History
+The ERP came 
+## Components
 [[Late Positive Potential|LPP]]
+# Links
+# References
+

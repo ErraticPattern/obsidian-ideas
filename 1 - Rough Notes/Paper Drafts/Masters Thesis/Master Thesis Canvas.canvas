@@ -1,12 +1,17 @@
 {
 	"nodes":[
-		{"id":"d44692a86b1bb4a2","x":-540,"y":-20,"width":250,"height":60,"type":"text","text":"Introduction"},
-		{"id":"4e638a833b7157a6","x":120,"y":-190,"width":400,"height":400,"type":"file","file":"6 - Zettelkasten/Late Positive Potential.md"},
-		{"id":"30416839ab60c975","x":-540,"y":180,"width":250,"height":60,"type":"text","text":"Methods"},
-		{"id":"311ea02223734f07","x":120,"y":280,"width":400,"height":400,"type":"file","file":"1 - Rough Notes/Experiments/Emotional Cities - Experiment nº2.md"}
+		{"id":"d44692a86b1bb4a2","type":"text","text":"Introduction","x":-540,"y":-20,"width":250,"height":60},
+		{"id":"4e638a833b7157a6","type":"file","file":"6 - Zettelkasten/Late Positive Potential.md","x":120,"y":-190,"width":400,"height":400},
+		{"id":"30416839ab60c975","type":"text","text":"Methods","x":-540,"y":180,"width":250,"height":60},
+		{"id":"311ea02223734f07","type":"file","file":"1 - Rough Notes/Experiments/Emotional Cities - Experiment nº2.md","x":120,"y":280,"width":400,"height":400},
+		{"id":"5ba4ff85475501a3","type":"text","text":"Backgorund","x":-540,"y":-190,"width":250,"height":60},
+		{"id":"16812748537bae9d","type":"file","file":"3 - Tags/EEG.md","x":40,"y":-1020,"width":560,"height":400},
+		{"id":"37592af38dc6b74e","type":"file","file":"3 - Tags/ERP.md","x":920,"y":-890,"width":600,"height":540}
 	],
 	"edges":[
 		{"id":"0fef249369a9bc87","fromNode":"d44692a86b1bb4a2","fromSide":"right","toNode":"4e638a833b7157a6","toSide":"top"},
-		{"id":"52e7c00f19bcaea5","fromNode":"30416839ab60c975","fromSide":"right","toNode":"311ea02223734f07","toSide":"left","label":"Using data from experiment nº2"}
+		{"id":"52e7c00f19bcaea5","fromNode":"30416839ab60c975","fromSide":"right","toNode":"311ea02223734f07","toSide":"left","label":"Using data from experiment nº2"},
+		{"id":"a0d982373f6752ed","fromNode":"5ba4ff85475501a3","fromSide":"right","toNode":"16812748537bae9d","toSide":"left"},
+		{"id":"f41f48aa44427ea2","fromNode":"16812748537bae9d","fromSide":"right","toNode":"37592af38dc6b74e","toSide":"left"}
 	]
 }

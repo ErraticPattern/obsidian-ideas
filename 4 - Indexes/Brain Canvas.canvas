@@ -1,11 +1,11 @@
 {
 	"nodes":[
-		{"id":"01965bcc241163d4","x":-1460,"y":180,"width":860,"height":440,"type":"group","label":"Electrical Signals"},
-		{"id":"fed5ab984f3a37a2","x":-180,"y":-280,"width":250,"height":60,"type":"text","text":"[[Brain]]"},
-		{"id":"ec6d4e68c2056831","x":-520,"y":-80,"width":250,"height":60,"type":"text","text":"[[Electrophysiology]]"},
+		{"id":"01965bcc241163d4","type":"group","x":-1460,"y":140,"width":860,"height":480,"label":"Electromagnetic Signals"},
+		{"id":"fed5ab984f3a37a2","type":"text","text":"[[Brain]]","x":-180,"y":-280,"width":250,"height":60},
+		{"id":"ec6d4e68c2056831","type":"text","text":"[[Electrophysiology]]","x":-520,"y":-80,"width":250,"height":60},
 		{"id":"adcbdbd20fda0b14","type":"text","text":"[[Neuroimaging]]","x":-160,"y":-80,"width":240,"height":60},
-		{"id":"d108fcb010439e3c","x":-1440,"y":200,"width":400,"height":400,"type":"file","file":"3 - Tags/EEG.md"},
-		{"id":"d85be54c6d5a8378","x":-1020,"y":200,"width":400,"height":400,"type":"file","file":"6 - Zettelkasten/EMG.md"}
+		{"id":"d108fcb010439e3c","type":"file","file":"3 - Tags/EEG.md","x":-1440,"y":200,"width":400,"height":400},
+		{"id":"d85be54c6d5a8378","type":"file","file":"6 - Zettelkasten/EMG.md","x":-1020,"y":200,"width":400,"height":400}
 	],
 	"edges":[
 		{"id":"bbe88f5f766ba071","fromNode":"ec6d4e68c2056831","fromSide":"top","toNode":"fed5ab984f3a37a2","toSide":"bottom"},
