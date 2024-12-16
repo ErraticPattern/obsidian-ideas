@@ -1,6 +1,7 @@
 ---
 creation date: 2024-12-16 19:26
-aliases: 
+aliases:
+  - UO
 tags:
   - baby
 modification date: Monday, 16th December 2024, 19:26:55
@@ -15,7 +16,7 @@ id:
 
 ---
 # Unit of observation
-
+In neuroscience, an unit of observation can be either a trial or a subject.
 
 ---
 # Notes
