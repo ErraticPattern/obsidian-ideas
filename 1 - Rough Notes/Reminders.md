@@ -43,3 +43,5 @@
 - [ ] Implement parallel computing in matlab. 🔼 
 - [ ] Start implementing more code for sanity-checks.🔼 
 - [ ] Know more about remote desktop connection for windows.
+- [ ] Add university data (from databases).
+- [ ] Find a way to assess in obsidian if any two random notes are connected or not. Additionally, this could be generalized to advanced graph statistics.

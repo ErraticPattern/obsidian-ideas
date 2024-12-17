@@ -372,6 +372,105 @@ tags:
 
 
 
+#### Page 225
+
+
+
+
+![](<0 - Supplementary/images/cohenAnalyzingNeuralTime2014.md/image-225-x106-y339.png>)
+
+
+
+> *(No annotated text)*
+
+
+
+
+- **Color**: #ffd400 (Yellow)
+- **Date**: 2024-12-17 10:04 am
+
+---
+
+
+
+#### Page 226
+
+
+
+
+
+
+
+
+> [[discrete prolate spheroidal sequences]]
+
+
+
+
+
+- **Color**: #5fb236 (Green)
+- **Date**: 2024-12-17 10:05 am
+
+---
+
+
+
+
+
+
+
+
+> [[Slepian tapers]]
+
+
+
+
+
+- **Color**: #5fb236 (Green)
+- **Date**: 2024-12-17 10:05 am
+
+---
+
+
+
+
+
+
+
+> Slepian tapers are orthogonal to each other (that is, the dot product of any one taper with any other taper is 0), and they have slightly different frequency characteristics, thus focusing the spectra of the resulting tapered time series on different parts of the spectrum.
+
+
+
+
+
+- **Color**: #ff6666 (Red)
+- **Date**: 2024-12-17 10:06 am
+
+---
+
+
+
+#### Page 228
+
+
+
+
+
+
+
+> the Matlab toolbox fieldtrip has the most active development of this method, including, for example, options to create frequency-band-selective  tapers that further enhance their sensitivity beyond the basic multitaper application discussed in this chapter.
+
+
+
+
+
+- **Color**: #ffd400 (Yellow)
+- **Date**: 2024-12-17 10:08 am
+
+---
+
+
+
 #### Page 238
 
 
@@ -1506,4 +1605,4 @@ Cohen, M. X. (2014). _Analyzing Neural Time Series Data: Theory and Practice_. T
 
 
 
-%% Import Date: 2024-11-08T17:20:13.885+00:00 %%
+%% Import Date: 2024-12-17T13:00:21.420+00:00 %%
