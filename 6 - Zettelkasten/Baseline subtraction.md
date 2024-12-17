@@ -19,7 +19,7 @@ id:
 
 ---
 # Notes
-It is argued by [[Arnaud Delorme]] that subtracting the baseline in ERP analysis is wrong as it represents an outdated model from an era of limited computing power. 
+It is argued by [[Arnaud Delorme]] that subtracting the baseline in [[ERP]] analysis is wrong as it represents an outdated model from an era of limited computing power. The conclusion of this video essay is that baseline subtraction is not recommended but if it has to be used then it is better to use a longer baseline period.
 ## Definition
 
 ## Associations

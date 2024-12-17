@@ -45,5 +45,5 @@ _%>
 - [Google Search](https://www.google.com/search?q=<%* let searchTitle = tp.file.title.replace(/ /g, '+'); tR += searchTitle %>)
 
 ---
-# Bibliography
+# References
 + 

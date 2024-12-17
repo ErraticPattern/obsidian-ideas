@@ -3,7 +3,7 @@ creation date: 2024-12-17 18:13
 aliases: 
 tags:
   - baby
-modification date: Tuesday, 17th December 2024, 18:13:50
+modification date: Tuesday, 17th December 2024, 18:50:12
 id:
 ---
 ---
@@ -14,7 +14,11 @@ id:
 
 
 ---
-# Baseline removal
+# Baseline correction
+Types:
++ [[Baseline subtraction]]
++ Z-score
++ Percent change
 
 
 ---
@@ -28,7 +32,7 @@ id:
 
 ---
 ## Links
-- [Google Search](https://www.google.com/search?q=Baseline+removal)
+- [Google Search](https://www.google.com/search?q=Baseline+correction)
 
 ---
 # Bibliography
