@@ -1,3 +1,7 @@
+---
+tags:
+  - linker-exclude
+---
 # Vault Organization
 
 ## 0 - Supplementary

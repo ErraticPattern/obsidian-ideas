@@ -174,7 +174,7 @@ GABAA (5 subunits) – 2 necessary α subunits (where GABA binds). Results in fa
 
 GlyRs – permeable to Cl ([[#^comment-0|Comment Unknown Author 1]]).
 
-P2X receptors are membrane ion channels preferably permeable to sodium, potassium and calcium that open within milliseconds of the binding of ATP.
+P2X receptors are membrane ion channels preferably permeable to sodium, potassium and calcium that open within milliseconds of the binding of ATP. 
 
 ### Ion Channels
 
@@ -186,7 +186,7 @@ Follow the electrochemical gradient depending on it, like the ionotropic recepto
 
 Opens at around -40 mV. Voltage-gated sodium channels have two gates: an activating gate that is voltage-dependent and an inactivating gate that is time-dependent. The opening of the activating gate allows the influx of sodium and cell depolarization. The closing of the inactivation gate will stop the flow of sodium regardless of the status of the activation gate. These two gates work in tandem to ensure that depolarization occurs in a controlled manner: after being open for a few milliseconds, the voltage-gated sodium channels will inactivate, stopping the flow of sodium, even in the presence of persistent stimulation. The channel will remain unable to open again until the cell repolarizes to a threshold voltage that varies depending on the cell type.
 
-Channel pore is blocked by TTX.
+Channel pore is blocked by TTX. 
 
 - Potassium (4 subunits)
 
@@ -227,7 +227,7 @@ General overview:
 
 - Ca ([[#^comment-0|Comment Unknown Author 2]])
 
-Intracellular calcium concentration needs to be tightly regulated. Below are represented some channels which regulate it. SOCs are positive-feedback Ca ([[#^comment-0|Comment Unknown Author 2]]) channels which open when calcium inside the endoplasmatic reticulum is released into the cytosol. NCX has low affinity but high capacity while the PMCA has high affinity but saturates easily. Furthermore, NCX can reverse the direction of the ion flux depending on the intracellular concentration of sodium.
+Intracellular calcium concentration needs to be tightly regulated. Below are represented some channels which regulate it. SOCs are positive-feedback Ca ([[#^comment-0|Comment Unknown Author 2]]) channels which open when calcium inside the endoplasmatic reticulum is released into the cytosol. NCX has low affinity but high capacity while the PMCA has high affinity but saturates easily. Furthermore, NCX can reverse the direction of the ion flux depending on the intracellular concentration of sodium. 
 
 ![](<2 - Source Material/Masters/attachments/Attachment 122.png>)
 

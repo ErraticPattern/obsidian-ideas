@@ -3,6 +3,7 @@ creation date: 2024-12-01 16:58
 aliases:
   - channels
   - Channels
+  - channel
 tags:
   - baby
 modification date: Sunday, 1st December 2024, 16:58:53
