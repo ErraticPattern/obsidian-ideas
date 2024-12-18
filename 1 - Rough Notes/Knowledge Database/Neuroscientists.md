@@ -13,7 +13,9 @@
 + [[António Damásio]]
 
 ### Unknown by me (Portuguese)
-+ [[Patricia Figueiredo]]
++ [[Patrícia Figueiredo]]
++ [[Alexandre Andrade]]
++ [[Sofia Fernandes]]
 + [[Carla Bentes]]
 + [[Joana Cabral]]
 

@@ -372,6 +372,45 @@ tags:
 
 
 
+#### Page 221
+
+
+
+
+
+
+
+> Whereas the phase-angl–etime series from wavelet convolution or filter-Hilbert is an estimate of the instantaneous phase value at each time point, the  phase value from the short-time FFT method is the phase parameter of the sine wave at each  frequency
+
+
+
+
+
+- **Color**: #ffd400 (Yellow)
+- **Date**: 2024-12-18 7:03 pm
+
+---
+
+
+
+
+
+
+
+
+> [[intertrial phase clustering]]
+
+
+
+
+
+- **Color**: #5fb236 (Green)
+- **Date**: 2024-12-18 7:04 pm
+
+---
+
+
+
 #### Page 225
 
 
@@ -1605,4 +1644,4 @@ Cohen, M. X. (2014). _Analyzing Neural Time Series Data: Theory and Practice_. T
 
 
 
-%% Import Date: 2024-12-17T13:00:21.420+00:00 %%
+%% Import Date: 2024-12-18T22:07:44.042+00:00 %%
