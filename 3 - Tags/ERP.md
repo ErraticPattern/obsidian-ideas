@@ -12,7 +12,8 @@ modification date: Monday, 6th May 2024, 15:44:55
 ## History
 The ERP came 
 ## Components
-[[Late Positive Potential|LPP]]
++ [[Late Positive Potential|LPP]]
++ [[error-related negativity|ERN]]
 # Links
 # References
 

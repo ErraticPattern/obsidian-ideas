@@ -64,7 +64,7 @@ tags:
 
 
 
-> [[functional magnetic resonance imaging]]
+> [[fMRI]]
 
 
 

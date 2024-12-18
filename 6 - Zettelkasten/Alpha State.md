@@ -3,6 +3,8 @@ creation date: 2024-07-13 13:49
 aliases:
   - 10 Hz
   - Alpha
+  - alpha rhythm
+  - alpha EEG rhythm
 tags:
   - baby
 modification date: Saturday, 13th July 2024, 13:49:42

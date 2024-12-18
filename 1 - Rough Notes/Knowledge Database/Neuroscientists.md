@@ -7,15 +7,20 @@
 + [[Clévio Nóbrega]]
 + [[Diego Andrés Blanco-Mora]]
 + [[Carlos Matos]]
-+ Diana Prata
++ [[Diana Prata]]
 + [[Vasco Conceição]]
 + [[Rui Costa]]
++ [[António Damásio]]
 
-### Unknown by me
+### Unknown by me (Portuguese)
++ [[Patricia Figueiredo]]
++ [[Carla Bentes]]
++ [[Joana Cabral]]
+
+### Unknown by me (Legends)
 + [[Karl Friston]]
 + [[Sylvain Baillet]]
 + [[Christoph Guger]]
-+ [[António Damásio]]
 + [[Mike X. Cohen]]
 + [[Makoto Miyakoshi]]
 

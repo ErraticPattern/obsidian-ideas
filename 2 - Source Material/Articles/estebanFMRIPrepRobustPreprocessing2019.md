@@ -64,7 +64,7 @@ url: "https://www.nature.com/articles/s41592-018-0235-4"
 
 
 
-> [[Functional magnetic resonance imaging]]
+> [[fMRI]]
 
 
 

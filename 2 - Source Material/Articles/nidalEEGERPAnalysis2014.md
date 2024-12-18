@@ -1031,7 +1031,7 @@ url: ""
 
 
 
-> [[functional magnetic resonance imaging]]
+> [[fMRI]]
 
 
 
