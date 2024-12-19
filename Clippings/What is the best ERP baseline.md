@@ -9,7 +9,7 @@ description: "What is the best ERP baseline? Should we even remove the baseline?
 tags:
   - "clippings"
 ---
-#
+# What is the best ERP baseline
 # Notes
 # Content 
 Video title: Statistics using non-parametric randomization techniques
