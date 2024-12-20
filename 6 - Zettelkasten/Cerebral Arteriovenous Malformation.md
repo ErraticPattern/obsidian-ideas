@@ -10,7 +10,7 @@ id:
 ---
 
 ## Parent note
-[[Neurosurgery]]---
+[[Neurosurgery Study]]---
 ## Backlinking
 
 

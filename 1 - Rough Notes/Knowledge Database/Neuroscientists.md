@@ -11,13 +11,14 @@
 + [[Vasco Conceição]]
 + [[Rui Costa]]
 + [[António Damásio]]
++ [[Lia Pereira Lucas Neto]]
 
 ### Unknown by me (Portuguese)
 + [[Patrícia Figueiredo]]
 + [[Alexandre Andrade]]
 + [[Sofia Fernandes]]
 + [[Carla Bentes]]
-+ [[Alexandre Campos]]
++ [[Alexandre Rainha Campos]]
 + [[Joana Cabral]]
 
 ### Unknown by me (Legends)
