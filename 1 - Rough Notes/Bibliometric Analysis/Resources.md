@@ -16,5 +16,8 @@
 + [[Research Rabbit]]
 ## *Writing*
 + ChatGPT
+## *Sharing*
++ [[Github]]
++ Zenodo
 ## *Links*
 + [What is the best way to find research papers? : r/scientificresearch (reddit.com)](https://www.reddit.com/r/scientificresearch/comments/3ujsz8/what_is_the_best_way_to_find_research_papers/)
