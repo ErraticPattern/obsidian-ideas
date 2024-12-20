@@ -4,6 +4,7 @@ aliases:
   - signal-to-noise ratio
   - snr
   - snr ratio
+  - SNR
 tags:
   - "#topic"
 modification date: Friday, 23rd August 2024, 22:59:53
