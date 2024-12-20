@@ -9,7 +9,7 @@ status:
 
 ## Notes
 Great guy! As of now (20/12/2024) he is working in [[Starlab]] Barcelona. The company might soon cease to exist.
-For him, averaging is the best method to increase the [[signal-to-noise ratio]]. He is not hesitant in rejecting channels, data, or participants. He frequently analyses EEG data by creating clusters of channels. One can see his workflow is very average-based. Additionally, he is very careful with his statistics. While he works mainly with the [[Neyman-Pearson approach]], he is shifting towards Bayesian statistics.
+For him, averaging is the best method to increase the [[signal-to-noise ratio]]. He is not hesitant in rejecting channels, data, or participants. He frequently analyses EEG data by creating clusters of channels. The reason he gave was that head sizes always differ between participants, therefore spatial accuracy is always potentially comprised One can see his workflow is very average-based. Additionally, he is very careful with his statistics. While he works mainly with the [[Neyman-Pearson approach]], he is shifting towards Bayesian statistics.
 ## Links
 
 - [Google Search](https://www.google.com/search?q=Angel+David+Blanco)
