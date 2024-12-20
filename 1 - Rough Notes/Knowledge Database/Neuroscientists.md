@@ -17,6 +17,7 @@
 + [[Alexandre Andrade]]
 + [[Sofia Fernandes]]
 + [[Carla Bentes]]
++ [[Alexandre Campos]]
 + [[Joana Cabral]]
 
 ### Unknown by me (Legends)
