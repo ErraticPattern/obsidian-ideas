@@ -6,4 +6,4 @@ For now these are being applied to Zotero papers but it could be expanded or ada
 - <mark style="background: #FFB8EBA6;">Magenta</mark> - ideas of whom I do not know much or are unclearly presented in the text and should be researched further.
 - <mark style="background: #ADCCFFA6;">Blue</mark> - quotes.
 - <mark style="background: #D2B3FFA6;">Purple</mark> - methodology that is interesting or that I can apply myself in the future. Methodology refers both to the experimental paradigm and materials.
-- <mark style="background: #CACFD9A6;">Grey</mark>  - section titles in the case of books. Equations and auxiliary resources in the case of articles.
+- <mark style="background: #CACFD9A6;">Grey</mark>  - section titles in the case of books. Equations, links, and auxiliary resources in the case of articles.
