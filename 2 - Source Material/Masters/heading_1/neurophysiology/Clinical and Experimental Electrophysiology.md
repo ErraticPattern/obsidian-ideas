@@ -194,7 +194,7 @@ Figure 97. Example EEG data showing 3 s of data and three experiment markers. Th
 
 - Go-No go task
 - Face categorization task
-- Oddball task
+- [[Oddball task]]
 - Passive viewing task
 
 #### Frequencies

@@ -42,6 +42,76 @@ tags:
 
 
 
+
+
+
+> Some researchers estimate that up to 30% of the risk of schizophrenia is attributable to urban upbringing.
+
+
+
+
+
+- **Color**: #ff6666 (Red)
+- **Date**: 2024-12-20 6:01 pm
+
+---
+
+
+
+
+
+
+
+
+> [[schizophrenia]]
+
+
+
+
+
+- **Color**: #5fb236 (Green)
+- **Date**: 2024-12-20 6:01 pm
+
+---
+
+
+
+
+
+
+
+> A specific feature of pathogenic urban stress seems to be the simultaneity of social density and social isolation, paired with the feeling of being exposed to an uncontrollable environment.
+
+
+
+
+
+- **Color**: #ffd400 (Yellow)
+- **Date**: 2024-12-20 6:00 pm
+
+---
+
+
+
+
+
+
+
+
+> [[social stress hypothesis]]
+
+
+
+
+
+- **Color**: #5fb236 (Green)
+- **Date**: 2024-12-20 6:00 pm
+
+---
+
+
+
+
 ![](<0 - Supplementary/images/adliNeurourbanismNewDiscipline2017.md/image-2-x16-y555.png>)
 
 
@@ -152,4 +222,4 @@ Adli, M., Berger, M., Brakemeier, E.-L., Engel, L., Fingerhut, J., Gomez-Carrill
 
 
 
-%% Import Date: 2024-12-20T17:42:59.523+00:00 %%
+%% Import Date: 2024-12-20T19:31:36.601+00:00 %%

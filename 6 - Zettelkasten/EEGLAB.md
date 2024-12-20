@@ -29,6 +29,7 @@ id:
 ---
 ## Links
 - [Google Search](https://www.google.com/search?q=EEGLAB)
+- http://sccn.ucsd.edu/wiki/Plugin_list_process
 
 ---
 # Bibliography
