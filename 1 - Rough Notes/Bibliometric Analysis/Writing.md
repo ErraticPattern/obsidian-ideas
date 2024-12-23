@@ -1,31 +1,14 @@
----
-creation date: 2024-12-23 12:09
-aliases: 
-tags:
-  - baby
-modification date: Monday, 23rd December 2024, 12:09:51
-id:
----
----
+# Software
++ MS Word
++ LaTeX
++ Typst
 
-## Parent note
-[[Dashboard]]---
-## Backlinking
-
-
----
-# Writing
-
-
----
-# Notes
-
-## Definition
-
-## Associations
-
-## Interpretation
-
+## LaTeX
+### VSCode
+It can be used in vscode (you need perl and MikTex).
+#### MikTex
+Troubleshooting:
+- https://tex.stackexchange.com/questions/473031/error-miktex-console-already-running
 ---
 ## Links
 - [Google Search](https://www.google.com/search?q=Writing)
@@ -33,4 +16,4 @@ id:
 
 ---
 # References
-+ 
++ https://www.youtube.com/watch?v=4lyHIQl4VM8
