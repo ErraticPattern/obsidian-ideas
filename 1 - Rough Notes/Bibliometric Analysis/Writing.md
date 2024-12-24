@@ -4,11 +4,16 @@
 + Typst
 
 ## LaTeX
-### VSCode
-It can be used in vscode (you need perl and MikTex).
-#### MikTex
+To use LaTeX, you first need to install its compiler - MikTex.
+### MikTex
 Troubleshooting:
 - https://tex.stackexchange.com/questions/473031/error-miktex-console-already-running
+### IDEs
+#### TeXstudio
+Easier to setup then Vscode.
+#### VSCode
+It can be used in vscode (you need perl and MikTex).
+
 ---
 ## Links
 - [Google Search](https://www.google.com/search?q=Writing)
