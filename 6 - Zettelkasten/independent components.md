@@ -16,7 +16,10 @@ id:
 
 ---
 # independent components
-
+How to reject:
++ Check PSD. If they do not loosely follow the [[1-f-like distribution]], then you can reject.
++ Check spatial distribution.
++ Check polarity.
 
 ---
 # Notes
