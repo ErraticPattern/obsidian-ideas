@@ -30,7 +30,8 @@ As such [[diffusion physics]] is still restrained on the amount of cortical acti
 > - Source Depth
 > 
 > As such, EEG may originate with a mixture of network and non-network activity.
-
+## Clean EEG
+Clean EEG should be stationary ([[On preprocessing EEG data]]). However, its ambiguity makes it an unpopular concept to assess whether the data is clean.
 ## References
 + [[nunezElectricFieldsBrain2006]]
 + [[Lex Fridman Podcast - 438 – Elon Musk Neuralink and the Future of Humanity]]

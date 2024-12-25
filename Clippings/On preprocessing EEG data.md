@@ -16,6 +16,8 @@ tags:
 + The following is from [[Paul L. Nunez]]. Remember this.
 >[!quote]
 > I watched all the subjects every subject very closely ... I watched them and even if they make the slightest body movement I said don't move
++ The ground truth is directly assessed in the fMRI data, i.e. the acquired data represents the [[BOLD Signal]] which is the source of the data. In EEG, the source or ground truth are the putative dipoles, but these are not the reflected in the acquired data in a straightforward manner, as the signal is highly distorted.
+![[Pasted image 20241225185221.png]]
 # Content 
 Video title: On preprocessing EEG data
     
