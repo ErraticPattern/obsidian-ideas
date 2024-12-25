@@ -19,6 +19,12 @@ tags:
 + The ground truth is directly assessed in the fMRI data, i.e. the acquired data represents the [[BOLD Signal]] which is the source of the data. In EEG, the source or ground truth are the putative dipoles, but these are not the reflected in the acquired data in a straightforward manner, as the signal is highly distorted.
 ![[Pasted image 20241225185221.png]]
 + One interesting idea from [[donoghueParameterizingNeuralPower2020]] and [[gaoInferringSynapticExcitation2017]] is how activity from [[Receptors]] can be determined via the [[Power spectral density]]. This is because AMPA receptors have a more sharper PSD while GABA has a broader PSD, the latter having more power in the lower frequencies.
++ Be careful with data discontinuities as they can shift frequency power (slight shifting) and affect sensitivity. Use software that does not take discontinuities for PSD computation such as [[EEGLAB]].
+![[Pasted image 20241225210221.png]]
++ Use hybrid methods for artifiact reejction such as [[Artifact Subspace Reconstruction]] with non-aggressive parameters and then apply epoch rejection such as a voltage threshold (e.g. $\pm 80 \mu V$)
+![[Pasted image 20241225210807.png]]
++ To remember:
+![[Pasted image 20241225213553.png]]
 # Content 
 Video title: On preprocessing EEG data
     
