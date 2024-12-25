@@ -11,6 +11,7 @@ tags:
 ---
 # On preprocessing EEG data
 # Notes
++ This is really interesting! Both [[Makoto Miyakoshi]] (51:27) and [[Angel David Blanco]] have now given negative feedback about EEG quality from [[EGI]].  Angel did say that the high channel count makes up for the lack of quality. I wonder however how I can know if the data quality is not too good.
 + He is a very interesting speaker. He finds the most interesting arguments.
 + His take on Berger being aware of the artifacts in EEG data is very interesting. If true, it would indeed explain why he took so long to publish his results.
 + The following is from [[Paul L. Nunez]]. Remember this.

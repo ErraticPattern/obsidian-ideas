@@ -8,6 +8,9 @@ tags:
 This is where image files and other kinds of media will be saved. Vault related files will be stored here.
 + **Queries**
 Queries will make use of the `Charts` plugin to better understand the notes and their inter-relationship in my vault.
++ *Quotes*
+Quotes is populated via a python script (also present in the scripts subfolder). This script can be run via the `Shell commands` plugin. To update the script simply re-run it. You can do that by hitting `Ctrl+p` and search for `Update Quotes`.
+
 ## 1 - Rough Notes
 This is where I will keep rough notes and [[Reminders]]. Information from these can then be added to relevant notes in the "Zettelkasten" folder. 
 - **Meetings**
