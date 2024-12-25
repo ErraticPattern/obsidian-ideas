@@ -11,7 +11,8 @@ tags:
 ---
 # On preprocessing EEG data
 # Notes
-He is a very interesting speaker. He finds the most interesting arguments.
++ He is a very interesting speaker. He finds the most interesting arguments.
++ His take on Berger being aware of the artifacts in EEG data is very interesting. If true, it would indeed explain why he took so long to publish his results.
 # Content 
 Video title: On preprocessing EEG data
     
@@ -30,4 +31,5 @@ A presentation at NIH HEALthy Brain and Child Development Study (HBCD) summer se
 https://heal.nih.gov/research/infants-and-children/healthy-brain
 # Others
 ## References
-+ 
++ [[hoganCerebralOriginAlpha1988]]
++ [[lippoldOriginAlphaRhythm1970]]
