@@ -13,6 +13,9 @@ tags:
 # Notes
 + He is a very interesting speaker. He finds the most interesting arguments.
 + His take on Berger being aware of the artifacts in EEG data is very interesting. If true, it would indeed explain why he took so long to publish his results.
++ The following is from [[Paul L. Nunez]]. Remember this.
+>[!quote]
+> I watched all the subjects every subject very closely ... I watched them and even if they make the slightest body movement I said don't move
 # Content 
 Video title: On preprocessing EEG data
     
@@ -33,3 +36,6 @@ https://heal.nih.gov/research/infants-and-children/healthy-brain
 ## References
 + [[hoganCerebralOriginAlpha1988]]
 + [[lippoldOriginAlphaRhythm1970]]
++ [[yuval-greenbergTransientInducedGammaBand2008a]]
++ [[nunezElectricFieldsBrain2006]]
++ 
