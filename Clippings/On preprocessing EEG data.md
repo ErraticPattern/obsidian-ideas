@@ -20,6 +20,8 @@ tags:
 > I watched all the subjects every subject very closely ... I watched them and even if they make the slightest body movement I said don't move
 + The ground truth is directly assessed in the fMRI data, i.e. the acquired data represents the [[BOLD Signal]] which is the source of the data. In EEG, the source or ground truth are the putative dipoles, but these are not the reflected in the acquired data in a straightforward manner, as the signal is highly distorted.
 ![[Pasted image 20241225185221.png]]
+>[!quote]
+> We try to make the figures as colorful as possible to account for the lack of a ground truth.
 + One interesting idea from [[donoghueParameterizingNeuralPower2020]] and [[gaoInferringSynapticExcitation2017]] is how activity from [[Receptors]] can be determined via the [[Power spectral density]]. This is because AMPA receptors have a more sharper PSD while GABA has a broader PSD, the latter having more power in the lower frequencies.
 + Be careful with data discontinuities as they can shift frequency power (slight shifting) and affect sensitivity. Use software that does not take discontinuities for PSD computation such as [[EEGLAB]].
 ![[Pasted image 20241225210221.png]]
