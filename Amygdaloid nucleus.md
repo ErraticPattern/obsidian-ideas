@@ -1,1 +1,0 @@
-# Amygdaloid nucleus

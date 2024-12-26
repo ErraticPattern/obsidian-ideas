@@ -9,9 +9,9 @@ modification date: Thursday, 26th December 2024, 14:53:03
 ## Parent note
 ---
 ## Classical Imaging techniques
-[[Naked eye brain observation]]
-[[Neurohistology]]
-[[Microscopy]]
++ [[Naked eye brain observation]]
++ [[Neurohistology]]
++ [[Microscopy]]
 ## Neuroimaging
 ### Static
 + [[Ventriculography]]  
@@ -26,15 +26,8 @@ modification date: Thursday, 26th December 2024, 14:53:03
 + [[PET]]
 + [[fMRI]]
 	+ [[Arterial spin labeling (ASL)]]
-
-#### Functional Ultrasound (fUS)
-
-Better application in newborns, since the fontanelles allow for the passage of ultrasound waves more readily. It can also be applied in adults, using other methods. Its spatial resolution can reach the 5 µm mark. It can be used for observation of red blood cells in the vessels.
-
-#### Functional Near-Infrared Spectroscopy (fNIRS)
-
-Functional near-infrared spectroscopy is an optical brain monitoring technique which uses near-infrared spectroscopy for the purpose of functional neuroimaging. Therefore, it is a type of transcranial optical imaging techniques. See more.
-
++ [[fUS]]
++ [[fNIRS]]
 #### Combined Techniques
 
 ![undefined](<2 - Source Material/Masters/attachments/undefined 1.png>)

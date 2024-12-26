@@ -12,6 +12,6 @@
 
 [[Principles]]
 
-[[Brain-Computer Interfaces (BCI)]]
+[[BCI]]
 
 [[2 - Source Material/Masters/heading_1/neuropathology/Appendix]]

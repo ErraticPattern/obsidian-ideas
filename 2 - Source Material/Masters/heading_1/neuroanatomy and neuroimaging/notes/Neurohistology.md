@@ -90,7 +90,7 @@ Uses silver.
 
 Collected with a needle or surgically, usually from the [[deltoid muscle]]. Different samples are used for different techniques (usually 5 samples).
 
-[[Formol and paraformaldehyde]] (PFA) are both tissue preservers used for the same objective but with different properties. Additionally, formol can’t be used as an alternative to [[isopentane]] because the former inhibits enzymatic activity. Isopentane itself is cooled in liquid nitrogen and allows for instant freezing of the sample and therefore prevents tissue damage. [[Glutaraldehyde]] is a fixator used for [[electron microscopy]].
+[[Formol and paraformaldehyde]] (PFA) are both tissue preservers used for the same objective but with different properties. Additionally, formol can’t be used as an alternative to [[isopentane]] because the former inhibits enzymatic activity. Isopentane itself is cooled in liquid nitrogen and allows for instant freezing of the sample and therefore prevents tissue damage. [[Glutaraldehyde]] is a fixator used for [[Electron Microscopy]].
 
 ![](<2 - Source Material/Masters/attachments/Attachment 11.png>)
 

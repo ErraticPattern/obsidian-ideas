@@ -168,7 +168,7 @@ tags:
 
 
 
-> [[sleep spindles]]
+> [[Sleep spindles]]
 
 
 

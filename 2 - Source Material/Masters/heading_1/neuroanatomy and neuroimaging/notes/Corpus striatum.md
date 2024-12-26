@@ -1,18 +1,14 @@
-# Corpus striatum (Lentiform nucleus + caudate)
-
+# Corpus striatum
+It is composed of the [[Lentiform nucleus]] and [[Caudate Nucleus|caudate]].
 Divided embryologically into:
-
 - Paleostriatum
 - Neostriatum
 
 Divided functionally into:
-
 - Dorsal striatum
 
 Composed of the lentiform nucleus ([[#^footnote-10|Comment Unknown Author 10]]) and caudate nucleus.
-
 - Ventral Striatum
-
 Composed of the nucleus accumbens and the olfactory tubercle.
 
 ![](<2 - Source Material/Masters/attachments/Attachment 38.png>)

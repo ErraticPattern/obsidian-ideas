@@ -13,6 +13,8 @@ tags:
 # Notes
 >[!quote]
 >Theory-laden eyes can see a phenomenon through the generative mechanism (i.e. can solve the inverse problem)
+
+While the hypothesis that the [[Thalamus]] can induce cortical rhythmic activity makes sense based on the former's ability to generate rhythmic activity (some nucleus) it has already been refuted by later studies.
 # Content 
 Video title: On EEG's generative mechanism
     

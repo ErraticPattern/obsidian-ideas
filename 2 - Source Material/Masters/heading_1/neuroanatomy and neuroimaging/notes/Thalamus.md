@@ -51,11 +51,11 @@ midline nuclei (connect to reticular formation)
 
 - Periphery of thalamus
 
-**Reticular nucleus** (Thalamic reticular nucleus) is a thin layer of nerve cells sandwiched between the external medullary lamina and the posterior limb of the internal capsule. It contains cells that have spontaneous rhythmic oscillatory activity, which generate sleep spindles.
+**[[Reticular nucleus]]** (Thalamic reticular nucleus) is a thin layer of nerve cells sandwiched between the external medullary lamina and the posterior limb of the internal capsule. It contains cells that have spontaneous rhythmic oscillatory activity, which generate sleep spindles.
 
-**Medial geniculate body** (auditory pathway).
+**[[Medial geniculate body]]** (auditory pathway).
 
-**Lateral geniculate body** (visual pathway).
+**[[Lateral geniculate body]]** (visual pathway).
 
 ![undefined](<2 - Source Material/Masters/attachments/undefined.gif>)
 
