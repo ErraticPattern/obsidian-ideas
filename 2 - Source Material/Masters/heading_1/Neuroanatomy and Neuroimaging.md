@@ -2,7 +2,7 @@
 
 [[2 - Source Material/Masters/heading_1/cellular and molecular neurobiology/Bibliography]]
 
-[[Imaging techniques]]
+[[Brain Imaging techniques]]
 
 [[Brain anatomy]]
 

@@ -25,5 +25,8 @@ Figure 25. Etymology of the brain structures’ denomination.
 ## Backlinking
 + [[Corpus Callosum]]
 + [[Primary Motor Cortex]]
++ [[Meninges]]
++ [[Ventricular system]]
++ [[Cerebrospinal fluid]]
 ## References
 + http://helpthereisabraininmyhead.com/brain-atlas

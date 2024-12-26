@@ -10,7 +10,7 @@ modification date: Thursday, 15th August 2024, 14:57:10
 [[Lex Fridman Podcast - 438 – Elon Musk Neuralink and the Future of Humanity]]---
 ## Comments
 + [[Brain Parenchima]]
-+ [[CSF]]
++ [[Cerebrospinal fluid]]
 + [[Meninges]]
 + [[Skull]]
 + [[Fat]]

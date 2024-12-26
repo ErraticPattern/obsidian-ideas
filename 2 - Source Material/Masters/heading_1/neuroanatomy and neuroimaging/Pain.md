@@ -1,3 +1,13 @@
+---
+creation date: 2024-10-17 02:25
+aliases: 
+tags:
+  - "#topic"
+modification date: Thursday, 26th December 2024, 14:17:35
+---
+
+## Parent note
+[[Peripheral nervous system]]---
 ## Pain
 
 ### Pain Definition and Classification
@@ -9,8 +19,8 @@ Pain is “an unpleasant sensory and emotional experience associated with, or re
 
 Pain can also be classified according to its origin:
 
-- Nociceptive - Pain that arises from actual or threatened damage to non-neural tissue and is due to the activation of nociceptors (a high-threshold sensory receptor of the peripheral somatosensory nervous system that is capable of transducing and encoding noxious stimuli). It is a “physiological” pain, which aims to protect the body against lesions associated to noxious stimuli.
-- Neuropathic - Pain caused by a lesion or disease of the somatosensory nervous system. It is a “pathological” pain; it does not have any physiological function.
+- [[Nociceptive Pain]] - Pain that arises from actual or threatened damage to non-neural tissue and is due to the activation of nociceptors (a high-threshold sensory receptor of the peripheral somatosensory nervous system that is capable of transducing and encoding noxious stimuli). It is a “physiological” pain, which aims to protect the body against lesions associated to noxious stimuli.
+- [[Neuropathic Pain]] - Pain caused by a lesion or disease of the somatosensory nervous system. It is a “pathological” pain; it does not have any physiological function.
 
 ### Mechanisms of Pain
 
@@ -56,6 +66,10 @@ It occurs in an inflammatory context, due to the overexpression of inflammatory 
 
 Associated with the increase of glutamatergic signalling between the primary neurons and the projecting neurons.
 
-### Neuropathic Pain
+## Links
+- [Google Search](https://www.google.com/search?q=Pain)
 
-Can be caused in cases of neuronal damage, in which a retraction bulb is formed and over-expresses α2 receptors, which will lead to pain. There can also exist phenomena of ephatic crosstalk, in which neurons are activated by the lack of myelin isolation and protection.
+## Backlinking
++ 
+## References
++ 
