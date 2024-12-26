@@ -39,23 +39,23 @@ VA, VL (these two connect with basal ganglia are motor related), VP – VPL and 
 
 - Dorsal
 
-LD (limbic system with anterior nucleus), LP and Pulvinar (last two heavily related to integration of visual information)
+LD (limbic system with anterior nucleus), LP and [[Pulvinar]] (last two heavily related to integration of visual information)
 
-- Internal medullary lamina
+- [[Internal medullary lamina]]
 
 intralaminar nuclei (connects with reticular formation through the ascending reticular activating system (ARAS))
 
-- Interthalamic connection
+- [[Interthalamic connection]]
 
 midline nuclei (connect to reticular formation)
 
-- Periphery of thalamus
+- [[Periphery of thalamus]]
 
 **[[Thalamic reticular nucleus]]** (Thalamic reticular nucleus) is a thin layer of nerve cells sandwiched between the external medullary lamina and the posterior limb of the internal capsule. It contains cells that have spontaneous rhythmic oscillatory activity, which generate sleep spindles.
 
 **[[Medial geniculate body]]** (auditory pathway).
 
-**[[Lateral geniculate body]]** (visual pathway).
+**[[Lateral geniculate nucleus]]** (visual pathway).
 
 ![undefined](<2 - Source Material/Masters/attachments/undefined.gif>)
 
