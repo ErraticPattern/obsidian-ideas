@@ -207,25 +207,13 @@ These oscillations are thought to be created by the interaction between pyramida
 
 Figure 98. Common frequencies observed in EEG (Mari-Acevedo et al., 2019).
 
-##### Gamma band
-
-Brain frequencies ranging from 30-80 Hz. ([[#^footnote-18|Comment Unknown Author 18]])
-
-##### Beta waves
-
-##### Mu wave
-
-The sensorimotor mu rhythm, also known as mu wave, comb or wicket rhythms or arciform rhythms, are synchronized patterns of electrical activity involving large numbers of neurons, probably of the pyramidal type, in the part of the brain that controls voluntary movement. The patterns repeat at a frequency range overlapping with that of the alpha wave. The mu rhythm is found over the motor cortex, in a band approximately from ear to ear. People suppress mu rhythms when they perform motor actions or, with practice, when they visualize performing motor actions.
-
-##### Alpha waves
-
-##### On Theta bursts
-
-A single burst is insufficient for LTP induction because it evokes both excitatory and inhibitory currents that partially cancel and limit postsynaptic depolarization. Bursts repeated at the frequency (~5 Hz) of the endogenous theta rhythm induce maximal LTP, primarily because this frequency disables feed-forward inhibition and allows sufficient postsynaptic depolarization to activate voltage-sensitive NMDA receptors. The disinhibitory process, referred to as “priming”, involves presynaptic GABA autoreceptors that inhibit GABA release (Larson & Munkácsy, 2015). Theta bursts can differ in strength of the stimulus, based on the number of trains given.
-
-##### On Delta waves
-
-Associated with sleep.
+Common frequency bands:
++ [[Gamma band]]
++ [[Alpha State]]
++ [[Beta Band]]
++ [[Mu rhythm]]
++ [[Theta band]]
++ [[Delta band]]
 
 #### Cognitive electrophysiology
 
@@ -636,7 +624,7 @@ DBS is mainly used for movement disorders, such as Parkinson’s disease, and ot
 
 ![](<2 - Source Material/Masters/attachments/Attachment 83.png>)
 
-Figure 136. Basal ganglia structures. This illustration of a coronal cross-section of the brain depicts the major basal ganglia structures: (1) The substantia nigra (SN) and its innervation to the striatum. (2) The putamen and caudate nucleus which comprise the striatum. (3) The globus pallidus externus (GPe) and globus pallidus internus (GPi). (4) The subthalamic nucleus (STN). The thalamus and the cortex, which provides multiple inputs to the striatum are also labelled (Aum & Tierney, 2018).
+Figure 136. [[Basal ganglia]] structures. This illustration of a coronal cross-section of the brain depicts the major basal ganglia structures: (1) The [[substantia nigra]] (SN) and its innervation to the [[striatum]]. (2) The putamen and caudate nucleus which comprise the striatum. (3) The [[globus pallidus externus]] (GPe) and [[globus pallidus internus]] (GPi). (4) The [[subthalamic nucleus]] (STN). The thalamus and the cortex, which provides multiple inputs to the striatum are also labelled (Aum & Tierney, 2018).
 
 ### Extracellular recordings
 

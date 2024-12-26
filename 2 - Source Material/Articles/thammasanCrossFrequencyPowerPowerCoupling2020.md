@@ -395,7 +395,7 @@ tags:
 
 
 
-> [[mu rhythm]]
+> [[6 - Zettelkasten/mu rhythm]]
 
 
 

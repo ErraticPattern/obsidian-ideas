@@ -1,7 +1,6 @@
 ---
 creation date: 2024-12-26 15:12
-aliases:
-  - spindles
+aliases: []
 tags:
   - baby
 modification date: Thursday, 26th December 2024, 15:12:53

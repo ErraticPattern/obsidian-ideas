@@ -1,8 +1,9 @@
 ---
 creation date: 2024-07-13 13:58
 aliases:
-  - common mode sense
-  - driven right leg
+  - CMS-DRL
+  - CMS/DRL
+  - DRL/CMS
 tags:
   - "#adult"
 modification date: Saturday, 13th July 2024, 13:58:21

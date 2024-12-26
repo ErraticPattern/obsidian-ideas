@@ -1,6 +1,7 @@
 ---
 creation date: 2024-08-14 20:15
-aliases: 
+aliases:
+  - neruons
 tags:
   - baby
 modification date: Wednesday, 14th August 2024, 20:15:50
@@ -14,7 +15,8 @@ id:
 
 ---
 # Neuron
-
+Types:
++ [[GABAergic Neurons]]
 
 ---
 # Notes

@@ -13,8 +13,9 @@ tags:
 # Notes
 >[!quote]
 >Theory-laden eyes can see a phenomenon through the generative mechanism (i.e. can solve the inverse problem)
-
-While the hypothesis that the [[Thalamus]] can induce cortical rhythmic activity makes sense based on the former's ability to generate rhythmic activity (some nucleus) it has already been refuted by later studies.
++ While the hypothesis that the [[Thalamus]] can induce cortical rhythmic activity makes sense based on the former's ability to generate rhythmic activity (some nucleus) it has already been refuted by later studies.
++ Important to remember that spindles are not the same as frequency bands, even if the PSD overlaps. [[Fernando H. Lopes da Silva]] has shown that the alpha band comes from the laminar cortical structure.
+![[Pasted image 20241226165917.png]]
 # Content 
 Video title: On EEG's generative mechanism
     
