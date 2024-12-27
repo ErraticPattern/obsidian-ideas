@@ -1,3 +1,5 @@
+>[!figure] ![[Bibliometrics_definition.svg.png]]
+>*Figure 1*: Fields associated with bibliometrics.
 ## *Guidelines*
 + [PRISMA statement (prisma-statement.org)](https://www.prisma-statement.org/)
 ## *Managing Sources*
