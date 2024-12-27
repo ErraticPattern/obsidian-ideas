@@ -20,7 +20,7 @@ id:
 
 ---
 # Notes
-
+As predicted by [Goodhart's law](https://www.wikiwand.com/en/articles/Goodhart's_law "Goodhart's law"), quantity of publications is not a good metric anymore as a result of shorter papers and longer author lists.
 ## Definition
 
 ## Associations

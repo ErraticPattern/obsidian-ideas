@@ -12,7 +12,8 @@
 + [[Rui Costa]]
 + [[António Damásio]]
 + [[Lia Pereira Lucas Neto]]
-
+### Unknown by me (Foreign)
++ [[Bahman Nasseroleslami]]
 ### Unknown by me (Portuguese)
 + [[Patrícia Figueiredo]]
 + [[Alexandre Andrade]]
@@ -22,13 +23,12 @@
 + [[Joana Cabral]]
 
 ### Unknown by me (Legends)
++ [[Fernando H. Lopes da Silva]]
 + [[Karl Friston]]
 + [[Sylvain Baillet]]
 + [[Christoph Guger]]
 + [[Mike X. Cohen]]
 + [[Makoto Miyakoshi]]
-
-
 ---
 ## Legends
 + [[Warren McCulloch]]
