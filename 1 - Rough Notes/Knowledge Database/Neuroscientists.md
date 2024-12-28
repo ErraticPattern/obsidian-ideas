@@ -7,6 +7,7 @@
 + [[Paulo Morgado]]
 + [[Diego Andrés Blanco-Mora]]
 + [[Marta Aranha Conceição]]
++ [[Carlos Lima Azevedo]]
 + [[Vasco Conceição]]
 ### Known by me
 + [Dar Meshi](https://comartsci.msu.edu/our-people/dar-meshi)
@@ -16,7 +17,7 @@
 + [[Carlos Matos]]
 + [[Tiago Maia]]
 + [[Diana Prata]]
-+ [[Rui Costa]]
++ [[Rui Miguel Costa]]
 + [[António Damásio]]
 + [[Lia Pereira Lucas Neto]]
 ### Unknown by me (Foreign)
