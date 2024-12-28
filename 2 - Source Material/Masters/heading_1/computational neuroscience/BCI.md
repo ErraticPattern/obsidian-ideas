@@ -4,6 +4,8 @@ aliases:
   - Brain-Computer Interface
   - Brain-Computer Interfaces
   - Brain-machine interface
+  - HMI
+  - Human-machine interface
 tags:
   - "#topic"
 modification date: Thursday, 26th December 2024, 15:10:46
