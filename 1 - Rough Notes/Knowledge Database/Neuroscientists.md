@@ -1,14 +1,21 @@
 ## Contemporary
+## Colleagues
++ [[Bruno Miranda]]
++ [[Pedro S. Rocha]]
++ [[Inês Alves]]
++ [[Ana Bonifácio]]
++ [[Paulo Morgado]]
++ [[Diego Andrés Blanco-Mora]]
++ [[Marta Aranha Conceição]]
++ [[Vasco Conceição]]
 ### Known by me
 + [Dar Meshi](https://comartsci.msu.edu/our-people/dar-meshi)
 + [Earl K. Miller](https://ekmillerlab.mit.edu/earl-miller/)
-+ [[Bruno Miranda]]
-+ [[Tiago Maia]]
++ [[Mamede De Carvalho]]
 + [[Clévio Nóbrega]]
-+ [[Diego Andrés Blanco-Mora]]
 + [[Carlos Matos]]
++ [[Tiago Maia]]
 + [[Diana Prata]]
-+ [[Vasco Conceição]]
 + [[Rui Costa]]
 + [[António Damásio]]
 + [[Lia Pereira Lucas Neto]]

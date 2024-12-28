@@ -13,7 +13,7 @@ id:
 ## Parent note
 [[Scientific Productivity]]---
 ## Backlinking
-
++ [[hirschIndexQuantifyIndividuals2005]]
 
 ---
 # H-index
