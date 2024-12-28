@@ -2,34 +2,16 @@
 creation date: 2024-12-01 18:02
 aliases: 
 tags:
-  - baby
-modification date: Sunday, 1st December 2024, 18:02:10
-id:
+  - vault
+modification date: Saturday, 28th December 2024, 18:22:24
 ---
 ---
 
 ## Parent note
-[[BIDS conversion]]---
-## Backlinking
+[[Programming]]---
 
+## Source
+[Source]()
 
----
-# Python
-
-
----
-# Notes
-
-## Definition
-
-## Associations
-
-## Interpretation
-
----
 ## Links
 - [Google Search](https://www.google.com/search?q=Python)
-
----
-# Bibliography
-+ 
