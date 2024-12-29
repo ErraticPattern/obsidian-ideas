@@ -10,7 +10,7 @@ modification date: Monday, 3rd June 2024, 21:45:23
 [[Cluster-based Permutation Test]]
 
 ## Backlinking
-[[Effect Size]] [[Permutation]]
+[[Effect Size]] 
 [[sawilowskyNewEffectSize2009]]
 [[meyerEnhancingReproducibilityDevelopmental2021]]
 
