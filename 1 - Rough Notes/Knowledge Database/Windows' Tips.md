@@ -10,3 +10,5 @@ Go to task manager and restart file explorer.
 - Move the windows with the arrows on keyboard
 ## Battery Information
 Run `powercfg /batteryreport` in command line. Open the `html` file in any browser.
+# Space bar deletes characters to the right
+Hit the `insert` key.
