@@ -8,6 +8,8 @@ To use LaTeX, you first need to install its compiler - MikTex.
 ### MikTex
 Troubleshooting:
 - https://tex.stackexchange.com/questions/473031/error-miktex-console-already-running
+### Tips and tricks
+`\raggedbottom` eliminates the spaces between text and sections/figures ([source](https://latex.org/forum/viewtopic.php?t=4209)).
 ### IDEs
 #### TeXstudio
 Easier to setup then Vscode.
