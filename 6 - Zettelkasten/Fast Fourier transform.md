@@ -1,6 +1,7 @@
 ---
 creation date: 2024-10-03 18:47
-aliases: 
+aliases:
+  - fft
 tags:
   - baby
 modification date: Thursday, 3rd October 2024, 18:47:10
@@ -14,7 +15,7 @@ id:
 
 
 ---
-# fast Fourier transform (FFT)
+# Fast Fourier transform (FFT)
 
 
 ---

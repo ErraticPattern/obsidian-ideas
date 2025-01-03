@@ -1,0 +1,5 @@
+# Average Reference
+
+It is perhaps the most utilized since it stands on the assumption that the sum of the charge flux across the surface of the head is zero (assumption supported both theoretically and empirically and whose validity increases with the number of active electrodes) which makes it a system suitable to represent the absolute voltage. It also acts as a spatial filter since its voltage fluctuations will reflect activity diverging from the average.
+
+It is based on the following logic: (i) the integral of the electrical potential over a sphere, due to a current source inside it, is zero; (ii) the head can be approximated as a sphere; (iii) therefore, a neutral reference may be obtained by summing or averaging the activities of all electrodes. Re-referencing proceeds by subtracting this average from all channels. Unfortunately, recent work has shaken the theoretical foundation of AR: the potential integral for a realistic head surface is not zero (Hu et al., 2018).

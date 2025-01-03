@@ -1,0 +1,3 @@
+MEMS (micro-electromechanical systems)
+
+It is the technology of microscopic devices incorporating both electronic and moving parts. MEMS are made up of components between 1 and 100 micrometres in size (i.e., 0.001 to 0.1 mm), and MEMS devices generally range in size from 20 micrometres to a millimetre (i.e., 0.02 to 1.0 mm), although components arranged in arrays (e.g., digital micromirror devices) can be more than 1000 mm2. They usually consist of a central unit that processes data (an integrated circuit chip such as microprocessor) and several components that interact with the surroundings (such as microsensors).

@@ -1,6 +1,8 @@
 ---
 creation date: 2024-10-17 01:57
-aliases: 
+aliases:
+  - wavelet transform
+  - wt
 tags:
   - baby
 modification date: Thursday, 17th October 2024, 01:57:33

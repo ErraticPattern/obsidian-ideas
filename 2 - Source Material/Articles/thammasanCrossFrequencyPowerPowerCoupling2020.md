@@ -233,7 +233,7 @@ tags:
 
 
 
-> [[fast Fourier transform (FFT)]]
+> [[Fast Fourier transform]]
 
 
 

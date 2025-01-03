@@ -52,13 +52,11 @@ High-pass filters let the high frequencies pass. Low-pass filters do the opposit
 
 Filter capacity can be assessed with measures such as **signal-to-noise ratio (S/R)** and **Common Mode Rejection Ratio (CMRR)**. CMMR is used in differential amplifiers since these record the difference in voltage between the two electrodes. A high CMRR value indicates that the differential amplifier can effectively reject common mode signals ([[#^footnote-15|Comment Unknown Author 15]]), while a low CMRR value indicates that the common mode signals are being amplified along with the differential signal, which can lead to errors or inaccuracies in the output signal.
 
-#### Analogue to Digital Conversion
-
-Allows the signal to be represented in a computer. This in turn allows for much more signal data to be stored.
+See also -> [[Analogue to Digital Converter]]
 
 #### Signal processing
 
-Techniques include the Fast-Fourier transform (FFT) and the Wavelet transform.
+Techniques include the FFT and the Wavelet transform.
 
 ### Small Fiber Neurophysiology (SFN)
 
@@ -108,77 +106,9 @@ Berger mentions some preliminary experiments on his son Klaus that led him to th
 
 #### EEG “Hardware”
 
-[[Electrode Placement Systems]]
-
-##### Reference Systems
-
-![A diagram of a brain  Description automatically generated](<2 - Source Material/Masters/attachments/A diagram of a brain  Description automatically generated.png>)
-
-Figure 91. Schematic representation of unipolar references. a Infinity/Zero Reference; b Recording reference electrode at neck; c Recording reference electrode Cz; d Average reference.
-
-A basic EEG acquisition system usually consists of three electrodes including an active electrode (A), a reference electrode (R), and a grounding electrode (G). The AG potentials and RG potentials are then connected to a differential amplifier to eliminate environmental electrical activity. Therefore, EEG not only reflects the electrical activity on where the active electrode is placed but also the potential difference between the location of the active electrode and the reference electrode.
-
-![A diagram of a person's head  Description automatically generated](<2 - Source Material/Masters/attachments/A diagram of a person's head  Description automatically generated.png>)
-
-Figure 92. The AG and RG activities are subtracted via a differential amplifier.
-
-###### Bipolar System
-
-Additionally, there is a bipolar setup, in which each electrode’s signal is subtracted the signal of that one coming afterwards in the chosen axis. The bipolar setup can have different configurations such as the banana shape configuration, in the ventral-dorsal axis, and the inter-hemispherical configuration, in the right-left axis ([[#^footnote-16|Comment Unknown Author 16]]). There is also the referential setup, in which each electrodes’ signal is compared to that of the reference electrode, situate in the ear.
-
-![A diagram of a head with arrows and points  Description automatically generated](<2 - Source Material/Masters/attachments/A diagram of a head with arrows and points  Description automatically generated.png>)
-
-Figure 93. Different EEG setups. Left: Ventral-dorsal axis. Middle: Right-left axis. Right: Referential system.
-
-###### Referential
-
-It refers to when one of the active electrodes is used as a reference (Cz is the most common). Also one of the most common, although it has apparent flaws.
-
-###### CMS/DRL Reference
-
-CMS/DRL refers to Common Mode Sense (CMS) active electrode and Driven Right Leg (DRL) passive electrode.
-
-For example, Emotiv headsets use CMS (P3 or left mastoid for EPOC, left mastoid for Insight) as an absolute voltage reference. DRL (P4 or right mastoid for EPOC, left mastoid for Insight) is a feedback cancellation system to float the reference level on the common mode body potential. These levels are not recorded anywhere, and are not estimated. They are inherent in the measurement as a relative reference point.
-
-###### Average Reference
-
-It is perhaps the most utilized since it stands on the assumption that the sum of the charge flux across the surface of the head is zero (assumption supported both theoretically and empirically and whose validity increases with the number of active electrodes) which makes it a system suitable to represent the absolute voltage. It also acts as a spatial filter since its voltage fluctuations will reflect activity diverging from the average.
-
-It is based on the following logic: (i) the integral of the electrical potential over a sphere, due to a current source inside it, is zero; (ii) the head can be approximated as a sphere; (iii) therefore, a neutral reference may be obtained by summing or averaging the activities of all electrodes. Re-referencing proceeds by subtracting this average from all channels. Unfortunately, recent work has shaken the theoretical foundation of AR: the potential integral for a realistic head surface is not zero (Hu et al., 2018).
-
-###### PARE Reference
-
-The polar average reference effect builds on the average reference system by interpolation what the EEG activity would be on the whole surface of the head, which is unknowable in practice since there is no system that covers all of the head’s surface. By interpolating all of the activity we would be using a better system to signify a true absolute voltage without the slight bias that the average reference creates towards the regions of the head with the electrodes.
-
-###### Reference Electrode Standardization Technique (REST)
-
-![](<2 - Source Material/Masters/attachments/Attachment 72.png>)
-
-Figure 94. Diagram of REST. (A) measured EEG potentials vCz with reference to Cz; j and KCz are the actual source activities and the actual lead field with reference to Cz, respectively; (B) for REST, one first builds the lead field Kˆ ∞ with estimated head model and equivalent sources, then transforms the lead field with reference to Cz as KˆCz; with this lead field, one enables to estimate the equivalent source activities ˆj; after, the equivalent source activities are taken the forward calculation through Kˆ ∞ to ϕˆ ∞ which is the approximation of EEG potentials at infinity.
-
-###### Laplacian Reference
-
-It is an example of a non-unipolar reference system.
-
-##### Electrodes
-
-###### Mechanics of Signal Acquisition
-
-The electrodes’ free electrons are affected by the electric fields created by the changing magnetic fields which are themselves created by the moving charges of the bioprocess to be recorded – a process called **magnetic induction**. These interactions will lead to electrical potential changes – voltage changes – which are the values recorded by the EEG.
-
-###### Types of Electrodes
-
-![A diagram of a brain  Description automatically generated](<2 - Source Material/Masters/attachments/A diagram of a brain  Description automatically generated 1.png>)
-
-Figure 95. Schematic diagram and invasiveness degree of EEG electrodes, ECoG electrodes and invasive electrodes.
-
-![Several diagrams showing different types of electrolytic  Description automatically generated](<2 - Source Material/Masters/attachments/Several diagrams showing different types of electrolytic  Description automatically generated.png>)
-
-Figure 96. Schematics and corresponding electrode–skin interface models for EEG electrodes. (a) Wet electrodes, (b) MEMS electrodes, (c) non-contacted electrodes, and (d) common-contact dry electrodes.
-
-- **MEMS (micro-electromechanical systems)**
-
-It is the technology of microscopic devices incorporating both electronic and moving parts. MEMS are made up of components between 1 and 100 micrometres in size (i.e., 0.001 to 0.1 mm), and MEMS devices generally range in size from 20 micrometres to a millimetre (i.e., 0.02 to 1.0 mm), although components arranged in arrays (e.g., digital micromirror devices) can be more than 1000 mm2. They usually consist of a central unit that processes data (an integrated circuit chip such as microprocessor) and several components that interact with the surroundings (such as microsensors).
+See also -> [[Electrode Placement Systems]]
+See also -> [[Reference Systems]]
+See also -> [[Electrodes]]
 
 #### Setup for EEG experiments
 
@@ -190,12 +120,7 @@ Event markers, or triggers, are square-wave pulses that are sent from the stimul
 
 Figure 97. Example EEG data showing 3 s of data and three experiment markers. The experiment markers are represented as vertical lines, and the numbers on top of the vertical lines correspond to particular events. In this case the numbers 3 and 5 refer to two response buttons being pressed by the subject, and the number 107 corresponds to a particular stimulus. This picture was made using the eeglab lab function eegplot.
 
-##### Different EEG Paradigms
-
-- Go-No go task
-- Face categorization task
-- [[Oddball task]]
-- Passive viewing task
+See also -> [[EEG Tasks]]
 
 #### Frequencies
 
@@ -259,7 +184,7 @@ Phase-locked activity (also sometimes called “ evoked ” ) is phase-aligned w
 
 Figure 100. Illustration of whether time-frequency (TF) power and the ERP can measure phase-locked, non-phase locked, time-locked, and non-time-locked activity. The left column of each cell shows four trials of simulated data, and the right column of each box shows the average of those four trials. Black lines show the raw time series, and gray lines show the time course of 10-Hz power. The ERP captures only phase-locked and time-locked activity. Time-frequency power can measure time-locked activity regardless of whether it is phase-locked or non-phase-locked. Activity that is not time-locked can be measured with time-frequency power, although the results will be smoothed and thus less temporally precise.
 
-##### Pre-processing EEG data
+##### EEG preprocessing
 
 Pre-processing refers to any transformations or reorganizations that occur between collecting the data and analysing the data. Some pre-processing steps merely organize the data to facilitate analyses without changing any of the data (e.g., extracting epochs from continuous data), other pre-processing steps involve removing bad or artifact-ridden data without changing clean data (e.g., removing bad electrodes or rejecting epochs with artifacts), and some pre-processing steps involve modifying otherwise clean data (e.g., applying temporal filters or spatial transformations).
 
@@ -353,34 +278,14 @@ Useful functions (or utilities) include **“tfviewerx”** which shows simultan
 
 Figure 110. Method for the study of phase synchrony (Varela et al., 2001).
 
-##### EEG microstates
-
-EEG microstates represent a dynamical view of how the spatial distribution of the electric potential on the scalp changes over time. Microstates typically last 80-100 ms.
-
-Essentially, each microstate is a topography of electric potential over EEG electrodes, which remain stable for a certain duration, before jumping or transitioning into a new and distinct topography. Thus the topographical maps configuration do not evolve in time randomly and continuously, but in a rather discrete and abrupt fashion, after remaining stable for a certain duration. Also, within the period of this stable time window, the strength of the field increases and decreases, but the topography remains the same. ([[#^footnote-28|Comment Unknown Author 28]])
-
-###### Global Field Power
-
-In order to obtain EEG microstates from resting-state or spontaneous EEG, global field power (GFP) is computed, which can be considered as a reference-independent, single measure of response strength to an event or any change in the brain activity. A few of these topographies dominate in resting-state EEG.
-
-![A black text on a white background  Description automatically generated](<2 - Source Material/Masters/attachments/A black text on a white background  Description automatically generated.png>)
-
-Figure 111. The GFP is simply given as the root mean square across average-referenced electrode values at a given time instant, where Vn(t) is the electric potential at electrode i at time t and V^(t)is the average over M electrodes at time t.
+See also -> [[EEG microstates]]
+See also -> [[Global Field Power]]
 
 #### ERPs Analysis
 
 ERSP – event-related spectral potential.
 
-##### Measuring ERPs
-
-- Mean
-- Adaptive mean
-- Peak
-- Peak to peak
-
-##### Optimized Pipeline
-
-See articles.
+See also -> [[ERP metrics]]
 
 #### Biophysics of EEG and MEG
 
@@ -434,43 +339,19 @@ For source imaging, we might choose each voxel to be 1 cm ([[#^comment-0|Comment
 
 Figure 113. Electrode names and two-dimensional topographical locations of EEG electrodes in the sample data provided with the book (see bibliography).
 
-#### Practical Considerations
+#### Finance of Neuroimaging
 
 EEG setups can cost as much as fMRI or EMG ones (around 150,000$).
 
-#### Free Databases
-
-![](<2 - Source Material/Masters/attachments/Attachment 74.png>)
-
-Figure 114. Free EEG databases and possible problems.
+See also -> [[Neuroscience Databases]]
 
 ### Evoked Potentials (EPs)
 
 Evoked potentials measure the electrophysiologic responses of the nervous system in response to a sensory stimuli. It has become less prevalent in clinical settings due to the power of imaging techniques such as MRI and are now used in conjunction with the former; in turn, EPs are useful to assess physiological functionality, particularly of known anatomical pathways. Since the amplitude of EPs are very small, it is necessary to employ averaging techniques. The measurement of EPs is given by the standardized system of either P – positive – or N – negative -, following a number denoting the time in milliseconds after the stimulus ([[#^footnote-30|Comment Unknown Author 30]]) (e.g., P100).
 
-#### Somatosensory Evoked Potentials (SSEP)
-
-Elicited from the upper and lower limbs within 30 ms and 60 ms, respectively, of percutaneous electrical stimulation. Sites of stimulation are usually the medial nerve, for upper limbs, and the posterior tibial nerve, for lower limbs; normative values for upper limb’s SSEP don’t vary much, contrary to lower limb’s SSEP. Recording electrodes are placed in anatomical landmarks; those on the head are placed according to the 10-20 or 10-10 system, like in an EEG.
-
-![Chart  Description automatically generated with medium confidence](<2 - Source Material/Masters/attachments/Chart  Description automatically generated with medium confidence 1.png>)
-
-Figure 115. Placement of recording electrodes.
-
-#### Visual Evoked Potentials (VEPs)
-
-The normative data obtained with this technique is composed of the N75, P100 and N145 signals. It is more sensitive than MRI or physical examination for prechiasmatic lesions but not so for postchiasmatic lesions.
-
-![VISUAL AND AUDITORY EVOKED POTENTIALS - pediagenosis](<2 - Source Material/Masters/attachments/VISUAL AND AUDITORY EVOKED POTENTIALS - pediagenosis.jpeg>)
-
-Figure 116. Damage to the retino-geniculo-calcarine pathway may result in altered latencies and amplitudes. II. Brainstem auditory evoked responses or potentials (BAER). The auditory stimulus is a series of clicks or tones, with recording done over the temporal lobe auditory cortex. Seven distinctive peak latencies occur: I. distal auditory nerve; II. proximal auditory nerve; III. cochlear nuclei; IV. superior olivary complex; V. nucleus of the lateral lemniscus; VI. inferior colliculus; and VII. medial geniculate nucleus. Altered latencies and amplitudes may indicate damage or disruption to the auditory pathway at specific sites ([Source](https://www.pediagenosis.com/2020/07/visual-and-auditory-evoked-potentials.html)).
-
-#### Brainstem auditory evoked responses or potentials (BAER)
-
-Good for assessment of brainstem pathways.
-
-![Diagram  Description automatically generated](<2 - Source Material/Masters/attachments/Diagram  Description automatically generated 13.png>)
-
-Figure 117. Schematic representation of the auditory pathway and corresponding AEP components through stimulation with a click. These components include the auditory short-latency responses or auditory brainstem responses (ABR) (waves I-VI) (blue), the auditory middle latency responses (N0-Pb) (red), and the auditory late-latency responses (N1-P3) (green). Localization of the neuronal generators of the ABR waves are also depicted. Created with BioRender.com, AEPs adapted from Burkard et al. (21), Lammers (29) (Bao et al., n.d.).
+See also -> [[Somatosensory Evoked Potentials (SSEP)]]
+See also -> [[Visual Evoked Potentials (VEPs)]]
+See also -> [[Brainstem auditory evoked responses or potentials (BAER)]]
 
 ### Magnetoencephalography (MEG)
 
@@ -532,126 +413,10 @@ It is important to understand the notion of membrane time constant. Neurons have
 
 Figure 124. Types of pulses and contraindications of TMS.
 
-### Electromyography (EMG)
-
-It can be used evoked potentials to calculate axonal conduction velocity. Factors such as position of the electrodes and temperature ([[#^footnote-32|Comment Unknown Author 32]]) affect it. From the signal one can obtain several parameters such as latency/duration, amplitude/area, and velocity. From these one can deduce pathological settings, such as the loss of myelin, muscle fibers or axons.
-
-**CMAP** stands for Compound Muscle Action Potential, and it is an electrophysiological test that measures the electrical activity of the muscles in response to nerve stimulation. These tests are usually performed on the median (around 200 motor units ([[#^footnote-33|Comment Unknown Author 33]])) or ulnar nerves for motor and sensory nerve fibres’ assessment ([[#^footnote-34|Comment Unknown Author 34]]). Importantly, the morphology of the signal (**M wave**) is always the same for the same nerve fibre. Additionally, because the fingers have no muscles, it is the ideal location for the reference electrode.
-
-Another component of EMG tests are late responses, such as the **F waves**, which occur due to a opposite AP direction to that of the M wave, which then reaches the spinal cord and excites around 2/3 % of motor fibres, which result in a late AP. Although the F wave is variable in amplitude since different axons are stimulated each time, it is still highly consistent in its parameters across the population, making it a good way to diagnose motor neuron diseases.
-
-![](<2 - Source Material/Masters/attachments/Attachment 77.png>)
-
-Figure 125. F wave in EMG.
-
-The **H reflex** is a response dependent on the monosynaptic reflex arch of the muscle. It is usually performed on the posteriori tibial nerve. M and H waves can sometimes collide and cancel each other.
-
-![](<2 - Source Material/Masters/attachments/Attachment 78.png>)
-
-Figure 126. The M, H and F waves.
-
-EMG can also be used for the **MUNE** (Motor Unit Number Estimation) test which is a medical test used to evaluate the health of motor neurons in the body.
-
-**Repetitive stimulation** is a EMG technique that allows the diagnosis of Myasthenia Gravis, since signal amplitude decreases after each stimuli, and Lambert-Eaton myasthenic syndrome, whose patients’ signal amplitude increases after each burst of stimuli.
-
-**Single fibre EMG** records a single or few muscle fibers. This serves as a diagnostic tool for Myasthenia Gravis and Lambert-Eaton myasthenic syndrome.
-
-### Cortical Stimulation
-
-Firstly used in order to map the brain areas with the associated behaviour. This was of importance for scientific investigation but also for neurosurgery since knowing what brain areas are responsible for motor control would allow for the removal of a tumour without any damage to these areas and therefore preventing paralysis. The pioneer in this area was Wilder Penfield.
-
-**Electrocorticography (ECoG)**, also known as iEEG, is an invasive procedure in which the electrodes are usually implanted either in a subdural or epidural location. The electrodes can be set up in different types of stimuli, width, amplitude, and frequency.
-
-![](<2 - Source Material/Masters/attachments/Attachment 79.png>)
-
-Figure 127. Left: Schematic of monophasic and biphasic pulse forms ([[#^footnote-35|Comment Unknown Author 35]]). Middle: Schematic of electric field distribution in bipolar ([[#^footnote-36|Comment Unknown Author 36]]) (left) and monopolar (right) stimulations. Right: Schematic of probes used for bipolar stimulation with ball tip (A) or straight tips (B) and for monopolar stimulations with a ball tip (C) or straight tip (D) (Szelényi et al., 2010).
-
-ECoG has a much better spatial resolution than EEG. This technique has some limitations such as provoking aberrant cellular activity, having a bias in signal interpretation due to spread of current and provoking haemodynamic changes in other regions. The signal is also more complex than EEG. ECoG doesn’t get more information than EEG but it records other type of information (more detailed but less global).
-
-Nonetheless, it has uses beyond clinical settings such as mapping of other brain regions besides motor ones, as was done historically. ECoG has been used for studying both the sensory and motor homunculus. Findings suggest that motor areas encode specific complex movements, such as the one taking the hand to the mouth, instead of simple movement representation.
-
-One study showed that stimulating the right inferior parietal regions triggered a strong intention and desire to move the contralateral hand, arm, or foot, whereas stimulating the left inferior parietal region provoked the intention to move the lips and to talk. When stimulation intensity was increased in parietal areas, participants believed they had really performed these movements, although no electromyographic activity was detected. Stimulation of the premotor region triggered overt mouth and contralateral limb movements. Yet, patients firmly denied that they had moved. Conscious intention and motor awareness thus arise from increased parietal activity before movement execution (Desmurget et al., 2009).
-
-![](<2 - Source Material/Masters/attachments/Attachment 80.png>)
-
-Figure 128. Model of conscious motor output.
-
-Other types of cortical stimulation include **cortico-cortical evoked potential (CCEP)** which can be used to visualize functional networks by applying direct cortical stimulation. This stimulation will then result in an evoked potential in other brain areas, showing connectivity.
-
-![Diagram  Description automatically generated](<2 - Source Material/Masters/attachments/Diagram  Description automatically generated 17.png>)
-
-Figure 129. Schematic illustration of presumed connections between the anterior and posterior language areas. The grey circle denotes the site of stimulation. Arrows indicate the direction of impulse projection evoked by single pulse stimulation. The excited fibres are shown as thick black lines, and those not excited as thin grey lines. Waveforms show representative CCEPs. AL = anterior language area; PL = posterior language area (Matsumoto et al., 2004).
-
-**Single-neuron stimulation** is another technique to be used in research context.
-
-### Deep Brain Stimulation (DBS)
-
-It consists of the stimulation of deep brain regions. It requires the access to these regions and therefore DBS was only possible due to an advancement in the field of stereotaxis. It is an invasive procedure, but it rarely results in cognitive impairment. The DBS electrode can have several configurations and extremely large number of ways to stimulate the neuronal tissue. The standard electrode configuration is quadripolar, with four stimulating electrode contacts at the tip of the probe, which is 1.27 mm in diameter. The macroelectrode section measure local field potentials (LFPs) and microelectrodes can measure single Aps, due to their extremely high resistance.
-
-![Diagram  Description automatically generated](<2 - Source Material/Masters/attachments/Diagram  Description automatically generated 18.png>)
-
-Figure 130. a | Common electrode configurations for deep brain stimulation (DBS). Dark grey regions illustrate electrode contacts, which can be activated to deliver current. Electrode designs vary with regard to the spacing between contacts as well as the number and shape of contacts. Greater contact spacing expands the range of neural targets, whereas smaller contact spacing facilitates more precise stimulation control. b | Modes of stimulation, depending on the type of DBS system in use. Unipolar stimulation refers to current being directed from the battery to the contact or vice versa. Bipolar stimulation indicates current flowing between electrode contacts, with at least one functioning as an anode and one as a cathode. Interleaving stimulation refers to the alternation of different stimulation settings. Multiple level stimulation enables multiple neural targets to be stimulated, provided that they lie along the electrode trajectory. With directional stimulation, current can be directed or ‘shaped’ on the basis of local anatomy or clinical symptoms (Krauss et al., 2021).
-
-Different configurations can modulate the electromagnetic field, making it more focal and concentrated or less so. DBS systems that both record and produce stimuli are called closed-loop, with the goal of responding quickly to electrical signals in order to produce an adequate response. A separate reference electrode can be used but new technology is making it obsolete.
-
-![Diagram, schematic  Description automatically generated](<2 - Source Material/Masters/attachments/Diagram schematic  Description automatically generated 1.png>)
-
-Figure 131. Monopolar/Bipolar electrode configuration. A monopolar configuration will only have one electrode with current dissipating in the vicinity of that electrode with no current flowing into another electrode. Electric current density is more diffuse and radially symmetric in monopolar configurations. In bipolar configurations, a closed-loop circuit has current flowing from the working electrode to the counterelectrode, thereby allowing a narrower volume of tissue affected. Current steering uses electrodes with multiple directional surfaces to control deliver of current more specifically (Aum & Tierney, 2018).
-
-#### History of Invasive Brain Recordings and DBS
-
-![](<2 - Source Material/Masters/attachments/Attachment 81.png>)
-
-Figure 132. Milestones in invasive brain recordings from 1929 to 1971 (Engel et al., 2005).
-
-![Timeline  Description automatically generated](<2 - Source Material/Masters/attachments/Timeline  Description automatically generated.png>)
-
-Figure 133. Milestones in invasive brain recordings from 1978 to the future (Engel et al., 2005).
-
-![Calendar  Description automatically generated with low confidence](<2 - Source Material/Masters/attachments/Calendar  Description automatically generated with low confidence.png>)
-
-Figure 134. Timeline of the history of DBS. DBS, deep brain stimulation; IPG, implantable pulse generator (Krauss et al., 2021).
-
-#### Implementation and Methodology
-
-![](<2 - Source Material/Masters/attachments/Attachment 82.png>)
-
-Figure 135. On the left: Equipment/room layout. On the right: Differences in algorithms for stereotaxic procedures for deep brain stimulation implantation between frame-based and frameless surgery. (a) Traditional frame-based stereotaxic procedure; (b) Frameless stereotaxic procedure (Lin et al., 2014).
-
-#### Use of DBS
-
-DBS is mainly used for movement disorders, such as Parkinson’s disease, and other diseases like epilepsy. Some regions of interest include the SN, Gpi, STN, and Vim ([[#^footnote-37|Comment Unknown Author 37]]).
-
-![](<2 - Source Material/Masters/attachments/Attachment 83.png>)
-
-Figure 136. [[Basal ganglia]] structures. This illustration of a coronal cross-section of the brain depicts the major basal ganglia structures: (1) The [[substantia nigra]] (SN) and its innervation to the [[striatum]]. (2) The putamen and caudate nucleus which comprise the striatum. (3) The [[globus pallidus externus]] (GPe) and [[globus pallidus internus]] (GPi). (4) The [[subthalamic nucleus]] (STN). The thalamus and the cortex, which provides multiple inputs to the striatum are also labelled (Aum & Tierney, 2018).
-
-### Extracellular recordings
-
-Ex vivo recordings. The most common places for electrophysiological analysis are the hippocampus and pre-frontal cortex. The reference electrode is situated in the medium (Artificial CSF solution) and the recording electrode is situated in the tissue. The stimulus electrode is placed in the respective areas; they are usually used in pairs, one serving as the control electrode and the other as the test electrode.
-
-Extracellular recordings give data on the **Local Field Potential (LFP)**, which is the electric potential recorded in the extracellular space in brain tissue, typically using micro-electrodes (metal, silicon, or glass micropipettes). LFPs differ from the electroencephalogram (EEG), which is recorded at the surface of the scalp, and with macro-electrodes.
-
-**Paired-pulse facilitation (PPF)** is a form of short-term, activity-dependent synaptic plasticity common to most chemically transmitting synapses, manifested as an enhancement in the amplitude of the second of two rapidly evoked excitatory postsynaptic potentials (EPSPs). It is frequently used as an indirect measurement of changes in the probability of release of neurotransmitter at the presynaptic terminal. The generally accepted explanation of PPF posits that residual intraterminal free [Ca(2+)] from the first action potential facilitates the probability of transmitter release evoked by the second stimulus. PPF can be given in a 4x4 burst with 200 ms of interval between each train. This facilitation differs on LTP since it is of short duration and affects only the probability of pre-synaptic neurotransmitter release.
-
-**The neuronal input/output (I/O) function** (a curve) determines the likelihood that a neuron elicits an action potential in response to synaptic input of a given strength. This method of representation is used for studies of LTP induction.
-
-The data of the recording is composed of 3 moments, represented in the figure below:
-
-![](<2 - Source Material/Masters/attachments/Attachment 84.png>)
-
-### Patch-clamp
-
-In vitro recordings. An easy way to verify if the object of a electrophysiological study is to measure current or voltage is to analyse the label present in one of the axis of some figure. If fEPSP (field excitatory post-synaptic potential) is present, then it is an extracellular recording (due to the prefix f which means field) which is analysing voltage amplitude (due to the word potential) after a stimulus. If it is EPSC (excitatory post-synaptic current) then it is a voltage-clamp study which is measuring a current. If it is EPSP then it is a current-clamp study.
-
-![](<2 - Source Material/Masters/attachments/Attachment 85.png>)
-
-### Voltage clamp
-
-In voltage-clamp experiments, the voltage is clamped, i.e., fixed, by the voltage clamp amplifier which fixes the value of the voltage. The amount of current given by the latter to fixate the voltage is recorded. This technique allows for the study of electrical activity, in physiological conditions or otherwise.
-
-![](<2 - Source Material/Masters/attachments/Attachment 86.png>)
-
-### Current clamp
-
-In current-clamp experiments, the current is clamped, which is to say that a constant current is being given to the cell. This technique is commonly used to study patterns of activity of the neuron (synaptic or action potentials).
+See also -> [[EMG]]
+See also -> [[Cortical Stimulation]]
+See also -> [[DBS]]
+See also -> [[Extracellular recordings]]
+See also -> [[Patch-clamp]]
+See also -> [[Voltage clamp]]
+See also -> [[Current clamp]]
