@@ -45,6 +45,6 @@
 - [ ] Know more about remote desktop connection for windows.
 - [ ] Add university data (from databases).
 - [ ] Find a way to assess in obsidian if any two random notes are connected or not. Additionally, this could be generalized to advanced graph statistics.
-- [ ] Create or get more neuroscience tasks that can be used for quick tasks. These should be tasks that have been extensively applied in neuroscience, such as the [[go_no-go task]]. 
+- [ ] Create or get more neuroscience tasks that can be used for quick tasks. These should be tasks that have been extensively applied in neuroscience, such as the [[go-no-go task]]. 
 - [ ] Setup LaTeX in vscode. ⏬ 
 - [ ] If possible try to leverage source and eeg acitvity from EGI and couple it with the dipole information from the head model. Try to find some software that can compute the leadfield matrix and then use it to project the activity from specific sources. ⏬ 

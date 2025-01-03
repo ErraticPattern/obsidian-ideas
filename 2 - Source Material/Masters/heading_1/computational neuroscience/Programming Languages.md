@@ -1,7 +1,6 @@
 ## Programming Languages
 
 Some programming languages fit neuroscientific research better than others.
-
 - [[R]]
 - [[MATLAB]]
 - [[Python]]
