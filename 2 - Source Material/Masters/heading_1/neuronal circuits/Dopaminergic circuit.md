@@ -1,6 +1,6 @@
 ## Dopaminergic circuit
 
-Nigrostriatal: consists of neurons that project from the substantia nigra to the dorsal striatum, which includes the caudate and putamen. It controls movement initiation and fine control of movements; involved in Parkinson’s disease. Mesolimbic: Pleasure and reward; Related areas include amygdala and nucleus Accumbens. Mesocortical: Cognitive control, motivation and emotional response.
+Nigrostriatal: consists of neurons that project from the substantia nigra to the dorsal striatum, which includes the caudate and putamen. It controls movement initiation and fine control of movements; involved in Parkinson’s disease. Mesolimbic: Pleasure and reward; Related areas include [[Amygdala]] and nucleus Accumbens. Mesocortical: Cognitive control, motivation and emotional response.
 
 ![](<2 - Source Material/Masters/attachments/Attachment 146.png>) Cognitive Neuroscience, 4 ([[#^comment-0|Comment Unknown Author 1]]) Ed. Banich Compton, 2018, Cambridge Univ. Press.
 
