@@ -1,6 +1,8 @@
 ---
 creation date: 2024-09-20 14:08
-aliases: 
+aliases:
+  - tailarach space
+  - tailarach coordinates
 tags:
   - baby
   - software

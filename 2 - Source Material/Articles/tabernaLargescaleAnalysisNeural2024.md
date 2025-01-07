@@ -497,7 +497,7 @@ tags:
 
 
 
-> [[Montreal National Institute (MNI) space]]
+> [[Montreal National Institute space]]
 
 
 

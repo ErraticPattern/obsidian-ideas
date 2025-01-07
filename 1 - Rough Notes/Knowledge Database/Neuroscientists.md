@@ -20,6 +20,7 @@
 + [[Rui Miguel Costa]]
 + [[António Damásio]]
 + [[Lia Pereira Lucas Neto]]
++ [[Joana Freitas]]
 ### Unknown by me (Foreign)
 + [[Bahman Nasseroleslami]]
 ### Unknown by me (Portuguese)
@@ -28,6 +29,7 @@
 + [[Sofia Fernandes]]
 + [[Carla Bentes]]
 + [[Alexandre Rainha Campos]]
++ [[Sofia Reimão]]
 + [[Joana Cabral]]
 
 ### Unknown by me (Legends)
