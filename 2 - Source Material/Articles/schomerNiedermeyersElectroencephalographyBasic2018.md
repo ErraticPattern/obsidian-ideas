@@ -1,4 +1,5 @@
 ---
+citekey: "schomerNiedermeyersElectroencephalographyBasic2018"
 title: "Niedermeyer's Electroencephalography: Basic Principles, Clinical Applications, and Related Fields"
 itemType: "book"
 publicationTitle: ""
@@ -751,7 +752,5 @@ Schomer, D. L., & Silva, F. H. L. da. (2018). _Niedermeyer’s Electroencephalog
 
 
 
-<!-- Any additional notes or comments -->
 
-
-%% Import Date: 2024-12-26T15:23:27.555+00:00 %%
+%% Import Date: 2025-01-09T16:04:36.233+00:00 %%

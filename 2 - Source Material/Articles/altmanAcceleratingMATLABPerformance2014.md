@@ -1,4 +1,5 @@
 ---
+citekey: "altmanAcceleratingMATLABPerformance2014"
 title: "Accelerating MATLAB Performance: 1001 tips to speed up MATLAB programs"
 itemType: "book"
 publicationTitle: ""
@@ -53,6 +54,49 @@ tags:
 
 - **Color**: #ffd400 (Yellow)
 - **Date**: 2024-12-17 12:59 pm
+
+---
+
+
+
+#### Page 290
+
+
+
+
+
+
+
+
+> [[Bruno Luong]]
+
+
+
+
+
+- **Color**: #5fb236 (Green)
+- **Date**: 2024-12-17 1:06 pm
+
+---
+
+
+
+#### Page 316
+
+
+
+
+![](<0 - Supplementary/images/altmanAcceleratingMATLABPerformance2014.md/image-316-x45-y178.png>)
+
+
+
+> *(No annotated text)*
+
+
+
+
+- **Color**: #ffd400 (Yellow)
+- **Date**: 2024-12-17 1:08 pm
 
 ---
 
@@ -148,7 +192,5 @@ Altman, Y. M. (2014). _Accelerating MATLAB Performance: 1001 tips to speed up MA
 
 
 
-<!-- Any additional notes or comments -->
 
-
-%% Import Date: 2024-12-17T13:00:21.390+00:00 %%
+%% Import Date: 2025-01-09T16:04:35.283+00:00 %%

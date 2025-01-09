@@ -1,4 +1,5 @@
 ---
+citekey: "nidalEEGERPAnalysis2014"
 title: "EEG/ERP Analysis: Methods and Applications"
 itemType: "book"
 publicationTitle: ""
@@ -16,6 +17,10 @@ DOI: ""
 ISBN: "978-1-4822-2471-9"
 ISSN: ""
 url: ""
+importance: 
+status: incomplete
+tags:
+  - article
 ---
 
 ## EEG/ERP Analysis: Methods and Applications
@@ -30,6 +35,175 @@ url: ""
 
 ### Annotations
 
+
+
+
+#### Page 17
+
+
+
+
+![](<0 - Supplementary/images/nidalEEGERPAnalysis2014.md/image-17-x25-y41.png>)
+
+
+
+> *(No annotated text)*
+
+
+
+
+- **Color**: #ff6666 (Red)
+- **Date**: 2024-12-29 8:05 pm
+
+---
+
+
+
+#### Page 18
+
+
+
+
+![](<0 - Supplementary/images/nidalEEGERPAnalysis2014.md/image-18-x27-y359.png>)
+
+
+
+> *(No annotated text)*
+
+
+
+
+- **Color**: #ff6666 (Red)
+- **Date**: 2024-12-29 8:05 pm
+
+---
+
+
+
+#### Page 66
+
+
+
+
+
+
+
+
+> [[Mexican hat]]
+
+
+
+
+
+- **Color**: #5fb236 (Green)
+- **Date**: 2024-12-29 8:06 pm
+
+---
+
+
+
+#### Page 112
+
+
+
+
+![](<0 - Supplementary/images/nidalEEGERPAnalysis2014.md/image-112-x32-y119.png>)
+
+
+
+> *(No annotated text)*
+
+
+
+
+- **Color**: #ff6666 (Red)
+- **Date**: 2024-12-29 8:08 pm
+
+---
+
+
+
+#### Page 126
+
+
+
+
+![](<0 - Supplementary/images/nidalEEGERPAnalysis2014.md/image-126-x121-y34.png>)
+
+
+
+> *(No annotated text)*
+
+
+
+
+- **Color**: #ff6666 (Red)
+- **Date**: 2024-12-29 8:09 pm
+
+---
+
+
+
+#### Page 127
+
+
+
+
+![](<0 - Supplementary/images/nidalEEGERPAnalysis2014.md/image-127-x46-y30.png>)
+
+
+
+> *(No annotated text)*
+
+
+
+
+- **Color**: #ff6666 (Red)
+- **Date**: 2024-12-29 8:09 pm
+
+---
+
+
+
+#### Page 128
+
+
+
+
+![](<0 - Supplementary/images/nidalEEGERPAnalysis2014.md/image-128-x33-y262.png>)
+
+
+
+> *(No annotated text)*
+
+
+
+
+- **Color**: #ff6666 (Red)
+- **Date**: 2024-12-29 8:11 pm
+
+---
+
+
+
+#### Page 129
+
+
+
+
+![](<0 - Supplementary/images/nidalEEGERPAnalysis2014.md/image-129-x21-y347.png>)
+
+
+
+> *(No annotated text)*
+
+
+
+
+- **Color**: #ff6666 (Red)
+- **Date**: 2024-12-29 8:11 pm
+
+---
 
 
 
@@ -48,7 +222,7 @@ url: ""
 
 
 - **Color**: #ff6666 (Red)
-- **Date**: 2024-10-06 3:04 pm
+- **Date**: 2024-10-25 8:47 pm
 
 ---
 
@@ -65,7 +239,7 @@ url: ""
 
 
 - **Color**: #ffd400 (Yellow)
-- **Date**: 2024-10-06 3:04 pm
+- **Date**: 2024-10-25 8:47 pm
 
 ---
 
@@ -83,7 +257,7 @@ url: ""
 
 
 - **Color**: #5fb236 (Green)
-- **Date**: 2024-10-06 3:05 pm
+- **Date**: 2024-10-25 8:47 pm
 
 ---
 
@@ -98,14 +272,14 @@ url: ""
 
 
 
-> [[Sun-Stok 4-Shell Sphere head model]]
+> [[Sun-Stok]]
 
 
 
 
 
 - **Color**: #5fb236 (Green)
-- **Date**: 2024-10-06 3:05 pm
+- **Date**: 2024-10-25 8:47 pm
 
 ---
 
@@ -123,7 +297,7 @@ url: ""
 
 
 - **Color**: #5fb236 (Green)
-- **Date**: 2024-10-06 3:05 pm
+- **Date**: 2024-10-25 8:47 pm
 
 ---
 
@@ -146,7 +320,7 @@ url: ""
 
 
 - **Color**: #ffd400 (Yellow)
-- **Date**: 2024-10-06 3:21 pm
+- **Date**: 2024-10-25 8:47 pm
 
 ---
 
@@ -164,7 +338,7 @@ url: ""
 
 
 - **Color**: #5fb236 (Green)
-- **Date**: 2024-10-06 3:17 pm
+- **Date**: 2024-10-25 8:47 pm
 
 ---
 
@@ -186,7 +360,29 @@ url: ""
 
 
 - **Color**: #5fb236 (Green)
-- **Date**: 2024-10-06 3:17 pm
+- **Date**: 2024-10-25 8:47 pm
+
+---
+
+
+
+#### Page 144
+
+
+
+
+
+
+
+
+> [[support vector machines]]
+
+
+
+
+
+- **Color**: #5fb236 (Green)
+- **Date**: 2024-10-29 3:41 pm
 
 ---
 
@@ -208,7 +404,7 @@ url: ""
 
 
 - **Color**: #5fb236 (Green)
-- **Date**: 2024-10-06 3:37 pm
+- **Date**: 2024-10-25 8:47 pm
 
 ---
 
@@ -230,7 +426,7 @@ url: ""
 
 
 - **Color**: #5fb236 (Green)
-- **Date**: 2024-10-06 3:37 pm
+- **Date**: 2024-10-25 8:47 pm
 
 ---
 
@@ -249,7 +445,7 @@ url: ""
 
 
 - **Color**: #ffd400 (Yellow)
-- **Date**: 2024-10-06 3:38 pm
+- **Date**: 2024-10-25 8:47 pm
 
 ---
 
@@ -270,7 +466,7 @@ url: ""
 
 
 - **Color**: #ffd400 (Yellow)
-- **Date**: 2024-10-06 3:19 pm
+- **Date**: 2024-10-25 8:47 pm
 
 ---
 
@@ -291,7 +487,7 @@ url: ""
 
 
 - **Color**: #ff6666 (Red)
-- **Date**: 2024-10-06 3:20 pm
+- **Date**: 2024-10-25 8:47 pm
 
 ---
 
@@ -308,7 +504,7 @@ url: ""
 
 
 - **Color**: #ff6666 (Red)
-- **Date**: 2024-10-06 3:33 pm
+- **Date**: 2024-10-25 8:47 pm
 
 ---
 
@@ -326,7 +522,7 @@ url: ""
 
 
 - **Color**: #5fb236 (Green)
-- **Date**: 2024-10-06 3:33 pm
+- **Date**: 2024-10-25 8:47 pm
 
 ---
 
@@ -343,7 +539,7 @@ url: ""
 
 
 - **Color**: #ff6666 (Red)
-- **Date**: 2024-10-06 3:34 pm
+- **Date**: 2024-10-25 8:47 pm
 
 ---
 
@@ -360,7 +556,7 @@ url: ""
 
 
 - **Color**: #ffd400 (Yellow)
-- **Date**: 2024-10-06 3:40 pm
+- **Date**: 2024-10-25 8:47 pm
 
 ---
 
@@ -377,7 +573,7 @@ url: ""
 
 
 - **Color**: #ff6666 (Red)
-- **Date**: 2024-10-06 3:41 pm
+- **Date**: 2024-10-25 8:47 pm
 
 ---
 
@@ -398,7 +594,7 @@ url: ""
 
 
 - **Color**: #a28ae5 (Purple)
-- **Date**: 2024-10-06 3:35 pm
+- **Date**: 2024-10-25 8:47 pm
 
 ---
 
@@ -415,7 +611,7 @@ url: ""
 
 
 - **Color**: #ffd400 (Yellow)
-- **Date**: 2024-10-06 3:24 pm
+- **Date**: 2024-10-25 8:47 pm
 
 ---
 
@@ -432,7 +628,7 @@ url: ""
 
 
 - **Color**: #ffd400 (Yellow)
-- **Date**: 2024-10-06 3:39 pm
+- **Date**: 2024-10-25 8:47 pm
 
 ---
 
@@ -449,7 +645,7 @@ url: ""
 
 
 - **Color**: #ffd400 (Yellow)
-- **Date**: 2024-10-06 3:31 pm
+- **Date**: 2024-10-25 8:47 pm
 
 ---
 
@@ -470,7 +666,7 @@ url: ""
 
 
 - **Color**: #ff6666 (Red)
-- **Date**: 2024-10-06 3:23 pm
+- **Date**: 2024-10-25 8:47 pm
 
 ---
 
@@ -492,7 +688,7 @@ url: ""
 
 
 - **Color**: #5fb236 (Green)
-- **Date**: 2024-10-06 3:36 pm
+- **Date**: 2024-10-25 8:47 pm
 
 ---
 
@@ -509,7 +705,7 @@ url: ""
 
 
 - **Color**: #ff6666 (Red)
-- **Date**: 2024-10-06 3:26 pm
+- **Date**: 2024-10-25 8:47 pm
 
 ---
 
@@ -526,7 +722,7 @@ url: ""
 
 
 - **Color**: #a28ae5 (Purple)
-- **Date**: 2024-10-06 3:26 pm
+- **Date**: 2024-10-25 8:47 pm
 
 ---
 
@@ -543,7 +739,7 @@ url: ""
 
 
 - **Color**: #ff6666 (Red)
-- **Date**: 2024-10-06 3:25 pm
+- **Date**: 2024-10-25 8:47 pm
 
 ---
 
@@ -558,14 +754,14 @@ url: ""
 
 
 
-> [[Attention-deficit hyperactivity disorder]]
+> [[ADHD]]
 
 
 
 
 
 - **Color**: #5fb236 (Green)
-- **Date**: 2024-10-06 3:36 pm
+- **Date**: 2024-10-25 8:47 pm
 
 ---
 
@@ -583,7 +779,7 @@ url: ""
 
 
 - **Color**: #5fb236 (Green)
-- **Date**: 2024-10-06 3:36 pm
+- **Date**: 2024-10-25 8:47 pm
 
 ---
 
@@ -601,7 +797,7 @@ url: ""
 
 
 - **Color**: #5fb236 (Green)
-- **Date**: 2024-10-06 3:36 pm
+- **Date**: 2024-10-25 8:47 pm
 
 ---
 
@@ -622,7 +818,7 @@ url: ""
 
 
 - **Color**: #ffd400 (Yellow)
-- **Date**: 2024-10-06 3:46 pm
+- **Date**: 2024-10-25 8:47 pm
 
 ---
 
@@ -640,7 +836,7 @@ url: ""
 
 
 - **Color**: #5fb236 (Green)
-- **Date**: 2024-10-06 3:46 pm
+- **Date**: 2024-10-25 8:47 pm
 
 ---
 
@@ -658,7 +854,7 @@ url: ""
 
 
 - **Color**: #5fb236 (Green)
-- **Date**: 2024-10-06 3:48 pm
+- **Date**: 2024-10-25 8:47 pm
 
 ---
 
@@ -680,7 +876,7 @@ url: ""
 
 
 - **Color**: #5fb236 (Green)
-- **Date**: 2024-10-06 3:46 pm
+- **Date**: 2024-10-25 8:47 pm
 
 ---
 
@@ -698,7 +894,7 @@ url: ""
 
 
 - **Color**: #5fb236 (Green)
-- **Date**: 2024-10-06 3:46 pm
+- **Date**: 2024-10-25 8:47 pm
 
 ---
 
@@ -716,7 +912,7 @@ url: ""
 
 
 - **Color**: #5fb236 (Green)
-- **Date**: 2024-10-06 3:46 pm
+- **Date**: 2024-10-25 8:47 pm
 
 ---
 
@@ -734,7 +930,7 @@ url: ""
 
 
 - **Color**: #5fb236 (Green)
-- **Date**: 2024-10-06 3:46 pm
+- **Date**: 2024-10-25 8:47 pm
 
 ---
 
@@ -752,7 +948,7 @@ url: ""
 
 
 - **Color**: #5fb236 (Green)
-- **Date**: 2024-10-06 3:45 pm
+- **Date**: 2024-10-25 8:47 pm
 
 ---
 
@@ -770,7 +966,7 @@ url: ""
 
 
 - **Color**: #5fb236 (Green)
-- **Date**: 2024-10-06 3:45 pm
+- **Date**: 2024-10-25 8:47 pm
 
 ---
 
@@ -788,7 +984,7 @@ url: ""
 
 
 - **Color**: #5fb236 (Green)
-- **Date**: 2024-10-06 3:45 pm
+- **Date**: 2024-10-25 8:47 pm
 
 ---
 
@@ -810,24 +1006,7 @@ url: ""
 
 
 - **Color**: #5fb236 (Green)
-- **Date**: 2024-10-06 3:53 pm
-
----
-
-
-
-
-
-
-
-> Numerous qEEG studies have found increased alpha and/or theta power in a high percentage of depressed patients [15–22].
-
-
-
-
-
-- **Color**: #ff6666 (Red)
-- **Date**: 2024-10-06 3:51 pm
+- **Date**: 2024-10-25 8:47 pm
 
 ---
 
@@ -845,7 +1024,7 @@ url: ""
 
 
 - **Color**: #5fb236 (Green)
-- **Date**: 2024-10-06 3:52 pm
+- **Date**: 2024-10-25 8:47 pm
 
 ---
 
@@ -863,7 +1042,7 @@ url: ""
 
 
 - **Color**: #5fb236 (Green)
-- **Date**: 2024-10-06 3:52 pm
+- **Date**: 2024-10-25 8:47 pm
 
 ---
 
@@ -881,7 +1060,7 @@ url: ""
 
 
 - **Color**: #5fb236 (Green)
-- **Date**: 2024-10-06 3:53 pm
+- **Date**: 2024-10-25 8:47 pm
 
 ---
 
@@ -898,7 +1077,7 @@ url: ""
 
 
 - **Color**: #ff6666 (Red)
-- **Date**: 2024-10-06 3:53 pm
+- **Date**: 2024-10-25 8:47 pm
 
 ---
 
@@ -916,7 +1095,7 @@ url: ""
 
 
 - **Color**: #5fb236 (Green)
-- **Date**: 2024-10-06 3:52 pm
+- **Date**: 2024-10-25 8:47 pm
 
 ---
 
@@ -933,7 +1112,7 @@ url: ""
 
 
 - **Color**: #ff6666 (Red)
-- **Date**: 2024-10-06 3:54 pm
+- **Date**: 2024-10-25 8:47 pm
 
 ---
 
@@ -954,7 +1133,7 @@ url: ""
 
 
 - **Color**: #a28ae5 (Purple)
-- **Date**: 2024-10-06 3:43 pm
+- **Date**: 2024-10-25 8:47 pm
 
 ---
 
@@ -976,7 +1155,7 @@ url: ""
 
 
 - **Color**: #5fb236 (Green)
-- **Date**: 2024-10-06 3:44 pm
+- **Date**: 2024-10-25 8:47 pm
 
 ---
 
@@ -998,7 +1177,7 @@ url: ""
 
 
 - **Color**: #5fb236 (Green)
-- **Date**: 2024-10-06 3:44 pm
+- **Date**: 2024-10-25 8:47 pm
 
 ---
 
@@ -1020,7 +1199,7 @@ url: ""
 
 
 - **Color**: #5fb236 (Green)
-- **Date**: 2024-10-06 4:07 pm
+- **Date**: 2024-10-25 8:47 pm
 
 ---
 
@@ -1031,14 +1210,14 @@ url: ""
 
 
 
-> [[fMRI]]
+> [[functional magnetic resonance imaging]]
 
 
 
 
 
 - **Color**: #5fb236 (Green)
-- **Date**: 2024-10-06 4:07 pm
+- **Date**: 2024-10-25 8:47 pm
 
 ---
 
@@ -1059,7 +1238,7 @@ url: ""
 
 
 - **Color**: #e56eee (Magenta)
-- **Date**: 2024-10-06 4:16 pm
+- **Date**: 2024-10-25 8:47 pm
 
 ---
 
@@ -1077,7 +1256,7 @@ url: ""
 
 
 - **Color**: #5fb236 (Green)
-- **Date**: 2024-10-06 4:17 pm
+- **Date**: 2024-10-25 8:47 pm
 
 ---
 
@@ -1095,7 +1274,7 @@ url: ""
 
 
 - **Color**: #5fb236 (Green)
-- **Date**: 2024-10-06 4:17 pm
+- **Date**: 2024-10-25 8:47 pm
 
 ---
 
@@ -1113,7 +1292,7 @@ url: ""
 
 
 - **Color**: #5fb236 (Green)
-- **Date**: 2024-10-06 4:18 pm
+- **Date**: 2024-10-25 8:47 pm
 
 ---
 
@@ -1134,7 +1313,7 @@ url: ""
 
 
 - **Color**: #ff6666 (Red)
-- **Date**: 2024-10-06 4:19 pm
+- **Date**: 2024-10-25 8:47 pm
 
 ---
 
@@ -1151,7 +1330,7 @@ url: ""
 
 
 - **Color**: #ff6666 (Red)
-- **Date**: 2024-10-06 4:20 pm
+- **Date**: 2024-10-25 8:47 pm
 
 ---
 
@@ -1162,14 +1341,14 @@ url: ""
 
 
 
-> [[Memory]], [[Language]], [[reasoning production]]
+> [[memory]], [[language]], [[reasoning production]]
 
 
 
 
 
 - **Color**: #5fb236 (Green)
-- **Date**: 2024-10-06 4:21 pm
+- **Date**: 2024-10-25 8:47 pm
 
 ---
 
@@ -1187,7 +1366,7 @@ url: ""
 
 
 - **Color**: #5fb236 (Green)
-- **Date**: 2024-10-06 4:21 pm
+- **Date**: 2024-10-25 8:47 pm
 
 ---
 
@@ -1208,7 +1387,7 @@ url: ""
 
 
 - **Color**: #ff6666 (Red)
-- **Date**: 2024-10-06 4:06 pm
+- **Date**: 2024-10-25 8:47 pm
 
 ---
 
@@ -1230,7 +1409,7 @@ url: ""
 
 
 - **Color**: #5fb236 (Green)
-- **Date**: 2024-10-06 4:03 pm
+- **Date**: 2024-10-25 8:47 pm
 
 ---
 
@@ -1248,7 +1427,7 @@ url: ""
 
 
 - **Color**: #5fb236 (Green)
-- **Date**: 2024-10-06 4:03 pm
+- **Date**: 2024-10-25 8:47 pm
 
 ---
 
@@ -1269,7 +1448,7 @@ url: ""
 
 
 - **Color**: #a28ae5 (Purple)
-- **Date**: 2024-10-06 4:04 pm
+- **Date**: 2024-10-25 8:47 pm
 
 ---
 
@@ -1290,7 +1469,7 @@ url: ""
 
 
 - **Color**: #a28ae5 (Purple)
-- **Date**: 2024-10-06 4:04 pm
+- **Date**: 2024-10-25 8:47 pm
 
 ---
 
@@ -1334,19 +1513,19 @@ Nidal, K., & Malik, A. S. (2014). _EEG/ERP Analysis: Methods and Applications_. 
 ### Tags
 
 
-- #Medical_/_Neuroscience
+- #medical_/_neuroscience
 
-- #Science_/_Life_Sciences_/_Neuroscience
+- #science_/_life_sciences_/_neuroscience
 
-- #Medical_/_Biotechnology
+- #medical_/_biotechnology
 
-- #Psychology_/_Movements_/_General
+- #psychology_/_movements_/_general
 
-- #Psychology_/_Physiological_Psychology
+- #psychology_/_physiological_psychology
 
-- #Technology_&_Engineering_/_Biomedical
+- #technology_&_engineering_/_biomedical
 
-- #Technology_&_Engineering_/_Environmental_/_General
+- #technology_&_engineering_/_environmental_/_general
 
 
 
@@ -1356,7 +1535,7 @@ Nidal, K., & Malik, A. S. (2014). _EEG/ERP Analysis: Methods and Applications_. 
 
 - **Google Books Link**: 
 
-- **PDF**: C:\Users\joaop\Zotero\storage\BDPKUBTF\Nidal and Malik - 2014 - EEGERP Analysis Methods and Applications.pdf
+- **PDF**: C:\Users\joaop\Zotero\storage\HA6ZNLSZ\Nidal and Malik - 2014 - EEGERP Analysis Methods and Applications.pdf
 
 
 
@@ -1370,4 +1549,22 @@ Nidal, K., & Malik, A. S. (2014). _EEG/ERP Analysis: Methods and Applications_. 
 
 
 
-%% Import Date: 2024-10-06T17:32:56.368+01:00 %%
+### Backlinking
+
+
+#### Metadata Links
+
+
+
+- publisher: [[CRC Press]]
+
+
+
+- date: [[2014]]
+
+
+
+
+
+
+%% Import Date: 2025-01-09T16:04:35.874+00:00 %%

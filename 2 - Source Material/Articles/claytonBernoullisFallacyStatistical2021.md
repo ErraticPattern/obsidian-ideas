@@ -1,4 +1,5 @@
 ---
+citekey: "claytonBernoullisFallacyStatistical2021"
 title: "Bernoulli's Fallacy: Statistical Illogic and the Crisis of Modern Science"
 itemType: "book"
 publicationTitle: ""
@@ -2812,12 +2813,6 @@ tags:
 No notes available.
 
 
-### Collected Quotes
-
-
-No blue-highlighted quotes available.
-
-
 %% begin notes %%
 
 **Notes**
@@ -2903,4 +2898,4 @@ Clayton, A. (2021). _Bernoulli’s Fallacy: Statistical Illogic and the Crisis o
 
 
 
-%% Import Date: 2024-10-28T21:00:53.866+00:00 %%
+%% Import Date: 2025-01-09T16:04:35.316+00:00 %%

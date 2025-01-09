@@ -1,4 +1,5 @@
 ---
+citekey: "cohenAnalyzingNeuralTime2014"
 title: "Analyzing Neural Time Series Data: Theory and Practice"
 itemType: "book"
 publicationTitle: ""
@@ -34,6 +35,66 @@ tags:
 
 ### Annotations
 
+
+
+
+#### Page 24
+
+
+
+
+
+
+
+
+> [[Cognitive electrophysiology]]
+
+
+
+
+
+- **Color**: #5fb236 (Green)
+- **Date**: 2024-12-29 7:48 pm
+
+---
+
+
+
+
+
+
+
+> Cognitive electrophysiology is the study of how cognitive functions (including perception,  memory, language, emotions, behavior monitoring/control, and social cognition) are supported or implemented by the electrical activity produced by populations of neurons.
+
+
+
+
+
+- **Color**: #ff6666 (Red)
+- **Date**: 2024-12-29 7:48 pm
+
+---
+
+
+
+#### Page 40
+
+
+
+
+
+
+
+> There are two main limitations of ERPs.
+
+
+
+
+
+- **Color**: #ffd400 (Yellow)
+- **Date**: 2024-12-29 7:59 pm
+
+---
 
 
 
@@ -1567,6 +1628,124 @@ tags:
 
 
 
+#### Page 543
+
+
+
+
+
+
+
+> Avoid the Paralysis of Analysis
+
+
+
+
+
+- **Color**: #2ea8e5 (Blue)
+- **Date**: 2024-12-29 8:00 pm
+
+---
+
+
+
+
+
+
+
+> The potential problem with data analyses is that the search space of electrophysiology  data is so huge that there are limitless possibilities for new or different ways to analyze the  same data. Thus, there is a risk of ceaselessly analyzing and reanalyzing your data without  getting any new information from the data. If your head is in the data-analysis clouds, try to  keep your feet on the purpose-of-the-study ground.
+
+
+
+
+
+- **Color**: #ffd400 (Yellow)
+- **Date**: 2024-12-29 8:01 pm
+
+---
+
+
+
+#### Page 544
+
+
+
+
+
+
+
+> If It Feels Wrong, It Probably Is
+
+
+
+
+
+- **Color**: #2ea8e5 (Blue)
+- **Date**: 2024-12-29 8:00 pm
+
+---
+
+
+
+
+
+
+
+> When in Doubt, Plot It Out
+
+
+
+
+
+- **Color**: #2ea8e5 (Blue)
+- **Date**: 2024-12-29 8:00 pm
+
+---
+
+
+
+#### Page 545
+
+
+
+
+![](<0 - Supplementary/images/cohenAnalyzingNeuralTime2014.md/image-545-x111-y318.png>)
+
+
+
+> *(No annotated text)*
+
+
+
+
+- **Color**: #aaaaaa (Gray)
+- **Date**: 2024-12-29 8:01 pm
+
+---
+
+
+
+#### Page 553
+
+
+
+
+
+
+
+> Cognitive Electrophysiology: The Art of Finding Anthills on Mountains
+
+
+
+
+
+- **Color**: #2ea8e5 (Blue)
+- **Date**: 2024-12-29 8:03 pm
+
+---
+
+
+
 
 
 ### Notes
@@ -1644,4 +1823,4 @@ Cohen, M. X. (2014). _Analyzing Neural Time Series Data: Theory and Practice_. T
 
 
 
-%% Import Date: 2024-12-18T22:07:44.042+00:00 %%
+%% Import Date: 2025-01-09T16:04:35.345+00:00 %%

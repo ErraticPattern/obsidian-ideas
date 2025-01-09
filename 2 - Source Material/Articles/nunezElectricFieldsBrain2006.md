@@ -1,4 +1,5 @@
 ---
+citekey: "nunezElectricFieldsBrain2006"
 title: "Electric Fields of the Brain: The Neurophysics of EEG"
 itemType: "book"
 publicationTitle: ""
@@ -600,7 +601,7 @@ frontal regions, depending partly on the subject's state of relaxation.
 
 
 
-![](<0 - Supplementary/images/nunezElectricFieldsBrain2006.md/image-37-x130-y334.png>) ^6ea205
+![](<0 - Supplementary/images/nunezElectricFieldsBrain2006.md/image-37-x130-y334.png>)
 
 
 
@@ -859,4 +860,4 @@ Nunez, P. L., & Srinivasan, R. (2006). _Electric Fields of the Brain: The Neurop
 
 
 
-%% Import Date: 2024-11-06T17:17:05.681+00:00 %%
+%% Import Date: 2025-01-09T16:04:36.033+00:00 %%

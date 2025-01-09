@@ -1,4 +1,5 @@
 ---
+citekey: "luckIntroductionEventrelatedPotential2014"
 title: "An introduction to the event-related potential technique"
 itemType: "book"
 publicationTitle: ""
@@ -136,6 +137,462 @@ tags:
 
 
 
+#### Page 112
+
+
+
+
+
+
+
+> Emotion-Related ERP Components
+
+
+
+
+
+- **Color**: #aaaaaa (Gray)
+- **Date**: 2024-12-23 8:35 pm
+
+---
+
+
+
+
+
+
+
+> It is difficult to induce intense emotional responses over and over again in a controlled experiment because these responses tend to habituate.
+
+
+
+
+
+- **Color**: #a28ae5 (Purple)
+- **Date**: 2024-12-23 8:35 pm
+
+---
+
+
+
+#### Page 113
+
+
+
+
+
+
+
+
+> [[error-related negativity]]
+
+
+
+
+
+- **Color**: #5fb236 (Green)
+- **Date**: 2025-01-06 11:57 am
+
+---
+
+
+
+#### Page 119
+
+
+
+
+
+
+
+> The Discovery of N2pc (and Advice about Listening to Your Mentor)
+
+
+
+
+
+- **Color**: #aaaaaa (Gray)
+- **Date**: 2025-01-06 11:58 am
+
+---
+
+
+
+#### Page 122
+
+
+
+
+
+
+
+
+> [[Michael Falkenstein]]
+
+
+
+
+
+- **Color**: #5fb236 (Green)
+- **Date**: 2025-01-06 11:59 am
+
+---
+
+
+
+
+
+
+
+
+> [[Bill Gehring]]
+
+
+
+
+
+- **Color**: #5fb236 (Green)
+- **Date**: 2025-01-06 11:59 am
+
+---
+
+
+
+#### Page 123
+
+
+
+
+
+
+
+
+> [[University of Illinois]]
+
+
+
+
+
+- **Color**: #5fb236 (Green)
+- **Date**: 2025-01-06 12:00 pm
+
+---
+
+
+
+
+
+
+
+> N2pc
+
+
+
+
+
+- **Color**: #ffd400 (Yellow)
+- **Date**: 2025-01-06 12:07 pm
+
+---
+
+
+
+#### Page 303
+
+
+
+
+
+
+
+> Whenever you look at a set of ERP waveformswhether your own or someone else’s—you should look at the prestimulus baseline activity before looking at anything else.
+
+
+
+
+
+- **Color**: #2ea8e5 (Blue)
+- **Date**: 2024-12-31 5:27 pm
+
+---
+
+
+
+#### Page 304
+
+
+
+
+
+
+
+> Specifically, if the voltage fluctuations in the prestimulus baseline are as big as the experimental effects in the poststimulus period, you should be very skeptical about whether the effects are real (even if they are statistically significant, which will happen for bogus effects one out of every 20 times).
+
+
+
+
+
+- **Color**: #ffd400 (Yellow)
+- **Date**: 2024-12-31 5:28 pm
+
+---
+
+
+
+
+
+
+
+> Second, the baseline will tell you if the waveforms are contaminated by overlapping activity from the previous trial or preparatory activity that occurred before the onset of the stimulus in the present trial. Such effects are not always problematic, but you should definitely think about them.
+
+
+
+
+**Comment**: This is definetely a bigger concern in studies with small ITI.
+
+
+- **Color**: #ffd400 (Yellow)
+- **Date**: 2024-12-31 5:29 pm
+
+---
+
+
+
+#### Page 307
+
+
+
+
+
+
+
+> Signal averaging is used to attenuate noise so that the event-related brain activity can be seen more easily.
+
+
+
+
+
+- **Color**: #ffd400 (Yellow)
+- **Date**: 2024-12-31 5:30 pm
+
+---
+
+
+
+
+
+
+
+
+> [[Steve Hillyard]]
+
+
+
+
+
+- **Color**: #5fb236 (Green)
+- **Date**: 2024-12-31 5:30 pm
+
+---
+
+
+
+
+
+
+
+> Upward-going deflections are called uppies, and downward-going deflections are called downies.
+
+
+
+
+
+- **Color**: #2ea8e5 (Blue)
+- **Date**: 2024-12-31 5:30 pm
+
+---
+
+
+
+#### Page 316
+
+
+
+
+![](<0 - Supplementary/images/luckIntroductionEventrelatedPotential2014.md/image-316-x47-y73.png>)
+
+
+
+> *(No annotated text)*
+
+
+
+
+- **Color**: #ffd400 (Yellow)
+- **Date**: 2024-12-31 5:26 pm
+
+---
+
+
+
+#### Page 474
+
+
+
+
+
+
+
+> ERP Localization
+
+
+
+
+
+- **Color**: #aaaaaa (Gray)
+- **Date**: 2024-12-30 12:49 pm
+
+---
+
+
+
+
+
+
+
+> I tend to be extremely skeptical about ERP localization, and this chapter reflects that skepticism. Many other researchers are also skeptical about ERP localization (see, e.g., Snyder, 1991), but I am more skeptical than most.
+
+
+
+
+
+- **Color**: #ffd400 (Yellow)
+- **Date**: 2024-12-30 12:50 pm
+
+---
+
+
+
+
+
+
+
+> My main advice in this chapter is that beginning and intermediate ERP researchers should not attempt to localize the sources of their ERP data.
+
+
+
+
+
+- **Color**: #2ea8e5 (Blue)
+- **Date**: 2024-12-30 12:49 pm
+
+---
+
+
+
+#### Page 476
+
+
+
+
+
+
+
+
+> [[BESA]]
+
+
+
+
+
+- **Color**: #5fb236 (Green)
+- **Date**: 2024-12-30 12:51 pm
+
+---
+
+
+
+
+
+
+
+
+> [[MUSIC]]
+
+
+
+
+
+- **Color**: #5fb236 (Green)
+- **Date**: 2024-12-30 12:51 pm
+
+---
+
+
+
+#### Page 482
+
+
+
+
+![](<0 - Supplementary/images/luckIntroductionEventrelatedPotential2014.md/image-482-x22-y196.png>)
+
+
+
+> *(No annotated text)*
+
+
+
+
+- **Color**: #ffd400 (Yellow)
+- **Date**: 2025-01-06 11:56 am
+
+---
+
+
+
+#### Page 483
+
+
+
+
+
+
+
+> It should also be noted that, because of its smoothness constraint, the LORETA technique is appropriate only for finding the center of an area of activation and not for assessing the extent of the activated area.
+
+
+
+
+
+- **Color**: #ffd400 (Yellow)
+- **Date**: 2024-12-30 10:58 pm
+
+---
+
+
+
+#### Page 497
+
+
+
+
+
+
+
+> If the study is looking at relatively early ERP components (<=200 ms), the results could easily be distorted by confounds in the stimuli. In many cases, studies simply fail to counterbalance the stimuli (e.g., using one set of stimuli in one condition and a different set of stimuli in another condition), which is an obvious confound.
+
+
+
+
+
+- **Color**: #ffd400 (Yellow)
+- **Date**: 2025-01-06 11:54 am
+
+---
+
+
+
 
 
 ### Notes
@@ -234,4 +691,4 @@ Luck, S. J. (2014). _An introduction to the event-related potential technique_ (
 
 
 
-%% Import Date: 2024-12-20T20:12:44.829+00:00 %%
+%% Import Date: 2025-01-09T16:04:35.588+00:00 %%
