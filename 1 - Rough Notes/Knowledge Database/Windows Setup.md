@@ -53,12 +53,12 @@ Open source tool for remote connection. Sometimes the official serves will be do
 Install on both local and remote machines. Create a network by logging in to the browser website and creating a network. Add both machines to the network. Go to RustDesk and enable connection by IP address. Specify the correct port and make sure the port can be read by the remote machine (use `ipconfig` and `netstat`). Input the connection value - Ip address followed by the port number (e.g. `10.147.17.103:21118`).
 + **TeamViewer**
 More specifically the free version. The app can be setup by downloading ``TeamViewer Host``. This app should be used when *RustDesk* is not working properly or to set it up correctly. This app is not recommended for privacy reasons and for its sudden disconnections (there seems to be some limited time of use). 
-## Obsidian
-
-^537f7f
-
-### Plug-ins:
+## Note taking
+### Obsidian
+#### Plug-ins:
 The plug-ins are specified in my main obsidian vaults.
+### LogSeq
+[See here.](https://logseq.com/)
 ## LaTeX
 Latex is useful for neat formatting and mathematical notation. It can be used both online and offline.
 ### Overleaf

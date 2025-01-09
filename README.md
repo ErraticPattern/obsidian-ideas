@@ -46,10 +46,16 @@ This is a (temporary) folder holding information scrapped from the web using the
 # Plugins
 ## Using *Zotero Integration* 
 Check the [[Research Workflow]] note to understand how to implement Zotero for productive references management. 
+Links:
++ https://www.zotero.org/support/plugins
 ### Requirements (Zotero 6)
 + *Better bibtex* addon for Zotero (available on GitHub).
 + *ZoteroDuplicateMeger* addon for Zotero (available on GitHub).
 + Zotero Integration plugin in obsidian.
+### Requirements (Zotero 7)
++ Attanger (Storage)
++ Better Bibtex (Citations)
++ Zoplicate (Manage duplicates)
 ###  Citing
 ***Workflow***
 1. Open a note.
