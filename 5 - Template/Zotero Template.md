@@ -1,4 +1,5 @@
 ---
+citekey: "{{citekey}}"
 title: "{{title}}"
 itemType: "{{itemType}}"
 publicationTitle: "{{publicationTitle}}"
