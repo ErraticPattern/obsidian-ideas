@@ -1,21 +1,21 @@
 ---
-title: "Electromagnetic brain mapping"
-itemType: "journalArticle"
-publicationTitle: "IEEE Signal Processing Magazine"
+title: Electromagnetic brain mapping
+itemType: journalArticle
+publicationTitle: IEEE Signal Processing Magazine
 bookTitle: ""
-seriesTitle: ""
+seriesTitle: 
 publisher: ""
 place: ""
 volume: "18"
 numberOfVolumes: ""
 issue: "6"
-pages: "14-30"
+pages: 14-30
 edition: ""
-date: "2001-11-01"
-DOI: "10.1109/79.962275"
+date: 2001-11-01
+DOI: 10.1109/79.962275
 ISBN: ""
-ISSN: "1558-0792"
-url: "https://ieeexplore.ieee.org/document/962275"
+ISSN: 1558-0792
+url: https://ieeexplore.ieee.org/document/962275
 importance: 
 status: incomplete
 tags:

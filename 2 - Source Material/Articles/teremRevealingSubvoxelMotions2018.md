@@ -1,4 +1,5 @@
 ---
+citekey: "teremRevealingSubvoxelMotions2018"
 title: "Revealing sub-voxel motions of brain tissue using phase-based amplified MRI (aMRI)"
 itemType: "journalArticle"
 publicationTitle: "Magnetic Resonance in Medicine"
@@ -98,7 +99,7 @@ tags:
 
 
 
-> [[Cerebrospinal fluid]]
+> [[CSF]]
 
 
 
@@ -328,4 +329,4 @@ Terem, I., Ni, W. W., Goubran, M., Rahimi, M. S., Zaharchuk, G., Yeom, K. W., Mo
 
 
 
-%% Import Date: 2024-11-02T20:11:00.264+00:00 %%
+%% Import Date: 2025-01-09T17:42:58.448+00:00 %%

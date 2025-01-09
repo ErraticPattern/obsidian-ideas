@@ -1,4 +1,5 @@
 ---
+citekey: "whithamScalpElectricalRecording2007"
 title: "Scalp electrical recording during paralysis: Quantitative evidence that EEG frequencies above 20Hz are contaminated by EMG"
 itemType: "journalArticle"
 publicationTitle: "Clinical Neurophysiology"
@@ -266,4 +267,4 @@ Whitham, E. M., Pope, K. J., Fitzgibbon, S. P., Lewis, T., Clark, C. R., Loveles
 
 
 
-%% Import Date: 2024-12-25T18:18:57.044+00:00 %%
+%% Import Date: 2025-01-09T17:43:01.083+00:00 %%

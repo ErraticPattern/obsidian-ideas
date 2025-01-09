@@ -1,7 +1,8 @@
 ---
-title: Seven quick tips for analysis scripts in neuroimaging
-itemType: journalArticle
-publicationTitle: PLOS Computational Biology
+citekey: "vlietSevenQuickTips2020"
+title: "Seven quick tips for analysis scripts in neuroimaging"
+itemType: "journalArticle"
+publicationTitle: "PLOS Computational Biology"
 bookTitle: ""
 seriesTitle: ""
 publisher: ""
@@ -9,15 +10,15 @@ place: ""
 volume: "16"
 numberOfVolumes: ""
 issue: "3"
-pages: e1007358
+pages: "e1007358"
 edition: ""
-date: 2020-03-26
-DOI: 10.1371/journal.pcbi.1007358
+date: "2020-03-26"
+DOI: "10.1371/journal.pcbi.1007358"
 ISBN: ""
-ISSN: 1553-7358
-url: https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1007358
-importance: "8"
-status: complete
+ISSN: "1553-7358"
+url: "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1007358"
+importance: 
+status: incomplete
 tags:
   - article
 ---
@@ -426,6 +427,42 @@ tags:
 
 
 
+
+
+
+> [[MEG]]
+
+
+
+
+
+- **Color**: #5fb236 (Green)
+- **Date**: 2024-10-26 1:13 pm
+
+---
+
+
+
+
+
+
+
+
+> [[MRI]]
+
+
+
+
+
+- **Color**: #5fb236 (Green)
+- **Date**: 2024-10-26 1:13 pm
+
+---
+
+
+
+
+
 ### Notes
 
 
@@ -569,7 +606,5 @@ Vliet, M. van. (2020). Seven quick tips for analysis scripts in neuroimaging. _P
 
 
 
-<!-- Any additional notes or comments -->
 
-
-%% Import Date: 2024-10-26T13:10:36.280+01:00 %%
+%% Import Date: 2025-01-09T17:43:00.378+00:00 %%

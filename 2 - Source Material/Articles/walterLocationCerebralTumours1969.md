@@ -1,4 +1,5 @@
 ---
+citekey: "walterLocationCerebralTumours1969"
 title: "The Location of Cerebral Tumours by Electro-Encephalography"
 itemType: "journalArticle"
 publicationTitle: "American Journal of EEG Technology"
@@ -177,7 +178,5 @@ Walter, W. G. (1969). The Location of Cerebral Tumours by Electro-Encephalograph
 
 
 
-<!-- Any additional notes or comments -->
 
-
-%% Import Date: 2024-12-27T13:42:46.679+00:00 %%
+%% Import Date: 2025-01-09T17:43:00.819+00:00 %%

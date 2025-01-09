@@ -1,4 +1,5 @@
 ---
+citekey: "tabernaLargescaleAnalysisNeural2024"
 title: "Large-scale analysis of neural activity and connectivity from high-density electroencephalographic data"
 itemType: "journalArticle"
 publicationTitle: "Computers in Biology and Medicine"
@@ -52,7 +53,7 @@ tags:
 
 
 - **Color**: #ffd400 (Yellow)
-- **Date**: 2024-07-02 9:56 pm
+- **Date**: 2024-10-25 8:47 pm
 
 ---
 
@@ -70,7 +71,7 @@ tags:
 
 
 - **Color**: #5fb236 (Green)
-- **Date**: 2024-10-08 8:01 pm
+- **Date**: 2024-10-25 8:47 pm
 
 ---
 
@@ -88,7 +89,7 @@ tags:
 
 
 - **Color**: #5fb236 (Green)
-- **Date**: 2024-10-08 8:02 pm
+- **Date**: 2024-10-25 8:47 pm
 
 ---
 
@@ -106,7 +107,7 @@ tags:
 
 
 - **Color**: #5fb236 (Green)
-- **Date**: 2024-10-08 8:02 pm
+- **Date**: 2024-10-25 8:47 pm
 
 ---
 
@@ -124,7 +125,7 @@ tags:
 
 
 - **Color**: #5fb236 (Green)
-- **Date**: 2024-10-08 8:02 pm
+- **Date**: 2024-10-25 8:47 pm
 
 ---
 
@@ -142,7 +143,7 @@ tags:
 
 
 - **Color**: #5fb236 (Green)
-- **Date**: 2024-10-08 8:02 pm
+- **Date**: 2024-10-25 8:47 pm
 
 ---
 
@@ -160,7 +161,7 @@ tags:
 
 
 - **Color**: #5fb236 (Green)
-- **Date**: 2024-10-08 8:02 pm
+- **Date**: 2024-10-25 8:47 pm
 
 ---
 
@@ -178,7 +179,7 @@ tags:
 
 
 - **Color**: #5fb236 (Green)
-- **Date**: 2024-10-08 8:03 pm
+- **Date**: 2024-10-25 8:47 pm
 
 ---
 
@@ -196,7 +197,7 @@ tags:
 
 
 - **Color**: #5fb236 (Green)
-- **Date**: 2024-10-08 8:03 pm
+- **Date**: 2024-10-25 8:47 pm
 
 ---
 
@@ -213,7 +214,7 @@ tags:
 
 
 - **Color**: #ffd400 (Yellow)
-- **Date**: 2024-07-02 10:09 pm
+- **Date**: 2024-10-25 8:47 pm
 
 ---
 
@@ -230,7 +231,7 @@ tags:
 
 
 - **Color**: #ffd400 (Yellow)
-- **Date**: 2024-07-02 10:12 pm
+- **Date**: 2024-10-25 8:47 pm
 
 ---
 
@@ -252,7 +253,7 @@ tags:
 
 
 - **Color**: #5fb236 (Green)
-- **Date**: 2024-10-08 11:07 pm
+- **Date**: 2024-10-25 8:47 pm
 
 ---
 
@@ -270,7 +271,7 @@ tags:
 
 
 - **Color**: #5fb236 (Green)
-- **Date**: 2024-10-08 11:07 pm
+- **Date**: 2024-10-25 8:47 pm
 
 ---
 
@@ -288,7 +289,7 @@ tags:
 
 
 - **Color**: #5fb236 (Green)
-- **Date**: 2024-10-08 11:07 pm
+- **Date**: 2024-10-25 8:47 pm
 
 ---
 
@@ -305,7 +306,7 @@ tags:
 
 
 - **Color**: #ff6666 (Red)
-- **Date**: 2024-10-08 11:08 pm
+- **Date**: 2024-10-25 8:47 pm
 
 ---
 
@@ -322,7 +323,7 @@ tags:
 
 
 - **Color**: #ffd400 (Yellow)
-- **Date**: 2024-07-02 10:14 pm
+- **Date**: 2024-10-25 8:47 pm
 
 ---
 
@@ -344,7 +345,7 @@ tags:
 
 
 - **Color**: #5fb236 (Green)
-- **Date**: 2024-10-09 12:09 pm
+- **Date**: 2024-10-25 8:47 pm
 
 ---
 
@@ -362,7 +363,7 @@ tags:
 
 
 - **Color**: #5fb236 (Green)
-- **Date**: 2024-10-09 12:09 pm
+- **Date**: 2024-10-25 8:47 pm
 
 ---
 
@@ -379,7 +380,7 @@ tags:
 
 
 - **Color**: #ffd400 (Yellow)
-- **Date**: 2024-10-09 12:31 pm
+- **Date**: 2024-10-25 8:47 pm
 
 ---
 
@@ -397,7 +398,7 @@ tags:
 
 
 - **Color**: #5fb236 (Green)
-- **Date**: 2024-10-09 12:31 pm
+- **Date**: 2024-10-25 8:47 pm
 
 ---
 
@@ -414,7 +415,7 @@ tags:
 
 
 - **Color**: #ff6666 (Red)
-- **Date**: 2024-10-09 12:32 pm
+- **Date**: 2024-10-25 8:47 pm
 
 ---
 
@@ -425,14 +426,14 @@ tags:
 
 
 
-> [[ultrasound/electromagnetic digitizer]]
+> [[ultrasound-electromagnetic digitizer]]
 
 
 
 
 
 - **Color**: #5fb236 (Green)
-- **Date**: 2024-10-09 12:32 pm
+- **Date**: 2024-10-25 8:47 pm
 
 ---
 
@@ -450,7 +451,7 @@ tags:
 
 
 - **Color**: #5fb236 (Green)
-- **Date**: 2024-10-09 12:32 pm
+- **Date**: 2024-10-25 8:47 pm
 
 ---
 
@@ -468,7 +469,7 @@ tags:
 
 
 - **Color**: #5fb236 (Green)
-- **Date**: 2024-10-09 12:32 pm
+- **Date**: 2024-10-25 8:47 pm
 
 ---
 
@@ -486,7 +487,7 @@ tags:
 
 
 - **Color**: #5fb236 (Green)
-- **Date**: 2024-10-09 12:32 pm
+- **Date**: 2024-10-25 8:47 pm
 
 ---
 
@@ -497,14 +498,14 @@ tags:
 
 
 
-> [[Montreal National Institute space]]
+> [[Montreal National Institute (MNI) space]]
 
 
 
 
 
 - **Color**: #5fb236 (Green)
-- **Date**: 2024-10-09 12:32 pm
+- **Date**: 2024-10-25 8:47 pm
 
 ---
 
@@ -522,7 +523,7 @@ tags:
 
 
 - **Color**: #5fb236 (Green)
-- **Date**: 2024-10-09 12:33 pm
+- **Date**: 2024-10-25 8:47 pm
 
 ---
 
@@ -539,7 +540,7 @@ tags:
 
 
 - **Color**: #ffd400 (Yellow)
-- **Date**: 2024-10-09 12:33 pm
+- **Date**: 2024-10-25 8:47 pm
 
 ---
 
@@ -561,7 +562,7 @@ tags:
 
 
 - **Color**: #5fb236 (Green)
-- **Date**: 2024-10-09 12:33 pm
+- **Date**: 2024-10-25 8:47 pm
 
 ---
 
@@ -579,7 +580,7 @@ tags:
 
 
 - **Color**: #5fb236 (Green)
-- **Date**: 2024-10-09 12:33 pm
+- **Date**: 2024-10-25 8:47 pm
 
 ---
 
@@ -597,7 +598,7 @@ tags:
 
 
 - **Color**: #5fb236 (Green)
-- **Date**: 2024-10-09 12:33 pm
+- **Date**: 2024-10-25 8:47 pm
 
 ---
 
@@ -614,7 +615,7 @@ tags:
 
 
 - **Color**: #ffd400 (Yellow)
-- **Date**: 2024-10-09 12:33 pm
+- **Date**: 2024-10-25 8:47 pm
 
 ---
 
@@ -632,7 +633,7 @@ tags:
 
 
 - **Color**: #5fb236 (Green)
-- **Date**: 2024-10-09 12:39 pm
+- **Date**: 2024-10-25 8:47 pm
 
 ---
 
@@ -650,7 +651,7 @@ tags:
 
 
 - **Color**: #5fb236 (Green)
-- **Date**: 2024-10-09 12:39 pm
+- **Date**: 2024-10-25 8:47 pm
 
 ---
 
@@ -667,7 +668,7 @@ tags:
 
 
 - **Color**: #ff6666 (Red)
-- **Date**: 2024-10-09 12:39 pm
+- **Date**: 2024-10-25 8:47 pm
 
 ---
 
@@ -685,7 +686,7 @@ tags:
 
 
 - **Color**: #5fb236 (Green)
-- **Date**: 2024-10-09 12:39 pm
+- **Date**: 2024-10-25 8:47 pm
 
 ---
 
@@ -702,7 +703,7 @@ tags:
 
 
 - **Color**: #ff6666 (Red)
-- **Date**: 2024-10-09 12:41 pm
+- **Date**: 2024-10-25 8:47 pm
 
 ---
 
@@ -720,7 +721,7 @@ tags:
 
 
 - **Color**: #5fb236 (Green)
-- **Date**: 2024-10-09 12:42 pm
+- **Date**: 2024-10-25 8:47 pm
 
 ---
 
@@ -737,7 +738,7 @@ tags:
 
 
 - **Color**: #ff6666 (Red)
-- **Date**: 2024-10-09 12:42 pm
+- **Date**: 2024-10-25 8:47 pm
 
 ---
 
@@ -755,7 +756,7 @@ tags:
 
 
 - **Color**: #5fb236 (Green)
-- **Date**: 2024-10-09 12:42 pm
+- **Date**: 2024-10-25 8:47 pm
 
 ---
 
@@ -773,7 +774,7 @@ tags:
 
 
 - **Color**: #5fb236 (Green)
-- **Date**: 2024-10-09 12:43 pm
+- **Date**: 2024-10-25 8:47 pm
 
 ---
 
@@ -790,7 +791,7 @@ tags:
 
 
 - **Color**: #ff6666 (Red)
-- **Date**: 2024-10-09 12:44 pm
+- **Date**: 2024-10-25 8:47 pm
 
 ---
 
@@ -808,7 +809,7 @@ tags:
 
 
 - **Color**: #5fb236 (Green)
-- **Date**: 2024-10-09 12:44 pm
+- **Date**: 2024-10-25 8:47 pm
 
 ---
 
@@ -826,7 +827,7 @@ tags:
 
 
 - **Color**: #5fb236 (Green)
-- **Date**: 2024-10-09 12:44 pm
+- **Date**: 2024-10-25 8:47 pm
 
 ---
 
@@ -843,7 +844,7 @@ tags:
 
 
 - **Color**: #ff6666 (Red)
-- **Date**: 2024-10-09 12:51 pm
+- **Date**: 2024-10-25 8:47 pm
 
 ---
 
@@ -861,7 +862,7 @@ tags:
 
 
 - **Color**: #5fb236 (Green)
-- **Date**: 2024-10-09 12:52 pm
+- **Date**: 2024-10-25 8:47 pm
 
 ---
 
@@ -879,7 +880,7 @@ tags:
 
 
 - **Color**: #5fb236 (Green)
-- **Date**: 2024-10-09 12:52 pm
+- **Date**: 2024-10-25 8:47 pm
 
 ---
 
@@ -897,7 +898,7 @@ tags:
 
 
 - **Color**: #5fb236 (Green)
-- **Date**: 2024-10-09 12:52 pm
+- **Date**: 2024-10-25 8:47 pm
 
 ---
 
@@ -915,7 +916,7 @@ tags:
 
 
 - **Color**: #5fb236 (Green)
-- **Date**: 2024-10-09 12:57 pm
+- **Date**: 2024-10-25 8:47 pm
 
 ---
 
@@ -933,7 +934,7 @@ tags:
 
 
 - **Color**: #5fb236 (Green)
-- **Date**: 2024-10-09 12:58 pm
+- **Date**: 2024-10-25 8:47 pm
 
 ---
 
@@ -950,7 +951,7 @@ tags:
 
 
 - **Color**: #ff6666 (Red)
-- **Date**: 2024-10-09 12:58 pm
+- **Date**: 2024-10-25 8:47 pm
 
 ---
 
@@ -968,7 +969,7 @@ tags:
 
 
 - **Color**: #5fb236 (Green)
-- **Date**: 2024-10-09 12:58 pm
+- **Date**: 2024-10-25 8:47 pm
 
 ---
 
@@ -986,7 +987,7 @@ tags:
 
 
 - **Color**: #5fb236 (Green)
-- **Date**: 2024-10-09 12:58 pm
+- **Date**: 2024-10-25 8:47 pm
 
 ---
 
@@ -1004,7 +1005,7 @@ tags:
 
 
 - **Color**: #5fb236 (Green)
-- **Date**: 2024-10-09 12:58 pm
+- **Date**: 2024-10-25 8:47 pm
 
 ---
 
@@ -1021,7 +1022,7 @@ tags:
 
 
 - **Color**: #ff6666 (Red)
-- **Date**: 2024-10-09 1:00 pm
+- **Date**: 2024-10-25 8:47 pm
 
 ---
 
@@ -1032,14 +1033,14 @@ tags:
 
 
 
-> [[principal component analysis]]
+> [[principal component analysis (PCA)]]
 
 
 
 
 
 - **Color**: #5fb236 (Green)
-- **Date**: 2024-10-09 1:00 pm
+- **Date**: 2024-10-25 8:47 pm
 
 ---
 
@@ -1061,7 +1062,7 @@ tags:
 
 
 - **Color**: #5fb236 (Green)
-- **Date**: 2024-10-09 1:05 pm
+- **Date**: 2024-10-25 8:47 pm
 
 ---
 
@@ -1072,14 +1073,14 @@ tags:
 
 
 
-> [[ERS/ERD analysis]]
+> [[ERS-ERD analysis]]
 
 
 
 
 
 - **Color**: #5fb236 (Green)
-- **Date**: 2024-10-09 1:06 pm
+- **Date**: 2024-10-25 8:47 pm
 
 ---
 
@@ -1096,7 +1097,7 @@ tags:
 
 
 - **Color**: #ff6666 (Red)
-- **Date**: 2024-10-09 1:06 pm
+- **Date**: 2024-10-25 8:47 pm
 
 ---
 
@@ -1114,7 +1115,7 @@ tags:
 
 
 - **Color**: #5fb236 (Green)
-- **Date**: 2024-10-09 1:06 pm
+- **Date**: 2024-10-25 8:47 pm
 
 ---
 
@@ -1131,7 +1132,7 @@ tags:
 
 
 - **Color**: #ff6666 (Red)
-- **Date**: 2024-10-09 1:07 pm
+- **Date**: 2024-10-25 8:47 pm
 
 ---
 
@@ -1142,14 +1143,14 @@ tags:
 
 
 
-> [[independent component analysis]]
+> [[independent component analysis (ICA)]]
 
 
 
 
 
 - **Color**: #5fb236 (Green)
-- **Date**: 2024-10-09 1:08 pm
+- **Date**: 2024-10-25 8:47 pm
 
 ---
 
@@ -1167,7 +1168,7 @@ tags:
 
 
 - **Color**: #5fb236 (Green)
-- **Date**: 2024-10-09 1:07 pm
+- **Date**: 2024-10-25 8:47 pm
 
 ---
 
@@ -1184,7 +1185,7 @@ tags:
 
 
 - **Color**: #e56eee (Magenta)
-- **Date**: 2024-10-09 1:22 pm
+- **Date**: 2024-10-25 8:47 pm
 
 ---
 
@@ -1202,7 +1203,7 @@ tags:
 
 
 - **Color**: #5fb236 (Green)
-- **Date**: 2024-10-09 1:22 pm
+- **Date**: 2024-10-25 8:47 pm
 
 ---
 
@@ -1220,7 +1221,7 @@ tags:
 
 
 - **Color**: #5fb236 (Green)
-- **Date**: 2024-10-09 1:23 pm
+- **Date**: 2024-10-25 8:47 pm
 
 ---
 
@@ -1238,7 +1239,7 @@ tags:
 
 
 - **Color**: #5fb236 (Green)
-- **Date**: 2024-10-09 1:24 pm
+- **Date**: 2024-10-25 8:47 pm
 
 ---
 
@@ -1256,7 +1257,7 @@ tags:
 
 
 - **Color**: #5fb236 (Green)
-- **Date**: 2024-10-09 1:24 pm
+- **Date**: 2024-10-25 8:47 pm
 
 ---
 
@@ -1273,7 +1274,7 @@ tags:
 
 
 - **Color**: #ff6666 (Red)
-- **Date**: 2024-10-09 1:24 pm
+- **Date**: 2024-10-25 8:47 pm
 
 ---
 
@@ -1291,7 +1292,7 @@ tags:
 
 
 - **Color**: #5fb236 (Green)
-- **Date**: 2024-10-09 1:25 pm
+- **Date**: 2024-10-25 8:47 pm
 
 ---
 
@@ -1309,7 +1310,7 @@ tags:
 
 
 - **Color**: #5fb236 (Green)
-- **Date**: 2024-10-09 1:25 pm
+- **Date**: 2024-10-25 8:47 pm
 
 ---
 
@@ -1327,7 +1328,7 @@ tags:
 
 
 - **Color**: #5fb236 (Green)
-- **Date**: 2024-10-09 1:26 pm
+- **Date**: 2024-10-25 8:47 pm
 
 ---
 
@@ -1345,7 +1346,7 @@ tags:
 
 
 - **Color**: #5fb236 (Green)
-- **Date**: 2024-10-09 1:26 pm
+- **Date**: 2024-10-25 8:47 pm
 
 ---
 
@@ -1366,7 +1367,7 @@ tags:
 
 
 - **Color**: #ffd400 (Yellow)
-- **Date**: 2024-10-09 1:26 pm
+- **Date**: 2024-10-25 8:47 pm
 
 ---
 
@@ -1383,7 +1384,7 @@ tags:
 
 
 - **Color**: #a28ae5 (Purple)
-- **Date**: 2024-10-09 1:28 pm
+- **Date**: 2024-10-25 8:47 pm
 
 ---
 
@@ -1401,7 +1402,7 @@ tags:
 
 
 - **Color**: #5fb236 (Green)
-- **Date**: 2024-10-09 1:29 pm
+- **Date**: 2024-10-25 8:47 pm
 
 ---
 
@@ -1419,7 +1420,7 @@ tags:
 
 
 - **Color**: #5fb236 (Green)
-- **Date**: 2024-10-09 1:29 pm
+- **Date**: 2024-10-25 8:47 pm
 
 ---
 
@@ -1437,7 +1438,7 @@ tags:
 
 
 - **Color**: #5fb236 (Green)
-- **Date**: 2024-10-09 1:36 pm
+- **Date**: 2024-10-25 8:47 pm
 
 ---
 
@@ -1454,7 +1455,7 @@ tags:
 
 
 - **Color**: #a28ae5 (Purple)
-- **Date**: 2024-10-09 1:40 pm
+- **Date**: 2024-10-25 8:47 pm
 
 ---
 
@@ -1476,7 +1477,7 @@ tags:
 
 
 - **Color**: #5fb236 (Green)
-- **Date**: 2024-10-14 2:08 pm
+- **Date**: 2024-10-25 8:47 pm
 
 ---
 
@@ -1498,7 +1499,7 @@ tags:
 
 
 - **Color**: #5fb236 (Green)
-- **Date**: 2024-10-08 7:44 pm
+- **Date**: 2024-10-25 8:47 pm
 
 ---
 
@@ -1516,7 +1517,7 @@ tags:
 
 
 - **Color**: #5fb236 (Green)
-- **Date**: 2024-10-08 7:44 pm
+- **Date**: 2024-10-25 8:47 pm
 
 ---
 
@@ -1534,7 +1535,7 @@ tags:
 
 
 - **Color**: #5fb236 (Green)
-- **Date**: 2024-10-08 7:45 pm
+- **Date**: 2024-10-25 8:47 pm
 
 ---
 
@@ -1552,7 +1553,7 @@ tags:
 
 
 - **Color**: #5fb236 (Green)
-- **Date**: 2024-10-08 7:45 pm
+- **Date**: 2024-10-25 8:47 pm
 
 ---
 
@@ -1639,7 +1640,7 @@ Taberna, G. A., Samogin, J., Zhao, M., Marino, M., Guarnieri, R., Cuartas Morale
 
 - **ScienceDirect Snapshot**: C:\Users\joaop\Zotero\storage\KEAF8SL7\S0010482524007893.html
 
-- **Taberna et al. - 2024 - Large-scale analysis of neural activity and connec.pdf**: C:\Users\joaop\Zotero\storage\ULQLKNMB\Taberna et al. - 2024 - Large-scale analysis of neural activity and connec.pdf
+- **Taberna et al. - 2024 - Large-scale analysis of neural activity and connec.pdf**: C:\Users\joaop\Zotero\storage\CALTAN28\Taberna et al. - 2024 - Large-scale analysis of neural activity and connec.pdf
 
 
 
@@ -1671,4 +1672,4 @@ Taberna, G. A., Samogin, J., Zhao, M., Marino, M., Guarnieri, R., Cuartas Morale
 
 
 
-%% Import Date: 2024-10-23T21:57:26.267+01:00 %%
+%% Import Date: 2025-01-09T17:42:57.902+00:00 %%

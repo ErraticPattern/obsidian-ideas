@@ -1,4 +1,5 @@
 ---
+citekey: "shineImpactHumanThalamus2023"
 title: "The impact of the human thalamus on brain-wide information processing"
 itemType: "journalArticle"
 publicationTitle: "Nature Reviews Neuroscience"
@@ -150,7 +151,5 @@ Shine, J. M., Lewis, L. D., Garrett, D. D., & Hwang, K. (2023). The impact of th
 
 
 
-<!-- Any additional notes or comments -->
 
-
-%% Import Date: 2024-12-26T22:47:39.710+00:00 %%
+%% Import Date: 2025-01-09T17:42:56.702+00:00 %%

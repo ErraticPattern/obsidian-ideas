@@ -1,4 +1,5 @@
 ---
+citekey: "yuval-greenbergWhatYouSee2007"
 title: "What You See Is Not (Always) What You Hear: Induced Gamma Band Responses Reflect Cross-Modal Interactions in Familiar Object Recognition"
 itemType: "journalArticle"
 publicationTitle: "Journal of Neuroscience"
@@ -192,7 +193,5 @@ Yuval-Greenberg, S., & Deouell, L. Y. (2007). What You See Is Not (Always) What 
 
 
 
-<!-- Any additional notes or comments -->
 
-
-%% Import Date: 2024-12-25T18:18:57.102+00:00 %%
+%% Import Date: 2025-01-09T17:43:01.752+00:00 %%

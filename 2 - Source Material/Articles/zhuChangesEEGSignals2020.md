@@ -1,4 +1,5 @@
 ---
+citekey: "zhuChangesEEGSignals2020"
 title: "Changes in EEG signals during the cognitive activity at varying air temperature and relative humidity"
 itemType: "journalArticle"
 publicationTitle: "Journal of Exposure Science & Environmental Epidemiology"
@@ -129,7 +130,5 @@ Zhu, M., Liu, W., & Wargocki, P. (2020). Changes in EEG signals during the cogni
 
 
 
-<!-- Any additional notes or comments -->
 
-
-%% Import Date: 2024-11-19T13:22:33.992+00:00 %%
+%% Import Date: 2025-01-09T17:43:01.880+00:00 %%

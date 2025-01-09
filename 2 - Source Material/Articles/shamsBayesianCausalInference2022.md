@@ -1,4 +1,5 @@
 ---
+citekey: "shamsBayesianCausalInference2022"
 title: "Bayesian causal inference: A unifying neuroscience theory"
 itemType: "journalArticle"
 publicationTitle: "Neuroscience & Biobehavioral Reviews"
@@ -53,7 +54,7 @@ tags:
 
 
 - **Color**: #5fb236 (Green)
-- **Date**: 2024-10-06 1:20 am
+- **Date**: 2024-10-25 8:47 pm
 
 ---
 
@@ -71,7 +72,7 @@ tags:
 
 
 - **Color**: #5fb236 (Green)
-- **Date**: 2024-10-06 1:28 pm
+- **Date**: 2024-10-25 8:47 pm
 
 ---
 
@@ -88,7 +89,7 @@ tags:
 
 
 - **Color**: #ffd400 (Yellow)
-- **Date**: 2024-10-06 1:31 pm
+- **Date**: 2024-10-25 8:47 pm
 
 ---
 
@@ -110,7 +111,7 @@ tags:
 
 
 - **Color**: #5fb236 (Green)
-- **Date**: 2024-10-06 1:14 am
+- **Date**: 2024-10-25 8:47 pm
 
 ---
 
@@ -128,7 +129,7 @@ tags:
 
 
 - **Color**: #5fb236 (Green)
-- **Date**: 2024-10-06 1:14 am
+- **Date**: 2024-10-25 8:47 pm
 
 ---
 
@@ -146,7 +147,7 @@ tags:
 
 
 - **Color**: #5fb236 (Green)
-- **Date**: 2024-10-06 1:15 am
+- **Date**: 2024-10-25 8:47 pm
 
 ---
 
@@ -190,15 +191,15 @@ Shams, L., & Beierholm, U. (2022). Bayesian causal inference: A unifying neurosc
 ### Tags
 
 
-- #Bayesian_inference
+- #bayesian_inference
 
-- #Causal_inference
+- #causal_inference
 
-- #Multi-sensory_perception
+- #multi-sensory_perception
 
-- #Optimalilty
+- #optimalilty
 
-- #Statistical_inference
+- #statistical_inference
 
 
 
@@ -206,7 +207,7 @@ Shams, L., & Beierholm, U. (2022). Bayesian causal inference: A unifying neurosc
 ### Attachments
 
 
-- **Full Text**: C:\Users\joaop\Zotero\storage\8UF5BP74\Shams and Beierholm - 2022 - Bayesian causal inference A unifying neuroscience theory.pdf
+- **Full Text**: C:\Users\joaop\Zotero\storage\5GU6XSHB\Shams and Beierholm - 2022 - Bayesian causal inference A unifying neuroscience theory.pdf
 
 - **ScienceDirect Snapshot**: C:\Users\joaop\Zotero\storage\5SKLV4U5\S0149763422001087.html
 
@@ -222,4 +223,22 @@ Shams, L., & Beierholm, U. (2022). Bayesian causal inference: A unifying neurosc
 
 
 
-%% Import Date: 2024-10-14T14:17:53.039+01:00 %%
+### Backlinking
+
+
+#### Metadata Links
+
+
+- publicationTitle: [[Neuroscience & Biobehavioral Reviews]]
+
+
+
+
+- date: [[2022]]
+
+
+
+
+
+
+%% Import Date: 2025-01-09T17:42:56.458+00:00 %%

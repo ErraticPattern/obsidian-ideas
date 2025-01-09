@@ -1,4 +1,5 @@
 ---
+citekey: "vansonFrontalEEGTheta2019"
 title: "Frontal EEG theta/beta ratio during mind wandering episodes"
 itemType: "journalArticle"
 publicationTitle: "Biological Psychology"
@@ -178,4 +179,4 @@ van Son, D., De Blasio, F. M., Fogarty, J. S., Angelidis, A., Barry, R. J., & Pu
 
 
 
-%% Import Date: 2024-11-08T17:20:14.126+00:00 %%
+%% Import Date: 2025-01-09T17:43:00.080+00:00 %%
