@@ -1,4 +1,5 @@
 ---
+citekey: "fleuryTwoBetterCombining2023"
 title: "Two is better? combining EEG and fMRI for BCI and neurofeedback: a systematic review"
 itemType: "journalArticle"
 publicationTitle: "Journal of Neural Engineering"
@@ -176,7 +177,5 @@ Fleury, M., Figueiredo, P., Vourvopoulos, A., & Lécuyer, A. (2023). Two is bett
 
 
 
-<!-- Any additional notes or comments -->
 
-
-%% Import Date: 2024-12-18T22:07:44.067+00:00 %%
+%% Import Date: 2025-01-09T18:09:17.424+00:00 %%

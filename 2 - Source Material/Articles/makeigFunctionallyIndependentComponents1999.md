@@ -1,4 +1,5 @@
 ---
+citekey: "makeigFunctionallyIndependentComponents1999"
 title: "Functionally independent components of the late positive event-related potential during visual spatial attention"
 itemType: "journalArticle"
 publicationTitle: "The Journal of Neuroscience: The Official Journal of the Society for Neuroscience"
@@ -527,7 +528,5 @@ Makeig, S., Westerfield, M., Jung, T. P., Covington, J., Townsend, J., Sejnowski
 
 
 
-<!-- Any additional notes or comments -->
 
-
-%% Import Date: 2024-11-19T13:22:33.967+00:00 %%
+%% Import Date: 2025-01-09T18:06:02.333+00:00 %%

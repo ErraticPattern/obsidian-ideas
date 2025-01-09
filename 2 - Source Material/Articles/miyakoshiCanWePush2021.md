@@ -1,4 +1,5 @@
 ---
+citekey: "miyakoshiCanWePush2021"
 title: "Can We Push the “Quasi-Perfect Artifact Rejection” Even Closer to Perfection?"
 itemType: "journalArticle"
 publicationTitle: "Frontiers in Neuroinformatics"
@@ -188,7 +189,5 @@ Miyakoshi, M., Schmitt, L. M., Erickson, C. A., Sweeney, J. A., & Pedapati, E. V
 
 
 
-<!-- Any additional notes or comments -->
 
-
-%% Import Date: 2024-12-25T21:37:48.387+00:00 %%
+%% Import Date: 2025-01-09T17:55:32.232+00:00 %%

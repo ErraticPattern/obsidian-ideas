@@ -1,4 +1,5 @@
 ---
+citekey: "pernetRobustCorrelationAnalyses2013"
 title: "Robust Correlation Analyses: False Positive and Power Validation Using a New Open Source Matlab Toolbox"
 itemType: "journalArticle"
 publicationTitle: "Frontiers in Psychology"
@@ -16,7 +17,10 @@ DOI: "10.3389/fpsyg.2012.00606"
 ISBN: ""
 ISSN: "1664-1078"
 url: "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2012.00606/full"
-importance:
+importance: 
+status: incomplete
+tags:
+  - article
 ---
 
 ## Robust Correlation Analyses: False Positive and Power Validation Using a New Open Source Matlab Toolbox
@@ -50,7 +54,7 @@ importance:
 
 
 - **Color**: #5fb236 (Green)
-- **Date**: 2024-10-13 2:52 pm
+- **Date**: 2024-10-25 8:47 pm
 
 ---
 
@@ -72,7 +76,7 @@ importance:
 
 
 - **Color**: #5fb236 (Green)
-- **Date**: 2024-10-13 2:50 pm
+- **Date**: 2024-10-25 8:47 pm
 
 ---
 
@@ -90,7 +94,7 @@ importance:
 
 
 - **Color**: #5fb236 (Green)
-- **Date**: 2024-10-13 2:50 pm
+- **Date**: 2024-10-25 8:47 pm
 
 ---
 
@@ -108,7 +112,7 @@ importance:
 
 
 - **Color**: #5fb236 (Green)
-- **Date**: 2024-10-13 2:51 pm
+- **Date**: 2024-10-25 8:47 pm
 
 ---
 
@@ -129,7 +133,7 @@ importance:
 
 
 - **Color**: #a28ae5 (Purple)
-- **Date**: 2024-10-13 2:50 pm
+- **Date**: 2024-10-25 8:47 pm
 
 ---
 
@@ -150,7 +154,7 @@ importance:
 
 
 - **Color**: #2ea8e5 (Blue)
-- **Date**: 2024-10-13 2:53 pm
+- **Date**: 2024-10-25 8:47 pm
 
 ---
 
@@ -168,7 +172,7 @@ importance:
 
 
 - **Color**: #5fb236 (Green)
-- **Date**: 2024-10-13 2:52 pm
+- **Date**: 2024-10-25 8:47 pm
 
 ---
 
@@ -218,9 +222,9 @@ Pernet, C. R., Wilcox, R. R., & Rousselet, G. A. (2013). Robust Correlation Anal
 
 - #robust_statistics
 
-- #Correlation
+- #correlation
 
-- #MATLAB
+- #matlab
 
 - #power
 
@@ -230,7 +234,7 @@ Pernet, C. R., Wilcox, R. R., & Rousselet, G. A. (2013). Robust Correlation Anal
 ### Attachments
 
 
-- **Full Text**: C:\Users\joaop\Zotero\storage\4K9GFK55\Pernet et al. - 2013 - Robust Correlation Analyses False Positive and Power Validation Using a New Open Source Matlab Tool.pdf
+- **Full Text**: C:\Users\joaop\Zotero\storage\WCUT7569\Pernet et al. - 2013 - Robust Correlation Analyses False Positive and Power Validation Using a New Open Source Matlab Tool.pdf
 
 
 
@@ -244,4 +248,22 @@ Pernet, C. R., Wilcox, R. R., & Rousselet, G. A. (2013). Robust Correlation Anal
 
 
 
-%% Import Date: 2024-10-13T15:03:53.996+01:00 %%
+### Backlinking
+
+
+#### Metadata Links
+
+
+- publicationTitle: [[Frontiers in Psychology]]
+
+
+
+
+- date: [[2013]]
+
+
+
+
+
+
+%% Import Date: 2025-01-09T18:07:50.055+00:00 %%

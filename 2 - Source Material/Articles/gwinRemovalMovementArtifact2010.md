@@ -1,4 +1,5 @@
 ---
+citekey: "gwinRemovalMovementArtifact2010"
 title: "Removal of Movement Artifact From High-Density EEG Recorded During Walking and Running"
 itemType: "journalArticle"
 publicationTitle: "Journal of Neurophysiology"
@@ -16,6 +17,10 @@ DOI: "10.1152/jn.00105.2010"
 ISBN: ""
 ISSN: "0022-3077"
 url: "https://journals.physiology.org/doi/full/10.1152/jn.00105.2010"
+importance: 
+status: incomplete
+tags:
+  - article
 ---
 
 ## Removal of Movement Artifact From High-Density EEG Recorded During Walking and Running
@@ -25,6 +30,8 @@ url: "https://journals.physiology.org/doi/full/10.1152/jn.00105.2010"
 - [Annotations](#annotations)
 
 - [Notes](#notes)
+
++ [Commentaries](#commentaries)
 
 - [Appendix](#appendix)
 
@@ -48,7 +55,7 @@ url: "https://journals.physiology.org/doi/full/10.1152/jn.00105.2010"
 
 
 - **Color**: #ffd400 (Yellow)
-- **Date**: 2024-09-29 3:04 am
+- **Date**: 2024-10-25 8:47 pm
 
 ---
 
@@ -69,7 +76,7 @@ url: "https://journals.physiology.org/doi/full/10.1152/jn.00105.2010"
 
 
 - **Color**: #ffd400 (Yellow)
-- **Date**: 2024-09-29 3:04 am
+- **Date**: 2024-10-25 8:47 pm
 
 ---
 
@@ -82,13 +89,15 @@ url: "https://journals.physiology.org/doi/full/10.1152/jn.00105.2010"
 
 
 
+
 > To our knowledge, this is the first study of EEG and ERPs from a cognitive task recorded during human locomotion.
 
 
 
 
+
 - **Color**: #ffd400 (Yellow)
-- **Date**: 2024-09-29 2:41 am
+- **Date**: 2024-10-25 8:47 pm
 
 ---
 
@@ -101,13 +110,15 @@ url: "https://journals.physiology.org/doi/full/10.1152/jn.00105.2010"
 
 
 
+
 > Makeig et al. 2009 proposed a wearable mobile brain/ body imaging (MoBI) system and new data-driven analysis methods to model the complex resulting data.
 
 
 
 
+
 - **Color**: #ff6666 (Red)
-- **Date**: 2024-09-29 3:08 am
+- **Date**: 2024-10-25 8:47 pm
 
 ---
 
@@ -174,7 +185,7 @@ Gwin, J. T., Gramann, K., Makeig, S., & Ferris, D. P. (2010). Removal of Movemen
 ### Attachments
 
 
-- **Full Text PDF**: C:\Users\joaop\Zotero\storage\7JMJJGJZ\Gwin et al. - 2010 - Removal of Movement Artifact From High-Density EEG Recorded During Walking and Running.pdf
+- **Full Text PDF**: C:\Users\joaop\Zotero\storage\VQ6XTS2L\Gwin et al. - 2010 - Removal of Movement Artifact From High-Density EEG Recorded During Walking and Running.pdf
 
 
 
@@ -188,5 +199,22 @@ Gwin, J. T., Gramann, K., Makeig, S., & Ferris, D. P. (2010). Removal of Movemen
 
 
 
+### Backlinking
 
-%% Import Date: 2024-09-29T03:09:35.653+01:00 %%
+
+#### Metadata Links
+
+
+- publicationTitle: [[Journal of Neurophysiology]]
+
+
+
+
+- date: [[2010]]
+
+
+
+
+
+
+%% Import Date: 2025-01-09T18:07:47.702+00:00 %%

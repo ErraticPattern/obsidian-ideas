@@ -1,4 +1,5 @@
 ---
+citekey: "lippoldOriginAlphaRhythm1970"
 title: "Origin of the Alpha Rhythm"
 itemType: "journalArticle"
 publicationTitle: "Nature"
@@ -27,6 +28,8 @@ tags:
 ### Table of Contents
 
 - [Annotations](#annotations)
+
+- [Notes](#notes)
 
 + [Commentaries](#commentaries)
 
@@ -63,7 +66,11 @@ tags:
 ### Notes
 
 
-No notes available.
+
+Cite for example of a wrong conclusion.
+
+---
+
 
 
 %% begin notes %%
@@ -123,7 +130,5 @@ Lippold, O. (1970). Origin of the Alpha Rhythm. _Nature_, _226_(5246), 616–618
 
 
 
-<!-- Any additional notes or comments -->
 
-
-%% Import Date: 2024-12-24T21:06:21.651+00:00 %%
+%% Import Date: 2025-01-09T18:07:48.791+00:00 %%

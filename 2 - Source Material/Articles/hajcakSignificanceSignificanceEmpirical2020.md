@@ -1,4 +1,5 @@
 ---
+citekey: "hajcakSignificanceSignificanceEmpirical2020"
 title: "Significance?& Significance! Empirical, methodological, and theoretical connections between the late positive potential and P300 as neural responses to stimulus significance: An integrative review"
 itemType: "journalArticle"
 publicationTitle: "Psychophysiology"
@@ -59,6 +60,25 @@ tags:
 
 
 #### Page 5
+
+
+
+
+
+
+
+> Most work linking the LPP to variability in stimulus significance examined the LPP elicited by emotional (pleasant and unpleasant) versus neutral content or in terms of more finegrained subtypes of emotional stimulus content.
+
+
+
+
+**Comment**: It seems that the LPP is a good componetn for study of evoked pleasanteness due to naturalistic stimuli, such as first person POV videos.
+
+
+- **Color**: #ff6666 (Red)
+- **Date**: 2024-11-03 12:56 am
+
+---
 
 
 
@@ -192,8 +212,6 @@ Hajcak, G., & Foti, D. (2020). Significance?& Significance! Empirical, methodolo
 ### Tags
 
 
-- #★
-
 - #cognition
 
 - #emotion
@@ -261,7 +279,5 @@ Hajcak, G., & Foti, D. (2020). Significance?& Significance! Empirical, methodolo
 
 
 
-<!-- Any additional notes or comments -->
 
-
-%% Import Date: 2024-11-03T00:06:29.564+00:00 %%
+%% Import Date: 2025-01-09T18:09:18.760+00:00 %%

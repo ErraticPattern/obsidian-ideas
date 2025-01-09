@@ -1,4 +1,5 @@
 ---
+citekey: "gaoInferringSynapticExcitation2017"
 title: "Inferring synaptic excitation/inhibition balance from field potentials"
 itemType: "journalArticle"
 publicationTitle: "NeuroImage"
@@ -128,4 +129,4 @@ Gao, R., Peterson, E. J., & Voytek, B. (2017). Inferring synaptic excitation/inh
 
 
 
-%% Import Date: 2024-12-25T21:37:48.368+00:00 %%
+%% Import Date: 2025-01-09T18:05:58.021+00:00 %%

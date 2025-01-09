@@ -1,4 +1,5 @@
 ---
+citekey: "donoghueParameterizingNeuralPower2020"
 title: "Parameterizing neural power spectra into periodic and aperiodic components"
 itemType: "journalArticle"
 publicationTitle: "Nature Neuroscience"
@@ -34,6 +35,27 @@ tags:
 
 ### Annotations
 
+
+
+
+#### Page 2
+
+
+
+
+
+
+
+> Currents with faster time constants, such as excitatory (E) AMPA, have relatively constant power at lower frequencies before power quickly decays, whereas for inhibitory (I) GABA currents power decays more slowly as a function of frequency. This means that the exponent will be lower (flatter PSD) when E » I, and larger when E « I
+
+
+
+
+
+- **Color**: #ff6666 (Red)
+- **Date**: 2024-12-25 7:53 pm
+
+---
 
 
 
@@ -256,7 +278,5 @@ Donoghue, T., Haller, M., Peterson, E. J., Varma, P., Sebastian, P., Gao, R., No
 
 
 
-<!-- Any additional notes or comments -->
 
-
-%% Import Date: 2024-12-25T18:48:16.957+00:00 %%
+%% Import Date: 2025-01-09T18:07:44.180+00:00 %%

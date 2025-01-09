@@ -1,4 +1,5 @@
 ---
+citekey: "edwardsAnalysisExternalValidity2021"
 title: "An Analysis of the External Validity of EEG Spectral Power in an Uncontrolled Outdoor Environment during Default and Complex Neurocognitive States"
 itemType: "journalArticle"
 publicationTitle: "Brain Sciences"
@@ -373,4 +374,4 @@ Edwards, D. J., & Trujillo, L. T. (2021). An Analysis of the External Validity o
 
 
 
-%% Import Date: 2024-11-08T17:20:13.931+00:00 %%
+%% Import Date: 2025-01-09T17:55:29.515+00:00 %%

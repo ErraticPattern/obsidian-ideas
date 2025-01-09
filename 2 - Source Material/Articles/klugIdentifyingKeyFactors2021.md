@@ -1,4 +1,5 @@
 ---
+citekey: "klugIdentifyingKeyFactors2021"
 title: "Identifying key factors for improving ICA-based decomposition of EEG data in mobile and stationary experiments"
 itemType: "journalArticle"
 publicationTitle: "European Journal of Neuroscience"
@@ -814,4 +815,4 @@ Klug, M., & Gramann, K. (2021). Identifying key factors for improving ICA-based 
 
 
 
-%% Import Date: 2024-11-08T17:20:14.008+00:00 %%
+%% Import Date: 2025-01-09T18:06:01.398+00:00 %%

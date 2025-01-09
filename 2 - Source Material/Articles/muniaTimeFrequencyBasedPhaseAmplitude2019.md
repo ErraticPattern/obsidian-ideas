@@ -1,4 +1,5 @@
 ---
+citekey: "muniaTimeFrequencyBasedPhaseAmplitude2019"
 title: "Time-Frequency Based Phase-Amplitude Coupling Measure For Neuronal Oscillations"
 itemType: "journalArticle"
 publicationTitle: "Scientific Reports"
@@ -84,7 +85,7 @@ Munia, T. T. K., & Aviyente, S. (2019). Time-Frequency Based Phase-Amplitude Cou
 ### Attachments
 
 
-- **Full Text PDF**: C:\Users\joaop\Zotero\storage\MFDJHTZE\Munia and Aviyente - 2019 - Time-Frequency Based Phase-Amplitude Coupling Measure For Neuronal Oscillations.pdf
+- **Full Text PDF**: C:\Users\joaop\Zotero\storage\UFJLHRXK\Munia and Aviyente - 2019 - Time-Frequency Based Phase-Amplitude Coupling Measure For Neuronal Oscillations.pdf
 
 
 
@@ -115,7 +116,5 @@ Munia, T. T. K., & Aviyente, S. (2019). Time-Frequency Based Phase-Amplitude Cou
 
 
 
-<!-- Any additional notes or comments -->
 
-
-%% Import Date: 2024-10-23T21:57:26.240+01:00 %%
+%% Import Date: 2025-01-09T18:09:21.869+00:00 %%

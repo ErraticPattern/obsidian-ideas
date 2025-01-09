@@ -1,4 +1,5 @@
 ---
+citekey: "langEmotionProbeStudies1995"
 title: "The emotion probe: Studies of motivation and attention"
 itemType: "journalArticle"
 publicationTitle: "American Psychologist"
@@ -215,7 +216,5 @@ Lang, P. J. (1995). The emotion probe: Studies of motivation and attention. _Ame
 
 
 
-<!-- Any additional notes or comments -->
 
-
-%% Import Date: 2024-12-20T22:21:49.009+00:00 %%
+%% Import Date: 2025-01-09T18:09:20.497+00:00 %%

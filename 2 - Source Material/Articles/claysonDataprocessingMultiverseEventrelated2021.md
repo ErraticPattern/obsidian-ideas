@@ -1,4 +1,5 @@
 ---
+citekey: "claysonDataprocessingMultiverseEventrelated2021"
 title: "The data-processing multiverse of event-related potentials (ERPs): A roadmap for the optimization and standardization of ERP processing and reduction pipelines"
 itemType: "journalArticle"
 publicationTitle: "NeuroImage"
@@ -46,14 +47,14 @@ tags:
 
 
 
-> [[eventrelated brain potentials]]
+> [[event-related brain potentials]]
 
 
 
 
 
 - **Color**: #5fb236 (Green)
-- **Date**: 2024-12-18 2:57 pm
+- **Date**: 2024-12-18 2:58 pm
 
 ---
 
@@ -64,7 +65,7 @@ tags:
 
 
 
-> [[fMRI]]
+> [[functional magnetic resonance imaging]]
 
 
 
@@ -188,7 +189,5 @@ Clayson, P. E., Baldwin, S. A., Rocha, H. A., & Larson, M. J. (2021). The data-p
 
 
 
-<!-- Any additional notes or comments -->
 
-
-%% Import Date: 2024-12-18T14:58:35.304+00:00 %%
+%% Import Date: 2025-01-09T18:09:15.631+00:00 %%

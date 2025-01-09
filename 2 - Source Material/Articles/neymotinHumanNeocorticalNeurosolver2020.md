@@ -1,4 +1,5 @@
 ---
+citekey: "neymotinHumanNeocorticalNeurosolver2020"
 title: "Human Neocortical Neurosolver (HNN), a new software tool for interpreting the cellular and network origin of human MEG/EEG data"
 itemType: "journalArticle"
 publicationTitle: "eLife"
@@ -153,6 +154,8 @@ Neymotin, S. A., Daniels, D. S., Caldwell, B., McDougal, R. A., Carnevale, N. T.
 
 - esi
 
+- software
+
 
 
 
@@ -174,7 +177,5 @@ Neymotin, S. A., Daniels, D. S., Caldwell, B., McDougal, R. A., Carnevale, N. T.
 
 
 
-<!-- Any additional notes or comments -->
 
-
-%% Import Date: 2024-12-26T22:47:39.676+00:00 %%
+%% Import Date: 2025-01-09T18:06:03.332+00:00 %%

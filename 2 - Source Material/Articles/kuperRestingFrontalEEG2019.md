@@ -1,4 +1,5 @@
 ---
+citekey: "kuperRestingFrontalEEG2019"
 title: "Resting Frontal EEG Asymmetry and Personality Traits: A Meta-analysis"
 itemType: "journalArticle"
 publicationTitle: "European Journal of Personality"
@@ -92,7 +93,7 @@ Kuper, N., Käckenmester, W., & Wacker, J. (2019). Resting Frontal EEG Asymmetry
 ### Attachments
 
 
-- **PDF**: C:\Users\joaop\Zotero\storage\PLLCI3KB\Kuper et al. - 2019 - Resting Frontal EEG Asymmetry and Personality Traits A Meta-analysis.pdf
+- **PDF**: C:\Users\joaop\Zotero\storage\TPH3EK6H\Kuper et al. - 2019 - Resting Frontal EEG Asymmetry and Personality Traits A Meta-analysis.pdf
 
 - **Snapshot**: C:\Users\joaop\Zotero\storage\45ZR29IQ\per.html
 
@@ -127,7 +128,5 @@ Kuper, N., Käckenmester, W., & Wacker, J. (2019). Resting Frontal EEG Asymmetry
 
 
 
-<!-- Any additional notes or comments -->
 
-
-%% Import Date: 2024-10-23T21:57:26.189+01:00 %%
+%% Import Date: 2025-01-09T18:07:48.241+00:00 %%

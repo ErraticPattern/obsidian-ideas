@@ -1,4 +1,5 @@
 ---
+citekey: "estebanFMRIPrepRobustPreprocessing2019"
 title: "fMRIPrep: a robust preprocessing pipeline for functional MRI"
 itemType: "journalArticle"
 publicationTitle: "Nature Methods"
@@ -16,6 +17,10 @@ DOI: "10.1038/s41592-018-0235-4"
 ISBN: ""
 ISSN: "1548-7105"
 url: "https://www.nature.com/articles/s41592-018-0235-4"
+importance: 
+status: incomplete
+tags:
+  - article
 ---
 
 ## fMRIPrep: a robust preprocessing pipeline for functional MRI
@@ -49,7 +54,7 @@ url: "https://www.nature.com/articles/s41592-018-0235-4"
 
 
 - **Color**: #5fb236 (Green)
-- **Date**: 2024-10-06 5:31 pm
+- **Date**: 2024-10-25 8:47 pm
 
 ---
 
@@ -64,14 +69,14 @@ url: "https://www.nature.com/articles/s41592-018-0235-4"
 
 
 
-> [[fMRI]]
+> [[Functional magnetic resonance imaging]]
 
 
 
 
 
 - **Color**: #5fb236 (Green)
-- **Date**: 2024-10-06 5:29 pm
+- **Date**: 2024-10-25 8:47 pm
 
 ---
 
@@ -89,7 +94,7 @@ url: "https://www.nature.com/articles/s41592-018-0235-4"
 
 
 - **Color**: #5fb236 (Green)
-- **Date**: 2024-10-06 5:29 pm
+- **Date**: 2024-10-25 8:47 pm
 
 ---
 
@@ -107,7 +112,7 @@ url: "https://www.nature.com/articles/s41592-018-0235-4"
 
 
 - **Color**: #5fb236 (Green)
-- **Date**: 2024-10-06 5:30 pm
+- **Date**: 2024-10-25 8:47 pm
 
 ---
 
@@ -125,7 +130,7 @@ url: "https://www.nature.com/articles/s41592-018-0235-4"
 
 
 - **Color**: #5fb236 (Green)
-- **Date**: 2024-10-06 5:29 pm
+- **Date**: 2024-10-25 8:47 pm
 
 ---
 
@@ -143,7 +148,7 @@ url: "https://www.nature.com/articles/s41592-018-0235-4"
 
 
 - **Color**: #5fb236 (Green)
-- **Date**: 2024-10-06 5:30 pm
+- **Date**: 2024-10-25 8:47 pm
 
 ---
 
@@ -222,15 +227,15 @@ Esteban, O., Markiewicz, C. J., Blair, R. W., Moodie, C. A., Isik, A. I., Erramu
 ### Tags
 
 
-- #Software
+- #software
 
-- #Computational_neuroscience
+- #computational_neuroscience
 
-- #Image_processing
+- #image_processing
 
-- #Magnetic_resonance_imaging
+- #magnetic_resonance_imaging
 
-- #Standards
+- #standards
 
 
 
@@ -238,7 +243,7 @@ Esteban, O., Markiewicz, C. J., Blair, R. W., Moodie, C. A., Isik, A. I., Erramu
 ### Attachments
 
 
-- **Submitted Version**: C:\Users\joaop\Zotero\storage\3AGPF9S9\Esteban et al. - 2019 - fMRIPrep a robust preprocessing pipeline for functional MRI.pdf
+- **Submitted Version**: C:\Users\joaop\Zotero\storage\DLLM5FA7\Esteban et al. - 2019 - fMRIPrep a robust preprocessing pipeline for functional MRI.pdf
 
 
 
@@ -252,4 +257,22 @@ Esteban, O., Markiewicz, C. J., Blair, R. W., Moodie, C. A., Isik, A. I., Erramu
 
 
 
-%% Import Date: 2024-10-06T17:32:03.568+01:00 %%
+### Backlinking
+
+
+#### Metadata Links
+
+
+- publicationTitle: [[Nature Methods]]
+
+
+
+
+- date: [[2019]]
+
+
+
+
+
+
+%% Import Date: 2025-01-09T18:05:57.645+00:00 %%

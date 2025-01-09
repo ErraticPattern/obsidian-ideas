@@ -1,4 +1,5 @@
 ---
+citekey: "blancoEffectsVisualAuditory2021"
 title: "Effects of Visual and Auditory Feedback in Violin and Singing Voice Pitch Matching Tasks"
 itemType: "journalArticle"
 publicationTitle: "Frontiers in Psychology"
@@ -131,7 +132,5 @@ Blanco, A. D., Tassani, S., & Ramirez, R. (2021). Effects of Visual and Auditory
 
 
 
-<!-- Any additional notes or comments -->
 
-
-%% Import Date: 2024-12-20T15:45:08.820+00:00 %%
+%% Import Date: 2025-01-09T18:03:48.690+00:00 %%

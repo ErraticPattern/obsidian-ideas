@@ -1,4 +1,5 @@
 ---
+citekey: "mirandaCombinedModelfreeModelsensitive2020"
 title: "Combined model-free and model-sensitive reinforcement learning in non-human primates"
 itemType: "journalArticle"
 publicationTitle: "PLOS Computational Biology"
@@ -53,7 +54,7 @@ tags:
 
 
 - **Color**: #5fb236 (Green)
-- **Date**: 2024-10-18 1:23 pm
+- **Date**: 2024-10-25 8:47 pm
 
 ---
 
@@ -71,7 +72,7 @@ tags:
 
 
 - **Color**: #5fb236 (Green)
-- **Date**: 2024-10-18 1:24 pm
+- **Date**: 2024-10-25 8:47 pm
 
 ---
 
@@ -89,7 +90,7 @@ tags:
 
 
 - **Color**: #5fb236 (Green)
-- **Date**: 2024-10-18 1:24 pm
+- **Date**: 2024-10-25 8:47 pm
 
 ---
 
@@ -107,7 +108,76 @@ tags:
 
 
 - **Color**: #5fb236 (Green)
-- **Date**: 2024-10-18 1:24 pm
+- **Date**: 2024-10-25 8:47 pm
+
+---
+
+
+
+
+
+
+
+> Their estimates of long-run rewards are thereby readily adaptive to environmental or motivational changes that are known to the model, just like goaldirected actions
+
+
+
+
+
+- **Color**: #ffd400 (Yellow)
+- **Date**: 2024-10-25 8:47 pm
+
+---
+
+
+
+
+
+
+
+> MF-RL typically requires substantial sampling from the world to achieve good performance, and is therefore, like behavioural habits, slow to adapt to environmental change.
+
+
+
+
+
+- **Color**: #ff6666 (Red)
+- **Date**: 2024-10-25 8:47 pm
+
+---
+
+
+
+
+
+
+
+
+> [[model-sensitive]]
+
+
+
+
+
+- **Color**: #5fb236 (Green)
+- **Date**: 2024-10-25 8:47 pm
+
+---
+
+
+
+
+
+
+
+> we regard as MS any dependencies that are associated with the structure of the task rather than purely previous rewards.
+
+
+
+
+
+- **Color**: #e56eee (Magenta)
+- **Date**: 2024-10-25 8:47 pm
 
 ---
 
@@ -128,7 +198,69 @@ tags:
 
 
 - **Color**: #a28ae5 (Purple)
-- **Date**: 2024-10-18 1:26 pm
+- **Date**: 2024-10-25 8:47 pm
+
+---
+
+
+
+#### Page 12
+
+
+
+
+
+
+
+
+> [[two-stage Markov decision task]]
+
+
+
+
+
+- **Color**: #5fb236 (Green)
+- **Date**: 2024-10-25 8:47 pm
+
+---
+
+
+
+#### Page 19
+
+
+
+
+
+
+
+
+> [[Bayesian information criterion]]
+
+
+
+
+
+- **Color**: #5fb236 (Green)
+- **Date**: 2024-10-25 8:47 pm
+
+---
+
+
+
+
+
+
+
+
+> [[likelihood-ratio tests]]
+
+
+
+
+
+- **Color**: #5fb236 (Green)
+- **Date**: 2024-10-25 8:47 pm
 
 ---
 
@@ -207,7 +339,7 @@ Miranda, B., Malalasekera, W. M. N., Behrens, T. E., Dayan, P., & Kennerley, S. 
 ### Attachments
 
 
-- **Full Text PDF**: C:\Users\joaop\Zotero\storage\JF6NHDIP\Miranda et al. - 2020 - Combined model-free and model-sensitive reinforcement learning in non-human primates.pdf
+- **Full Text PDF**: C:\Users\joaop\Zotero\storage\XYQNDTQB\Miranda et al. - 2020 - Combined model-free and model-sensitive reinforcement learning in non-human primates.pdf
 
 
 
@@ -238,7 +370,5 @@ Miranda, B., Malalasekera, W. M. N., Behrens, T. E., Dayan, P., & Kennerley, S. 
 
 
 
-<!-- Any additional notes or comments -->
 
-
-%% Import Date: 2024-10-18T13:28:53.784+01:00 %%
+%% Import Date: 2025-01-09T18:03:54.453+00:00 %%

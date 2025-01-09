@@ -1,4 +1,5 @@
 ---
+citekey: "luckHowGetStatistically2017"
 title: "How to get statistically significant effects in any ERP experiment (and why you shouldn't)"
 itemType: "journalArticle"
 publicationTitle: "Psychophysiology"
@@ -96,6 +97,24 @@ tags:
 
 - **Color**: #5fb236 (Green)
 - **Date**: 2024-12-21 9:48 pm
+
+---
+
+
+
+
+
+
+
+
+> [[Bonferroni correction]]
+
+
+
+
+
+- **Color**: #5fb236 (Green)
+- **Date**: 2025-01-05 4:56 pm
 
 ---
 
@@ -310,7 +329,5 @@ Luck, S. J., & Gaspelin, N. (2017). How to get statistically significant effects
 
 
 
-<!-- Any additional notes or comments -->
 
-
-%% Import Date: 2024-12-21T21:54:05.955+00:00 %%
+%% Import Date: 2025-01-09T18:06:02.150+00:00 %%

@@ -1,4 +1,5 @@
 ---
+citekey: "haywardTortoiseLoveMachineGrey2001"
 title: "The Tortoise and the Love-Machine: Grey Walter and the Politics of Electroencephalography"
 itemType: "journalArticle"
 publicationTitle: "Science in Context"
@@ -159,7 +160,5 @@ Hayward, R. (2001). The Tortoise and the Love-Machine: Grey Walter and the Polit
 
 
 
-<!-- Any additional notes or comments -->
 
-
-%% Import Date: 2024-12-27T13:42:46.654+00:00 %%
+%% Import Date: 2025-01-09T18:09:19.060+00:00 %%

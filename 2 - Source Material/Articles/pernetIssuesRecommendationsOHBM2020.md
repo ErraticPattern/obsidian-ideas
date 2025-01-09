@@ -1,4 +1,5 @@
 ---
+citekey: "pernetIssuesRecommendationsOHBM2020"
 title: "Issues and recommendations from the OHBM COBIDAS MEEG committee for reproducible EEG and MEG research"
 itemType: "journalArticle"
 publicationTitle: "Nature Neuroscience"
@@ -98,14 +99,14 @@ tags:
 
 
 
-> Channels refer to the digital signals that have been recorded by the amplifiers.
+> Channels refer to the digital signals that have been recorded by the amplifiers. It is thus important to distinguish them from sensors. A ‘bad channel’ refers to a channel that is producing a consistently artifactual or low-quality signal.
 
 
 
 
 
 - **Color**: #ffd400 (Yellow)
-- **Date**: 2024-11-26 9:56 pm
+- **Date**: 2024-12-01 5:10 pm
 
 ---
 
@@ -330,7 +331,5 @@ Pernet, C., Garrido, M. I., Gramfort, A., Maurits, N., Michel, C. M., Pang, E., 
 
 
 
-<!-- Any additional notes or comments -->
 
-
-%% Import Date: 2024-11-26T22:01:18.540+00:00 %%
+%% Import Date: 2025-01-09T18:06:04.162+00:00 %%

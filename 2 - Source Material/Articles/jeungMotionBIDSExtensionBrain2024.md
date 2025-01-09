@@ -1,4 +1,5 @@
 ---
+citekey: "jeungMotionBIDSExtensionBrain2024"
 title: "Motion-BIDS: an extension to the brain imaging data structure to organize motion data for reproducible research"
 itemType: "journalArticle"
 publicationTitle: "Scientific Data"
@@ -355,7 +356,5 @@ Jeung, S., Cockx, H., Appelhoff, S., Berg, T., Gramann, K., Grothkopp, S., Warme
 
 
 
-<!-- Any additional notes or comments -->
 
-
-%% Import Date: 2024-10-26T02:54:34.430+01:00 %%
+%% Import Date: 2025-01-09T18:07:48.122+00:00 %%

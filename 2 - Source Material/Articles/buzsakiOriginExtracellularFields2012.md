@@ -1,4 +1,5 @@
 ---
+citekey: "buzsakiOriginExtracellularFields2012"
 title: "The origin of extracellular fields and currents--EEG, ECoG, LFP and spikes"
 itemType: "journalArticle"
 publicationTitle: "Nature Reviews. Neuroscience"
@@ -53,7 +54,7 @@ tags:
 
 
 - **Color**: #5fb236 (Green)
-- **Date**: 2024-10-25 4:38 pm
+- **Date**: 2024-10-25 8:47 pm
 
 ---
 
@@ -71,7 +72,7 @@ tags:
 
 
 - **Color**: #5fb236 (Green)
-- **Date**: 2024-10-25 4:38 pm
+- **Date**: 2024-10-25 8:47 pm
 
 ---
 
@@ -89,7 +90,7 @@ tags:
 
 
 - **Color**: #5fb236 (Green)
-- **Date**: 2024-10-25 4:38 pm
+- **Date**: 2024-10-25 8:47 pm
 
 ---
 
@@ -107,7 +108,7 @@ tags:
 
 
 - **Color**: #5fb236 (Green)
-- **Date**: 2024-10-25 4:38 pm
+- **Date**: 2024-10-25 8:47 pm
 
 ---
 
@@ -125,7 +126,7 @@ tags:
 
 
 - **Color**: #5fb236 (Green)
-- **Date**: 2024-10-25 4:38 pm
+- **Date**: 2024-10-25 8:47 pm
 
 ---
 
@@ -147,7 +148,7 @@ tags:
 
 
 - **Color**: #5fb236 (Green)
-- **Date**: 2024-10-25 4:38 pm
+- **Date**: 2024-10-25 8:47 pm
 
 ---
 
@@ -165,7 +166,7 @@ tags:
 
 
 - **Color**: #5fb236 (Green)
-- **Date**: 2024-10-25 4:38 pm
+- **Date**: 2024-10-25 8:47 pm
 
 ---
 
@@ -183,7 +184,7 @@ tags:
 
 
 - **Color**: #5fb236 (Green)
-- **Date**: 2024-10-25 4:38 pm
+- **Date**: 2024-10-25 8:47 pm
 
 ---
 
@@ -201,7 +202,7 @@ tags:
 
 
 - **Color**: #5fb236 (Green)
-- **Date**: 2024-10-25 4:38 pm
+- **Date**: 2024-10-25 8:47 pm
 
 ---
 
@@ -219,7 +220,7 @@ tags:
 
 
 - **Color**: #5fb236 (Green)
-- **Date**: 2024-10-25 4:37 pm
+- **Date**: 2024-10-25 8:47 pm
 
 ---
 
@@ -237,7 +238,7 @@ tags:
 
 
 - **Color**: #5fb236 (Green)
-- **Date**: 2024-10-25 4:37 pm
+- **Date**: 2024-10-25 8:47 pm
 
 ---
 
@@ -255,7 +256,7 @@ tags:
 
 
 - **Color**: #5fb236 (Green)
-- **Date**: 2024-10-25 4:37 pm
+- **Date**: 2024-10-25 8:47 pm
 
 ---
 
@@ -273,7 +274,7 @@ tags:
 
 
 - **Color**: #5fb236 (Green)
-- **Date**: 2024-10-25 4:37 pm
+- **Date**: 2024-10-25 8:47 pm
 
 ---
 
@@ -291,7 +292,7 @@ tags:
 
 
 - **Color**: #5fb236 (Green)
-- **Date**: 2024-10-25 4:37 pm
+- **Date**: 2024-10-25 8:47 pm
 
 ---
 
@@ -309,7 +310,7 @@ tags:
 
 
 - **Color**: #5fb236 (Green)
-- **Date**: 2024-10-25 4:37 pm
+- **Date**: 2024-10-25 8:47 pm
 
 ---
 
@@ -327,7 +328,7 @@ tags:
 
 
 - **Color**: #5fb236 (Green)
-- **Date**: 2024-10-25 4:37 pm
+- **Date**: 2024-10-25 8:47 pm
 
 ---
 
@@ -349,7 +350,7 @@ tags:
 
 
 - **Color**: #5fb236 (Green)
-- **Date**: 2024-10-25 4:37 pm
+- **Date**: 2024-10-25 8:47 pm
 
 ---
 
@@ -367,7 +368,7 @@ tags:
 
 
 - **Color**: #5fb236 (Green)
-- **Date**: 2024-10-25 4:37 pm
+- **Date**: 2024-10-25 8:47 pm
 
 ---
 
@@ -385,7 +386,7 @@ tags:
 
 
 - **Color**: #5fb236 (Green)
-- **Date**: 2024-10-25 4:37 pm
+- **Date**: 2024-10-25 8:47 pm
 
 ---
 
@@ -465,7 +466,7 @@ Buzsáki, G., Anastassiou, C. A., & Koch, C. (2012). The origin of extracellular
 ### Attachments
 
 
-- **Accepted Version**: C:\Users\joaop\Zotero\storage\QMI8XWPK\Buzsáki et al. - 2012 - The origin of extracellular fields and currents--EEG, ECoG, LFP and spikes.pdf
+- **Accepted Version**: C:\Users\joaop\Zotero\storage\AMZ2TF8G\Buzsáki et al. - 2012 - The origin of extracellular fields and currents--EEG, ECoG, LFP and spikes.pdf
 
 - **PubMed entry**: 
 
@@ -498,7 +499,5 @@ Buzsáki, G., Anastassiou, C. A., & Koch, C. (2012). The origin of extracellular
 
 
 
-<!-- Any additional notes or comments -->
 
-
-%% Import Date: 2024-10-25T16:38:49.377+01:00 %%
+%% Import Date: 2025-01-09T18:09:15.007+00:00 %%

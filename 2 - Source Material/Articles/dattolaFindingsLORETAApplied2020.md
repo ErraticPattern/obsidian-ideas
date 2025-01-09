@@ -1,4 +1,5 @@
 ---
+citekey: "dattolaFindingsLORETAApplied2020"
 title: "Findings about LORETA Applied to High-Density EEG—A Review"
 itemType: "journalArticle"
 publicationTitle: "Electronics"
@@ -215,6 +216,44 @@ tags:
 
 
 
+![](<0 - Supplementary/images/dattolaFindingsLORETAApplied2020.md/image-7-x66-y321.png>)
+
+
+
+> *(No annotated text)*
+
+
+
+
+- **Color**: #ffd400 (Yellow)
+- **Date**: 2025-01-06 12:16 pm
+
+---
+
+
+
+#### Page 11
+
+
+
+
+![](<0 - Supplementary/images/dattolaFindingsLORETAApplied2020.md/image-11-x75-y529.png>)
+
+
+
+> *(No annotated text)*
+
+
+
+
+- **Color**: #ffd400 (Yellow)
+- **Date**: 2025-01-06 1:17 pm
+
+---
+
+
+
+
 
 ### Notes
 
@@ -299,7 +338,5 @@ Dattola, S., Morabito, F. C., Mammone, N., & La Foresta, F. (2020). Findings abo
 
 
 
-<!-- Any additional notes or comments -->
 
-
-%% Import Date: 2024-12-20T23:00:01.059+00:00 %%
+%% Import Date: 2025-01-09T18:05:56.329+00:00 %%

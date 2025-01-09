@@ -1,4 +1,5 @@
 ---
+citekey: "kayhanNinemontholdInfantsUpdate2019"
 title: "Nine-month-old infants update their predictive models of a changing environment"
 itemType: "journalArticle"
 publicationTitle: "Developmental Cognitive Neuroscience"
@@ -54,7 +55,7 @@ tags:
 
 
 - **Color**: #ffd400 (Yellow)
-- **Date**: 2024-06-03 12:16 pm
+- **Date**: 2024-10-25 8:46 pm
 
 ---
 
@@ -75,7 +76,7 @@ tags:
 
 
 - **Color**: #ffd400 (Yellow)
-- **Date**: 2024-06-03 12:13 pm
+- **Date**: 2024-10-25 8:46 pm
 
 ---
 
@@ -159,7 +160,7 @@ Kayhan, E., Meyer, M., O’Reilly, J. X., Hunnius, S., & Bekkering, H. (2019). N
 
 - **Full Text**: 
 
-- **Full Text**: C:\Users\joaop\Zotero\storage\X5S64SRD\Kayhan et al. - 2019 - Nine-month-old infants update their predictive mod.pdf
+- **Full Text**: C:\Users\joaop\Zotero\storage\66GHG6IP\Kayhan et al. - 2019 - Nine-month-old infants update their predictive mod.pdf
 
 - **ScienceDirect Snapshot**: C:\Users\joaop\Zotero\storage\ANY4W294\S1878929318301877.html
 
@@ -198,7 +199,5 @@ Kayhan, E., Meyer, M., O’Reilly, J. X., Hunnius, S., & Bekkering, H. (2019). N
 
 
 
-<!-- Any additional notes or comments -->
 
-
-%% Import Date: 2024-10-23T22:19:14.154+01:00 %%
+%% Import Date: 2025-01-09T18:07:48.180+00:00 %%

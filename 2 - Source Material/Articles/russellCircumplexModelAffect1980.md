@@ -1,4 +1,5 @@
 ---
+citekey: "russellCircumplexModelAffect1980"
 title: "A circumplex model of affect"
 itemType: "journalArticle"
 publicationTitle: "Journal of Personality and Social Psychology"
@@ -181,7 +182,5 @@ Russell, J. A. (1980). A circumplex model of affect. _Journal of Personality and
 
 
 
-<!-- Any additional notes or comments -->
 
-
-%% Import Date: 2024-12-20T21:58:13.326+00:00 %%
+%% Import Date: 2025-01-09T17:55:33.580+00:00 %%

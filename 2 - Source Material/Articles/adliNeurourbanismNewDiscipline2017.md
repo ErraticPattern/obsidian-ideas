@@ -1,4 +1,5 @@
 ---
+citekey: "adliNeurourbanismNewDiscipline2017"
 title: "Neurourbanism: towards a new discipline"
 itemType: "journalArticle"
 publicationTitle: "The Lancet Psychiatry"
@@ -222,4 +223,4 @@ Adli, M., Berger, M., Brakemeier, E.-L., Engel, L., Fingerhut, J., Gomez-Carrill
 
 
 
-%% Import Date: 2024-12-20T19:31:36.601+00:00 %%
+%% Import Date: 2025-01-09T18:07:40.731+00:00 %%

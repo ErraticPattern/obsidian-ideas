@@ -1,4 +1,5 @@
 ---
+citekey: "lakatosThalamocorticalCircuitAuditory2020"
 title: "The Thalamocortical Circuit of Auditory Mismatch Negativity"
 itemType: "journalArticle"
 publicationTitle: "Biological Psychiatry"
@@ -474,7 +475,5 @@ Lakatos, P., O’Connell, M. N., Barczak, A., McGinnis, T., Neymotin, S., Schroe
 
 
 
-<!-- Any additional notes or comments -->
 
-
-%% Import Date: 2024-12-26T22:47:39.660+00:00 %%
+%% Import Date: 2025-01-09T18:09:20.358+00:00 %%

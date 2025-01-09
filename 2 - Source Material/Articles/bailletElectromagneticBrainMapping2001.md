@@ -1,21 +1,22 @@
 ---
-title: Electromagnetic brain mapping
-itemType: journalArticle
-publicationTitle: IEEE Signal Processing Magazine
+citekey: "bailletElectromagneticBrainMapping2001"
+title: "Electromagnetic brain mapping"
+itemType: "journalArticle"
+publicationTitle: "IEEE Signal Processing Magazine"
 bookTitle: ""
-seriesTitle: 
+seriesTitle: ""
 publisher: ""
 place: ""
 volume: "18"
 numberOfVolumes: ""
 issue: "6"
-pages: 14-30
+pages: "14-30"
 edition: ""
-date: 2001-11-01
-DOI: 10.1109/79.962275
+date: "2001-11-01"
+DOI: "10.1109/79.962275"
 ISBN: ""
-ISSN: 1558-0792
-url: https://ieeexplore.ieee.org/document/962275
+ISSN: "1558-0792"
+url: "https://ieeexplore.ieee.org/document/962275"
 importance: 
 status: incomplete
 tags:
@@ -203,6 +204,23 @@ tags:
 
 
 
+
+![](<0 - Supplementary/images/bailletElectromagneticBrainMapping2001.md/image-3-x62-y174.png>)
+
+
+
+> *(No annotated text)*
+
+
+
+
+- **Color**: #ffd400 (Yellow)
+- **Date**: 2024-12-29 6:35 pm
+
+---
+
+
+
 #### Page 4
 
 
@@ -350,7 +368,7 @@ tags:
 
 
 
-- **Color**: #aaaaaa (Gray) ^18409b
+- **Color**: #aaaaaa (Gray)
 - **Date**: 2024-11-07 11:48 pm
 
 ---
@@ -566,7 +584,5 @@ Baillet, S., Mosher, J. C., & Leahy, R. M. (2001). Electromagnetic brain mapping
 
 
 
-<!-- Any additional notes or comments -->
 
-
-%% Import Date: 2024-11-07T23:48:33.524+00:00 %%
+%% Import Date: 2025-01-09T18:03:48.166+00:00 %%

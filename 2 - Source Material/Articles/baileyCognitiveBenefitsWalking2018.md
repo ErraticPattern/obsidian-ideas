@@ -1,4 +1,5 @@
 ---
+citekey: "baileyCognitiveBenefitsWalking2018"
 title: "Cognitive benefits of walking in natural versus built environments"
 itemType: "journalArticle"
 publicationTitle: "World Leisure Journal"
@@ -266,4 +267,4 @@ Bailey, A. W., Allen, G., Herndon, J., & Demastus, C. (2018). Cognitive benefits
 
 
 
-%% Import Date: 2024-10-28T16:35:22.747+00:00 %%
+%% Import Date: 2025-01-09T17:55:28.409+00:00 %%

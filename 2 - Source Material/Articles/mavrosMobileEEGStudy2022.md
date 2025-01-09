@@ -1,4 +1,5 @@
 ---
+citekey: "mavrosMobileEEGStudy2022"
 title: "A mobile EEG study on the psychophysiological effects of walking and crowding in indoor and outdoor urban environments"
 itemType: "journalArticle"
 publicationTitle: "Scientific Reports"
@@ -1356,6 +1357,8 @@ Mavros, P., J Wälti, M., Nazemi, M., Ong, C. H., & Hölscher, C. (2022). A mobi
 
 - outdoor
 
+- neurourbanism
+
 
 
 
@@ -1392,4 +1395,4 @@ Mavros, P., J Wälti, M., Nazemi, M., Ong, C. H., & Hölscher, C. (2022). A mobi
 
 
 
-%% Import Date: 2024-11-08T17:20:14.085+00:00 %%
+%% Import Date: 2025-01-09T17:55:31.926+00:00 %%

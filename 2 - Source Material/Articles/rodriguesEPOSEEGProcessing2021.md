@@ -1,4 +1,5 @@
 ---
+citekey: "rodriguesEPOSEEGProcessing2021"
 title: "EPOS: EEG Processing Open-Source Scripts"
 itemType: "journalArticle"
 publicationTitle: "Frontiers in Neuroscience"
@@ -210,7 +211,5 @@ Rodrigues, J., Weiß, M., Hewig, J., & Allen, J. J. B. (2021). EPOS: EEG Process
 
 
 
-<!-- Any additional notes or comments -->
 
-
-%% Import Date: 2024-12-25T21:37:48.404+00:00 %%
+%% Import Date: 2025-01-09T18:03:56.926+00:00 %%

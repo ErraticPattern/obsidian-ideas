@@ -1,4 +1,5 @@
 ---
+citekey: "nieuwenhuisErroneousAnalysesInteractions2011"
 title: "Erroneous analyses of interactions in neuroscience: a problem of significance"
 itemType: "journalArticle"
 publicationTitle: "Nature Neuroscience"
@@ -53,7 +54,7 @@ tags:
 
 
 - **Color**: #5fb236 (Green)
-- **Date**: 2024-10-13 3:23 pm
+- **Date**: 2024-10-25 8:47 pm
 
 ---
 
@@ -71,7 +72,7 @@ tags:
 
 
 - **Color**: #5fb236 (Green)
-- **Date**: 2024-10-13 3:23 pm
+- **Date**: 2024-10-25 8:47 pm
 
 ---
 
@@ -88,7 +89,7 @@ tags:
 
 
 - **Color**: #2ea8e5 (Blue)
-- **Date**: 2024-10-13 3:27 pm
+- **Date**: 2024-10-25 8:47 pm
 
 ---
 
@@ -105,7 +106,7 @@ tags:
 
 
 - **Color**: #a28ae5 (Purple)
-- **Date**: 2024-10-13 3:29 pm
+- **Date**: 2024-10-25 8:47 pm
 
 ---
 
@@ -151,7 +152,7 @@ Nieuwenhuis, S., Forstmann, B. U., & Wagenmakers, E.-J. (2011). Erroneous analys
 ### Tags
 
 
-- #Statistics
+- #statistics
 
 
 
@@ -159,7 +160,7 @@ Nieuwenhuis, S., Forstmann, B. U., & Wagenmakers, E.-J. (2011). Erroneous analys
 ### Attachments
 
 
-- **Full Text PDF**: C:\Users\joaop\Zotero\storage\XBJ43ZNJ\Nieuwenhuis et al. - 2011 - Erroneous analyses of interactions in neuroscience a problem of significance.pdf
+- **Full Text PDF**: C:\Users\joaop\Zotero\storage\DQ6GVKNM\Nieuwenhuis et al. - 2011 - Erroneous analyses of interactions in neuroscience a problem of significance.pdf
 
 
 
@@ -173,4 +174,22 @@ Nieuwenhuis, S., Forstmann, B. U., & Wagenmakers, E.-J. (2011). Erroneous analys
 
 
 
-%% Import Date: 2024-10-14T14:22:07.169+01:00 %%
+### Backlinking
+
+
+#### Metadata Links
+
+
+- publicationTitle: [[Nature Neuroscience]]
+
+
+
+
+- date: [[2011]]
+
+
+
+
+
+
+%% Import Date: 2025-01-09T18:03:55.416+00:00 %%

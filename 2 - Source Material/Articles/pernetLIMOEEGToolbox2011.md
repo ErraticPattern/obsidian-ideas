@@ -1,4 +1,5 @@
 ---
+citekey: "pernetLIMOEEGToolbox2011"
 title: "LIMO EEG: A Toolbox for Hierarchical LInear MOdeling of ElectroEncephaloGraphic Data"
 itemType: "journalArticle"
 publicationTitle: "Computational Intelligence and Neuroscience"
@@ -228,4 +229,4 @@ Pernet, C. R., Chauveau, N., Gaspar, C., & Rousselet, G. A. (2011). LIMO EEG: A 
 
 
 
-%% Import Date: 2024-12-01T17:05:11.229+00:00 %%
+%% Import Date: 2025-01-09T18:06:04.372+00:00 %%

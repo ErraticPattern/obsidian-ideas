@@ -1,4 +1,5 @@
 ---
+citekey: "hirschIndexQuantifyIndividuals2005"
 title: "An index to quantify an individual's scientific research output"
 itemType: "journalArticle"
 publicationTitle: "Proceedings of the National Academy of Sciences"
@@ -131,7 +132,5 @@ Hirsch, J. E. (2005). An index to quantify an individual’s scientific research
 
 
 
-<!-- Any additional notes or comments -->
 
-
-%% Import Date: 2024-12-28T11:27:34.868+00:00 %%
+%% Import Date: 2025-01-09T17:55:30.109+00:00 %%

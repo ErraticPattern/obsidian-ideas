@@ -1,4 +1,5 @@
 ---
+citekey: "donoghueAutomatedMetaanalysisEventrelated2022a"
 title: "Automated meta-analysis of the event-related potential (ERP) literature"
 itemType: "journalArticle"
 publicationTitle: "Scientific Reports"
@@ -227,6 +228,27 @@ tags:
 
 
 
+#### Page 8
+
+
+
+
+![](<0 - Supplementary/images/donoghueAutomatedMetaanalysisEventrelated2022a.md/image-8-x43-y261.png>)
+
+
+
+> *(No annotated text)*
+
+
+
+
+- **Color**: #ffd400 (Yellow)
+- **Date**: 2024-12-23 7:51 pm
+
+---
+
+
+
 #### Page 9
 
 
@@ -404,4 +426,4 @@ Donoghue, T., & Voytek, B. (2022). Automated meta-analysis of the event-related 
 
 
 
-%% Import Date: 2024-12-20T21:58:13.302+00:00 %%
+%% Import Date: 2025-01-09T17:55:29.444+00:00 %%

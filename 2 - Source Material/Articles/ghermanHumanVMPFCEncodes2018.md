@@ -1,4 +1,5 @@
 ---
+citekey: "ghermanHumanVMPFCEncodes2018"
 title: "Human VMPFC encodes early signatures of confidence in perceptual decisions"
 itemType: "journalArticle"
 publicationTitle: "eLife"
@@ -825,4 +826,4 @@ Gherman, S., & Philiastides, M. G. (2018). Human VMPFC encodes early signatures 
 
 
 
-%% Import Date: 2024-11-08T17:20:13.950+00:00 %%
+%% Import Date: 2025-01-09T18:05:58.219+00:00 %%

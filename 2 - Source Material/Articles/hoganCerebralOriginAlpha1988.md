@@ -1,4 +1,5 @@
 ---
+citekey: "hoganCerebralOriginAlpha1988"
 title: "The cerebral origin of the alpha rhythm"
 itemType: "journalArticle"
 publicationTitle: "Electroencephalography and Clinical Neurophysiology"
@@ -270,7 +271,5 @@ Hogan, K., & Fitzpatrick, J. (1988). The cerebral origin of the alpha rhythm. _E
 
 
 
-<!-- Any additional notes or comments -->
 
-
-%% Import Date: 2024-12-24T21:06:21.619+00:00 %%
+%% Import Date: 2025-01-09T18:09:19.281+00:00 %%

@@ -1,6 +1,7 @@
 ---
-title: Rigor and replication in time-frequency analyses of cognitive electrophysiology data
-itemType: journalArticle
+citekey: "cohenRigorReplicationTimefrequency2017"
+title: "Rigor and replication in time-frequency analyses of cognitive electrophysiology data"
+itemType: "journalArticle"
 publicationTitle: "International Journal of Psychophysiology: Official Journal of the International Organization of Psychophysiology"
 bookTitle: ""
 seriesTitle: ""
@@ -9,18 +10,19 @@ place: ""
 volume: "111"
 numberOfVolumes: ""
 issue: ""
-pages: 80-87
+pages: "80-87"
 edition: ""
-date: 2017-01-01
-DOI: 10.1016/j.ijpsycho.2016.02.001
+date: "2017-01-01"
+DOI: "10.1016/j.ijpsycho.2016.02.001"
 ISBN: ""
-ISSN: 1872-7697
+ISSN: "1872-7697"
 url: ""
-importance: "8.5"
-status: complete
+importance: 
+status: incomplete
 tags:
   - article
 ---
+
 ## Rigor and replication in time-frequency analyses of cognitive electrophysiology data
 
 ### Table of Contents
@@ -696,7 +698,7 @@ tags:
 
 
 
-> [[Github]], [[google-code]], [[figshare]]
+> [[github]], [[google-code]], [[figshare]]
 
 
 
@@ -1166,7 +1168,7 @@ Cohen, M. X. (2017). Rigor and replication in time-frequency analyses of cogniti
 
 - #electrophysiology
 
-- #data_interpretation_statistical
+- #data_interpretation,_statistical
 
 - #methods
 
@@ -1204,7 +1206,7 @@ Cohen, M. X. (2017). Rigor and replication in time-frequency analyses of cogniti
 #### Metadata Links
 
 
-- publicationTitle: [[International Journal of Psychophysiology Official Journal of the International Organization of Psychophysiology]]
+- publicationTitle: [[International Journal of Psychophysiology: Official Journal of the International Organization of Psychophysiology]]
 
 
 
@@ -1216,4 +1218,4 @@ Cohen, M. X. (2017). Rigor and replication in time-frequency analyses of cogniti
 
 
 
-%% Import Date: 2024-10-26T12:43:37.165+01:00 %%
+%% Import Date: 2025-01-09T18:07:42.405+00:00 %%

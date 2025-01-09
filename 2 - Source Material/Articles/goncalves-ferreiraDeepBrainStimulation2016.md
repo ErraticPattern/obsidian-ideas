@@ -1,4 +1,5 @@
 ---
+citekey: "goncalves-ferreiraDeepBrainStimulation2016"
 title: "Deep Brain Stimulation for Refractory Cocaine Dependence"
 itemType: "journalArticle"
 publicationTitle: "Biological Psychiatry"
@@ -206,7 +207,5 @@ Gonçalves-Ferreira, A., Couto, F. S. do, Campos, A. R., Neto, L. P. L., Gonçal
 
 
 
-<!-- Any additional notes or comments -->
 
-
-%% Import Date: 2024-12-20T22:50:53.790+00:00 %%
+%% Import Date: 2025-01-09T18:03:50.672+00:00 %%

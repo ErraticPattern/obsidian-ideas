@@ -1,4 +1,5 @@
 ---
+citekey: "bartnikAutomatedToolClassify2024"
 title: "An Automated Tool to Classify and Transform Unstructured MRI Data into BIDS Datasets"
 itemType: "journalArticle"
 publicationTitle: "Neuroinformatics"
@@ -404,4 +405,4 @@ Bartnik, A., Singh, S., Sum, C., Smith, M., Bergsland, N., Zivadinov, R., & Dwye
 
 
 
-%% Import Date: 2024-11-08T17:20:13.872+00:00 %%
+%% Import Date: 2025-01-09T17:55:28.431+00:00 %%

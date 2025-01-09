@@ -1,7 +1,8 @@
 ---
-title: Improving standards in brain-behavior correlation analyses
-itemType: journalArticle
-publicationTitle: Frontiers in Human Neuroscience
+citekey: "rousseletImprovingStandardsBrainbehavior2012"
+title: "Improving standards in brain-behavior correlation analyses"
+itemType: "journalArticle"
+publicationTitle: "Frontiers in Human Neuroscience"
 bookTitle: ""
 seriesTitle: ""
 publisher: ""
@@ -11,13 +12,15 @@ numberOfVolumes: ""
 issue: ""
 pages: ""
 edition: ""
-date: 2012-05-03
-DOI: 10.3389/fnhum.2012.00119
-ISBN: 
-ISSN: 1662-5161
-url: https://www.frontiersin.org/journals/human-neuroscience/articles/10.3389/fnhum.2012.00119/full
-importance: "8.5"
+date: "2012-05-03"
+DOI: "10.3389/fnhum.2012.00119"
+ISBN: ""
+ISSN: "1662-5161"
+url: "https://www.frontiersin.org/journals/human-neuroscience/articles/10.3389/fnhum.2012.00119/full"
+importance: 
 status: incomplete
+tags:
+  - article
 ---
 
 ## Improving standards in brain-behavior correlation analyses
@@ -51,7 +54,7 @@ status: incomplete
 
 
 - **Color**: #5fb236 (Green)
-- **Date**: 2024-10-12 1:06 pm
+- **Date**: 2024-10-25 8:47 pm
 
 ---
 
@@ -68,7 +71,7 @@ status: incomplete
 
 
 - **Color**: #ff6666 (Red)
-- **Date**: 2024-10-12 1:08 pm
+- **Date**: 2024-10-25 8:47 pm
 
 ---
 
@@ -86,7 +89,7 @@ status: incomplete
 
 
 - **Color**: #5fb236 (Green)
-- **Date**: 2024-10-12 1:08 pm
+- **Date**: 2024-10-25 8:47 pm
 
 ---
 
@@ -103,7 +106,7 @@ status: incomplete
 
 
 - **Color**: #a28ae5 (Purple)
-- **Date**: 2024-10-12 1:08 pm
+- **Date**: 2024-10-25 8:47 pm
 
 ---
 
@@ -120,7 +123,7 @@ status: incomplete
 
 
 - **Color**: #ff6666 (Red)
-- **Date**: 2024-10-12 1:11 pm
+- **Date**: 2024-10-25 8:47 pm
 
 ---
 
@@ -137,7 +140,7 @@ status: incomplete
 
 
 - **Color**: #ff6666 (Red)
-- **Date**: 2024-10-12 3:34 pm
+- **Date**: 2024-10-25 8:47 pm
 
 ---
 
@@ -154,7 +157,7 @@ status: incomplete
 
 
 - **Color**: #ffd400 (Yellow)
-- **Date**: 2024-10-12 1:09 pm
+- **Date**: 2024-10-25 8:47 pm
 
 ---
 
@@ -175,7 +178,7 @@ status: incomplete
 
 
 - **Color**: #ff6666 (Red)
-- **Date**: 2024-10-12 3:36 pm
+- **Date**: 2024-10-25 8:47 pm
 
 ---
 
@@ -196,7 +199,7 @@ status: incomplete
 
 
 - **Color**: #ffd400 (Yellow)
-- **Date**: 2024-10-13 3:38 pm
+- **Date**: 2024-10-25 8:47 pm
 
 ---
 
@@ -213,7 +216,7 @@ status: incomplete
 
 
 - **Color**: #ff6666 (Red)
-- **Date**: 2024-10-13 3:04 pm
+- **Date**: 2024-10-25 8:47 pm
 
 ---
 
@@ -230,7 +233,7 @@ status: incomplete
 
 
 - **Color**: #a28ae5 (Purple)
-- **Date**: 2024-10-13 3:38 pm
+- **Date**: 2024-10-25 8:47 pm
 
 ---
 
@@ -251,7 +254,7 @@ status: incomplete
 
 
 - **Color**: #ffd400 (Yellow)
-- **Date**: 2024-10-12 12:52 pm
+- **Date**: 2024-10-25 8:47 pm
 
 ---
 
@@ -268,7 +271,7 @@ status: incomplete
 
 
 - **Color**: #ffd400 (Yellow)
-- **Date**: 2024-10-12 12:53 pm
+- **Date**: 2024-10-25 8:47 pm
 
 ---
 
@@ -285,7 +288,7 @@ status: incomplete
 
 
 - **Color**: #ff6666 (Red)
-- **Date**: 2024-10-12 12:53 pm
+- **Date**: 2024-10-25 8:47 pm
 
 ---
 
@@ -303,7 +306,7 @@ status: incomplete
 
 
 - **Color**: #5fb236 (Green)
-- **Date**: 2024-10-12 12:53 pm
+- **Date**: 2024-10-25 8:47 pm
 
 ---
 
@@ -320,7 +323,7 @@ status: incomplete
 
 
 - **Color**: #ffd400 (Yellow)
-- **Date**: 2024-10-12 12:53 pm
+- **Date**: 2024-10-25 8:47 pm
 
 ---
 
@@ -337,7 +340,7 @@ status: incomplete
 
 
 - **Color**: #e56eee (Magenta)
-- **Date**: 2024-10-12 12:54 pm
+- **Date**: 2024-10-25 8:47 pm
 
 ---
 
@@ -355,7 +358,7 @@ status: incomplete
 
 
 - **Color**: #5fb236 (Green)
-- **Date**: 2024-10-12 12:54 pm
+- **Date**: 2024-10-25 8:47 pm
 
 ---
 
@@ -373,7 +376,7 @@ status: incomplete
 
 
 - **Color**: #5fb236 (Green)
-- **Date**: 2024-10-12 12:54 pm
+- **Date**: 2024-10-25 8:47 pm
 
 ---
 
@@ -391,7 +394,7 @@ status: incomplete
 
 
 - **Color**: #5fb236 (Green)
-- **Date**: 2024-10-12 12:55 pm
+- **Date**: 2024-10-25 8:47 pm
 
 ---
 
@@ -408,7 +411,7 @@ status: incomplete
 
 
 - **Color**: #ffd400 (Yellow)
-- **Date**: 2024-10-12 12:56 pm
+- **Date**: 2024-10-25 8:47 pm
 
 ---
 
@@ -427,7 +430,7 @@ status: incomplete
 
 
 - **Color**: #ffd400 (Yellow)
-- **Date**: 2024-10-12 12:58 pm
+- **Date**: 2024-10-25 8:47 pm
 
 ---
 
@@ -444,7 +447,7 @@ status: incomplete
 
 
 - **Color**: #ff6666 (Red)
-- **Date**: 2024-10-12 12:58 pm
+- **Date**: 2024-10-25 8:47 pm
 
 ---
 
@@ -462,7 +465,7 @@ status: incomplete
 
 
 - **Color**: #5fb236 (Green)
-- **Date**: 2024-10-12 12:58 pm
+- **Date**: 2024-10-25 8:47 pm
 
 ---
 
@@ -479,7 +482,7 @@ status: incomplete
 
 
 - **Color**: #ff6666 (Red)
-- **Date**: 2024-10-12 12:59 pm
+- **Date**: 2024-10-25 8:47 pm
 
 ---
 
@@ -497,7 +500,7 @@ status: incomplete
 
 
 - **Color**: #5fb236 (Green)
-- **Date**: 2024-10-12 12:59 pm
+- **Date**: 2024-10-25 8:47 pm
 
 ---
 
@@ -514,7 +517,7 @@ status: incomplete
 
 
 - **Color**: #ff6666 (Red)
-- **Date**: 2024-10-12 12:59 pm
+- **Date**: 2024-10-25 8:47 pm
 
 ---
 
@@ -531,7 +534,7 @@ status: incomplete
 
 
 - **Color**: #e56eee (Magenta)
-- **Date**: 2024-10-12 1:05 pm
+- **Date**: 2024-10-25 8:47 pm
 
 ---
 
@@ -590,13 +593,13 @@ Rousselet, G. A., & Pernet, C. R. (2012). Improving standards in brain-behavior 
 
 - #outliers
 
-- #Pearson_correlation
+- #pearson_correlation
 
 - #robust_statistics
 
 - #skipped_correlation
 
-- #Spearman_correlation
+- #spearman_correlation
 
 
 
@@ -604,7 +607,7 @@ Rousselet, G. A., & Pernet, C. R. (2012). Improving standards in brain-behavior 
 ### Attachments
 
 
-- **Full Text**: C:\Users\joaop\Zotero\storage\7HIPRLPC\Rousselet and Pernet - 2012 - Improving standards in brain-behavior correlation analyses.pdf
+- **Full Text**: C:\Users\joaop\Zotero\storage\UV5ZISLV\Rousselet and Pernet - 2012 - Improving standards in brain-behavior correlation analyses.pdf
 
 
 
@@ -618,4 +621,22 @@ Rousselet, G. A., & Pernet, C. R. (2012). Improving standards in brain-behavior 
 
 
 
-%% Import Date: 2024-10-13T15:38:44.313+01:00 %%
+### Backlinking
+
+
+#### Metadata Links
+
+
+- publicationTitle: [[Frontiers in Human Neuroscience]]
+
+
+
+
+- date: [[2012]]
+
+
+
+
+
+
+%% Import Date: 2025-01-09T18:06:05.267+00:00 %%

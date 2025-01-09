@@ -1,4 +1,5 @@
 ---
+citekey: "cassonWearableEEG2019"
 title: "Wearable EEG and beyond"
 itemType: "journalArticle"
 publicationTitle: "Biomedical Engineering Letters"
@@ -52,7 +53,7 @@ tags:
 
 
 - **Color**: #ffd400 (Yellow)
-- **Date**: 2024-10-03 8:32 pm
+- **Date**: 2024-10-25 8:47 pm
 
 ---
 
@@ -74,7 +75,7 @@ tags:
 
 
 - **Color**: #5fb236 (Green)
-- **Date**: 2024-10-03 8:33 pm
+- **Date**: 2024-10-25 8:47 pm
 
 ---
 
@@ -92,7 +93,7 @@ tags:
 
 
 - **Color**: #5fb236 (Green)
-- **Date**: 2024-10-03 8:33 pm
+- **Date**: 2024-10-25 8:47 pm
 
 ---
 
@@ -110,7 +111,7 @@ tags:
 
 
 - **Color**: #5fb236 (Green)
-- **Date**: 2024-10-03 8:33 pm
+- **Date**: 2024-10-25 8:47 pm
 
 ---
 
@@ -128,7 +129,7 @@ tags:
 
 
 - **Color**: #5fb236 (Green)
-- **Date**: 2024-10-03 8:33 pm
+- **Date**: 2024-10-25 8:47 pm
 
 ---
 
@@ -146,7 +147,7 @@ tags:
 
 
 - **Color**: #5fb236 (Green)
-- **Date**: 2024-10-03 8:33 pm
+- **Date**: 2024-10-25 8:47 pm
 
 ---
 
@@ -164,7 +165,7 @@ tags:
 
 
 - **Color**: #5fb236 (Green)
-- **Date**: 2024-10-03 8:33 pm
+- **Date**: 2024-10-25 8:47 pm
 
 ---
 
@@ -182,7 +183,7 @@ tags:
 
 
 - **Color**: #5fb236 (Green)
-- **Date**: 2024-10-03 8:33 pm
+- **Date**: 2024-10-25 8:47 pm
 
 ---
 
@@ -199,7 +200,7 @@ tags:
 
 
 - **Color**: #ffd400 (Yellow)
-- **Date**: 2024-10-03 8:34 pm
+- **Date**: 2024-10-25 8:47 pm
 
 ---
 
@@ -220,7 +221,7 @@ tags:
 
 
 - **Color**: #ffd400 (Yellow)
-- **Date**: 2024-10-03 8:34 pm
+- **Date**: 2024-10-25 8:47 pm
 
 ---
 
@@ -241,7 +242,7 @@ tags:
 
 
 - **Color**: #ffd400 (Yellow)
-- **Date**: 2024-09-21 6:02 pm
+- **Date**: 2024-10-25 8:47 pm
 
 ---
 
@@ -263,7 +264,7 @@ tags:
 
 
 - **Color**: #5fb236 (Green)
-- **Date**: 2024-10-03 8:35 pm
+- **Date**: 2024-10-25 8:47 pm
 
 ---
 
@@ -281,7 +282,7 @@ tags:
 
 
 - **Color**: #5fb236 (Green)
-- **Date**: 2024-10-03 8:34 pm
+- **Date**: 2024-10-25 8:47 pm
 
 ---
 
@@ -299,7 +300,7 @@ tags:
 
 
 - **Color**: #5fb236 (Green)
-- **Date**: 2024-10-03 8:35 pm
+- **Date**: 2024-10-25 8:47 pm
 
 ---
 
@@ -317,7 +318,7 @@ tags:
 
 
 - **Color**: #5fb236 (Green)
-- **Date**: 2024-10-03 8:35 pm
+- **Date**: 2024-10-25 8:47 pm
 
 ---
 
@@ -328,14 +329,14 @@ tags:
 
 
 
-> [[Brain]]
+> [[brain]]
 
 
 
 
 
 - **Color**: #5fb236 (Green)
-- **Date**: 2024-10-03 8:34 pm
+- **Date**: 2024-10-25 8:47 pm
 
 ---
 
@@ -389,7 +390,7 @@ Casson, A. J. (2019). Wearable EEG and beyond. _Biomedical Engineering Letters_,
 ### Attachments
 
 
-- **Full Text PDF**: C:\Users\joaop\Zotero\storage\QACEAIB3\Casson - 2019 - Wearable EEG and beyond.pdf
+- **Full Text PDF**: C:\Users\joaop\Zotero\storage\9Y6R3JBB\Casson - 2019 - Wearable EEG and beyond.pdf
 
 
 
@@ -425,4 +426,4 @@ Casson, A. J. (2019). Wearable EEG and beyond. _Biomedical Engineering Letters_,
 
 
 
-%% Import Date: 2024-10-23T21:57:26.148+01:00 %%
+%% Import Date: 2025-01-09T18:09:15.448+00:00 %%

@@ -1,4 +1,5 @@
 ---
+citekey: "kordingCausalInferenceMultisensory2007"
 title: "Causal Inference in Multisensory Perception"
 itemType: "journalArticle"
 publicationTitle: "PLOS ONE"
@@ -82,21 +83,21 @@ Körding, K. P., Beierholm, U., Ma, W. J., Quartz, S., Tenenbaum, J. B., & Shams
 ### Tags
 
 
-- #Cognition
+- #cognition
 
-- #Vision
+- #vision
 
-- #Human_performance
+- #human_performance
 
-- #Nervous_system
+- #nervous_system
 
-- #Probability_distribution
+- #probability_distribution
 
-- #Sensory_cues
+- #sensory_cues
 
-- #Sensory_perception
+- #sensory_perception
 
-- #Visual_signals
+- #visual_signals
 
 
 
@@ -104,7 +105,7 @@ Körding, K. P., Beierholm, U., Ma, W. J., Quartz, S., Tenenbaum, J. B., & Shams
 ### Attachments
 
 
-- **Full Text PDF**: C:\Users\joaop\Zotero\storage\8GQVMAA4\Körding et al. - 2007 - Causal Inference in Multisensory Perception.pdf
+- **Full Text PDF**: C:\Users\joaop\Zotero\storage\F9CPHG4G\Körding et al. - 2007 - Causal Inference in Multisensory Perception.pdf
 
 
 
@@ -118,4 +119,22 @@ Körding, K. P., Beierholm, U., Ma, W. J., Quartz, S., Tenenbaum, J. B., & Shams
 
 
 
-%% Import Date: 2024-10-14T14:17:52.960+01:00 %%
+### Backlinking
+
+
+#### Metadata Links
+
+
+- publicationTitle: [[PLOS ONE]]
+
+
+
+
+- date: [[2007]]
+
+
+
+
+
+
+%% Import Date: 2025-01-09T17:55:30.518+00:00 %%

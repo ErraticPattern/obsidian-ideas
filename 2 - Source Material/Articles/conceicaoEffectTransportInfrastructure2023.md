@@ -1,4 +1,5 @@
 ---
+citekey: "conceicaoEffectTransportInfrastructure2023"
 title: "The effect of transport infrastructure, congestion and reliability on mental wellbeing: a systematic review of empirical studies"
 itemType: "journalArticle"
 publicationTitle: "Transport Reviews"
@@ -366,7 +367,5 @@ Conceição, M. A., Monteiro, M. M., Kasraian, D., Van Den Berg, P., Haustein, S
 
 
 
-<!-- Any additional notes or comments -->
 
-
-%% Import Date: 2024-12-28T11:33:51.850+00:00 %%
+%% Import Date: 2025-01-09T18:09:15.802+00:00 %%

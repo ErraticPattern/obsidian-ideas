@@ -1,4 +1,5 @@
 ---
+citekey: "bradleyMeasuringEmotionSelfassessment1994"
 title: "Measuring emotion: The self-assessment manikin and the semantic differential"
 itemType: "journalArticle"
 publicationTitle: "Journal of Behavior Therapy and Experimental Psychiatry"
@@ -153,7 +154,5 @@ Bradley, M. M., & Lang, P. J. (1994). Measuring emotion: The self-assessment man
 
 
 
-<!-- Any additional notes or comments -->
 
-
-%% Import Date: 2024-12-20T21:58:13.279+00:00 %%
+%% Import Date: 2025-01-09T17:50:42.947+00:00 %%

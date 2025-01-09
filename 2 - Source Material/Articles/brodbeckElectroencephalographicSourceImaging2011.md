@@ -1,4 +1,5 @@
 ---
+citekey: "brodbeckElectroencephalographicSourceImaging2011"
 title: "Electroencephalographic source imaging: a prospective study of 152 operated epileptic patients"
 itemType: "journalArticle"
 publicationTitle: "Brain"
@@ -68,7 +69,14 @@ No notes available.
 
 %% begin notes %%
 
-<!-- Write your personal notes here -->
+### Bookmark
+
+- **Bookmark**: Page <!-- Specify the page number or section -->
+- **Status**: #incomplete
+- **Relevance**: 7.5
+## Commentaries
+
+
 
 %% end notes %%
 
@@ -141,7 +149,5 @@ Brodbeck, V., Spinelli, L., Lascano, A. M., Wissmeier, M., Vargas, M.-I., Vullie
 
 
 
-<!-- Any additional notes or comments -->
 
-
-%% Import Date: 2024-12-23T18:13:43.359+00:00 %%
+%% Import Date: 2025-01-09T17:52:18.536+00:00 %%

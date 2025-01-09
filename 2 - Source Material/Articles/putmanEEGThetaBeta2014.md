@@ -1,4 +1,5 @@
 ---
+citekey: "putmanEEGThetaBeta2014"
 title: "EEG theta/beta ratio as a potential biomarker for attentional control and resilience against deleterious effects of stress on attention"
 itemType: "journalArticle"
 publicationTitle: "Cognitive, Affective & Behavioral Neuroscience"
@@ -63,7 +64,7 @@ tags:
 
 
 
-> [[theta/beta ratio]]
+> [[theta-beta ratio]]
 
 
 
@@ -331,7 +332,5 @@ Putman, P., Verkuil, B., Arias-Garcia, E., Pantazi, I., & van Schie, C. (2014). 
 
 
 
-<!-- Any additional notes or comments -->
 
-
-%% Import Date: 2024-10-28T16:41:35.295+00:00 %%
+%% Import Date: 2025-01-09T18:03:56.710+00:00 %%

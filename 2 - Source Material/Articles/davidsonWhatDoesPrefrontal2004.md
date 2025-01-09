@@ -1,4 +1,5 @@
 ---
+citekey: "davidsonWhatDoesPrefrontal2004"
 title: "What does the prefrontal cortex “do” in affect: perspectives on frontal EEG asymmetry research"
 itemType: "journalArticle"
 publicationTitle: "Biological Psychology"
@@ -52,7 +53,7 @@ tags:
 
 
 - **Color**: #ffd400 (Yellow)
-- **Date**: 2024-10-28 1:08 am
+- **Date**: 2024-10-28 4:43 pm
 
 ---
 
@@ -73,7 +74,7 @@ tags:
 
 
 - **Color**: #ffd400 (Yellow)
-- **Date**: 2024-10-28 1:10 am
+- **Date**: 2024-10-28 4:43 pm
 
 ---
 
@@ -94,7 +95,7 @@ tags:
 
 
 - **Color**: #ffd400 (Yellow)
-- **Date**: 2024-10-28 1:14 am
+- **Date**: 2024-10-28 4:43 pm
 
 ---
 
@@ -113,7 +114,7 @@ tags:
 
 
 - **Color**: #ff6666 (Red)
-- **Date**: 2024-10-28 1:15 am
+- **Date**: 2024-10-28 4:43 pm
 
 ---
 
@@ -135,7 +136,7 @@ tags:
 
 
 - **Color**: #5fb236 (Green)
-- **Date**: 2024-10-28 1:09 am
+- **Date**: 2024-10-28 4:43 pm
 
 ---
 
@@ -198,7 +199,7 @@ Davidson, R. J. (2004). What does the prefrontal cortex “do” in affect: Pers
 ### Attachments
 
 
-- **PDF**: C:\Users\joaop\Zotero\storage\G22DKXKD\Davidson - 2004 - What does the prefrontal cortex “do” in affect perspectives on frontal EEG asymmetry research.pdf
+- **PDF**: C:\Users\joaop\Zotero\storage\FTLT2JGN\Davidson - 2004 - What does the prefrontal cortex “do” in affect perspectives on frontal EEG asymmetry research.pdf
 
 - **ScienceDirect Snapshot**: C:\Users\joaop\Zotero\storage\BDW9M6ZC\S0301051104000389.html
 
@@ -231,7 +232,5 @@ Davidson, R. J. (2004). What does the prefrontal cortex “do” in affect: Pers
 
 
 
-<!-- Any additional notes or comments -->
 
-
-%% Import Date: 2024-10-28T01:15:38.308+00:00 %%
+%% Import Date: 2025-01-09T18:09:16.484+00:00 %%

@@ -1,4 +1,5 @@
 ---
+citekey: "raduntzSignalQualityEvaluation2018"
 title: "Signal Quality Evaluation of Emerging EEG Devices"
 itemType: "journalArticle"
 publicationTitle: "Frontiers in Physiology"
@@ -37,6 +38,27 @@ tags:
 
 
 
+#### Page 2
+
+
+
+
+
+
+
+> All of the EEG devices utilized wireless signal transmission to a computer.
+
+
+
+
+
+- **Color**: #ffd400 (Yellow)
+- **Date**: 2024-10-25 8:47 pm
+
+---
+
+
+
 #### Page 3
 
 
@@ -52,13 +74,64 @@ tags:
 
 
 - **Color**: #ffd400 (Yellow)
-- **Date**: 2024-10-07 6:32 pm
+- **Date**: 2024-10-25 8:47 pm
+
+---
+
+
+
+
+
+
+
+> Hypothesis 1: The gel-based device has a significantly lower proportion of artifacts than the gel-free devices.
+
+
+
+
+
+- **Color**: #a28ae5 (Purple)
+- **Date**: 2024-10-25 8:47 pm
 
 ---
 
 
 
 #### Page 4
+
+
+
+
+![](<0 - Supplementary/images/raduntzSignalQualityEvaluation2018.md/image-4-x32-y562.png>)
+
+
+
+> *(No annotated text)*
+
+
+
+
+- **Color**: #a28ae5 (Purple)
+- **Date**: 2024-10-25 8:47 pm
+
+---
+
+
+
+
+
+
+
+> Hypothesis 2: The gel-based device has a significantly higher signalto-noise ratio than the gel-free devices.
+
+
+
+
+
+- **Color**: #a28ae5 (Purple)
+- **Date**: 2024-10-25 8:47 pm
+
+---
 
 
 
@@ -73,7 +146,7 @@ tags:
 
 
 - **Color**: #a28ae5 (Purple)
-- **Date**: 2024-10-07 6:20 pm
+- **Date**: 2024-10-25 8:47 pm
 
 ---
 
@@ -90,7 +163,42 @@ tags:
 
 
 - **Color**: #a28ae5 (Purple)
-- **Date**: 2024-10-07 6:37 pm
+- **Date**: 2024-10-25 8:47 pm
+
+---
+
+
+
+
+
+
+
+> Hypothesis 3: For devices with good signal quality, a significant Berger effect can be obtained between measurements with the eyes open and those with the eyes closed.
+
+
+
+
+
+- **Color**: #a28ae5 (Purple)
+- **Date**: 2024-10-25 8:47 pm
+
+---
+
+
+
+
+
+
+
+
+> [[Berger effect]]
+
+
+
+
+
+- **Color**: #5fb236 (Green)
+- **Date**: 2024-10-25 8:47 pm
 
 ---
 
@@ -107,7 +215,7 @@ tags:
 
 
 - **Color**: #ff6666 (Red)
-- **Date**: 2024-10-07 6:34 pm
+- **Date**: 2024-10-25 8:47 pm
 
 ---
 
@@ -125,7 +233,7 @@ tags:
 
 
 - **Color**: #5fb236 (Green)
-- **Date**: 2024-10-07 6:34 pm
+- **Date**: 2024-10-25 8:47 pm
 
 ---
 
@@ -142,7 +250,7 @@ tags:
 
 
 - **Color**: #a28ae5 (Purple)
-- **Date**: 2024-10-07 7:49 pm
+- **Date**: 2024-10-25 8:47 pm
 
 ---
 
@@ -159,7 +267,28 @@ tags:
 
 
 - **Color**: #a28ae5 (Purple)
-- **Date**: 2024-10-07 6:41 pm
+- **Date**: 2024-10-25 8:47 pm
+
+---
+
+
+
+#### Page 5
+
+
+
+
+![](<0 - Supplementary/images/raduntzSignalQualityEvaluation2018.md/image-5-x40-y77.png>)
+
+
+
+> *(No annotated text)*
+
+
+
+
+- **Color**: #a28ae5 (Purple)
+- **Date**: 2024-10-25 8:47 pm
 
 ---
 
@@ -210,11 +339,11 @@ Radüntz, T. (2018). Signal Quality Evaluation of Emerging EEG Devices. _Frontie
 
 - #dry_electrodes
 
-- #electroencephalogram_(EEG)
+- #electroencephalogram_(eeg)
 
-- #mobile_EEG
+- #mobile_eeg
 
-- #Signal_quality
+- #signal_quality
 
 - #wearables
 
@@ -224,7 +353,7 @@ Radüntz, T. (2018). Signal Quality Evaluation of Emerging EEG Devices. _Frontie
 ### Attachments
 
 
-- **Full Text**: C:\Users\joaop\Zotero\storage\D8QJJ8R7\Radüntz - 2018 - Signal Quality Evaluation of Emerging EEG Devices.pdf
+- **Full Text**: C:\Users\joaop\Zotero\storage\2QFT35JP\Radüntz - 2018 - Signal Quality Evaluation of Emerging EEG Devices.pdf
 
 
 
@@ -258,4 +387,4 @@ Radüntz, T. (2018). Signal Quality Evaluation of Emerging EEG Devices. _Frontie
 
 
 
-%% Import Date: 2024-10-14T17:45:55.450+01:00 %%
+%% Import Date: 2025-01-09T18:09:23.342+00:00 %%

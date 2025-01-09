@@ -1,4 +1,5 @@
 ---
+citekey: "cuiConcurrentActivationStriatal2013"
 title: "Concurrent activation of striatal direct and indirect pathways during action initiation"
 itemType: "journalArticle"
 publicationTitle: "Nature"
@@ -154,7 +155,5 @@ Cui, G., Jun, S. B., Jin, X., Pham, M. D., Vogel, S. S., Lovinger, D. M., & Cost
 
 
 
-<!-- Any additional notes or comments -->
 
-
-%% Import Date: 2024-12-28T11:58:29.169+00:00 %%
+%% Import Date: 2025-01-09T18:03:49.073+00:00 %%

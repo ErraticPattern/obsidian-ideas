@@ -1,4 +1,5 @@
 ---
+citekey: "lopesBonsaiEventbasedFramework2015"
 title: "Bonsai: an event-based framework for processing and controlling data streams"
 itemType: "journalArticle"
 publicationTitle: "Frontiers in Neuroinformatics"
@@ -16,6 +17,10 @@ DOI: "10.3389/fninf.2015.00007"
 ISBN: ""
 ISSN: "1662-5196"
 url: "http://journal.frontiersin.org/article/10.3389/fninf.2015.00007/abstract"
+importance: 
+status: incomplete
+tags:
+  - article
 ---
 
 ## Bonsai: an event-based framework for processing and controlling data streams
@@ -48,7 +53,7 @@ url: "http://journal.frontiersin.org/article/10.3389/fninf.2015.00007/abstract"
 
 
 - **Color**: #ffd400 (Yellow)
-- **Date**: 2024-10-03 7:37 pm
+- **Date**: 2024-10-25 8:47 pm
 
 ---
 
@@ -116,7 +121,7 @@ Lopes, G., Bonacchi, N., Frazão, J., Neto, J. P., Atallah, B. V., Soares, S., M
 ### Attachments
 
 
-- **Full Text**: C:\Users\joaop\Zotero\storage\UMRM4K36\Lopes et al. - 2015 - Bonsai an event-based framework for processing and controlling data streams.pdf
+- **Full Text**: C:\Users\joaop\Zotero\storage\Q42CHXHJ\Lopes et al. - 2015 - Bonsai an event-based framework for processing and controlling data streams.pdf
 
 
 
@@ -130,5 +135,22 @@ Lopes, G., Bonacchi, N., Frazão, J., Neto, J. P., Atallah, B. V., Soares, S., M
 
 
 
+### Backlinking
 
-%% Import Date: 2024-10-03T19:40:08.361+01:00 %%
+
+#### Metadata Links
+
+
+- publicationTitle: [[Frontiers in Neuroinformatics]]
+
+
+
+
+- date: [[2015]]
+
+
+
+
+
+
+%% Import Date: 2025-01-09T17:55:31.573+00:00 %%

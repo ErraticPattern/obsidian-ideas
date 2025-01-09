@@ -1,4 +1,5 @@
 ---
+citekey: "groppeIdentifyingReliableIndependent2009"
 title: "Identifying reliable independent components via split-half comparisons"
 itemType: "journalArticle"
 publicationTitle: "NeuroImage"
@@ -181,7 +182,5 @@ Groppe, D. M., Makeig, S., & Kutas, M. (2009). Identifying reliable independent 
 
 
 
-<!-- Any additional notes or comments -->
 
-
-%% Import Date: 2024-12-21T21:32:22.377+00:00 %%
+%% Import Date: 2025-01-09T18:05:58.602+00:00 %%

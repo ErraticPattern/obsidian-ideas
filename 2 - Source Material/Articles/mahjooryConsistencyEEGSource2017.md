@@ -1,4 +1,5 @@
 ---
+citekey: "mahjooryConsistencyEEGSource2017"
 title: "Consistency of EEG source localization and connectivity estimates"
 itemType: "journalArticle"
 publicationTitle: "NeuroImage"
@@ -93,6 +94,103 @@ tags:
 
 
 
+#### Page 3
+
+
+
+
+
+
+
+
+> [[Brainstorm]]
+
+
+
+
+
+- **Color**: #5fb236 (Green)
+- **Date**: 2024-11-08 5:25 pm
+
+---
+
+
+
+
+
+
+
+
+> [[FieldTrip]]
+
+
+
+
+
+- **Color**: #5fb236 (Green)
+- **Date**: 2024-11-08 5:25 pm
+
+---
+
+
+
+
+
+
+
+
+> [[EEGLAB]]
+
+
+
+
+
+- **Color**: #5fb236 (Green)
+- **Date**: 2024-11-08 5:25 pm
+
+---
+
+
+
+
+
+
+
+
+> [[MNE]]
+
+
+
+
+
+- **Color**: #5fb236 (Green)
+- **Date**: 2024-11-08 5:25 pm
+
+---
+
+
+
+#### Page 8
+
+
+
+
+
+
+
+> In practice, the choice of a particular source reconstruction pipeline from this pool may often just be driven by personal preference, or be based on practical concerns regarding computational complexity, availability within a certain software framework, and ease of use (e.g., automatic selection of parameters).
+
+
+
+
+
+- **Color**: #ffd400 (Yellow)
+- **Date**: 2024-11-08 5:27 pm
+
+---
+
+
+
 
 
 ### Notes
@@ -168,7 +266,5 @@ Mahjoory, K., Nikulin, V. V., Botrel, L., Linkenkaer-Hansen, K., Fato, M. M., & 
 
 
 
-<!-- Any additional notes or comments -->
 
-
-%% Import Date: 2024-11-08T17:20:14.035+00:00 %%
+%% Import Date: 2025-01-09T18:03:52.885+00:00 %%

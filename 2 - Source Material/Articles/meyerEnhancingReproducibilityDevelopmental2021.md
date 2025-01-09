@@ -1,21 +1,26 @@
 ---
+citekey: "meyerEnhancingReproducibilityDevelopmental2021"
 title: "Enhancing reproducibility in developmental EEG research: BIDS, cluster-based permutation tests, and effect sizes"
-itemType: journalArticle
-publicationTitle: Developmental Cognitive Neuroscience
+itemType: "journalArticle"
+publicationTitle: "Developmental Cognitive Neuroscience"
 bookTitle: ""
 seriesTitle: ""
-publisher: 
+publisher: ""
 place: ""
 volume: "52"
 numberOfVolumes: ""
 issue: ""
 pages: "101036"
 edition: ""
-date: 2021-12-01
-DOI: 10.1016/j.dcn.2021.101036
+date: "2021-12-01"
+DOI: "10.1016/j.dcn.2021.101036"
 ISBN: ""
-ISSN: 1878-9293
-url: https://www.sciencedirect.com/science/article/pii/S1878929321001250
+ISSN: "1878-9293"
+url: "https://www.sciencedirect.com/science/article/pii/S1878929321001250"
+importance: 
+status: incomplete
+tags:
+  - article
 ---
 
 ## Enhancing reproducibility in developmental EEG research: BIDS, cluster-based permutation tests, and effect sizes
@@ -23,8 +28,6 @@ url: https://www.sciencedirect.com/science/article/pii/S1878929321001250
 ### Table of Contents
 
 - [Annotations](#annotations)
-
-- [Notes](#notes)
 
 + [Commentaries](#commentaries)
 
@@ -42,15 +45,18 @@ url: https://www.sciencedirect.com/science/article/pii/S1878929321001250
 
 
 
+
 > The basic idea of the cluster-basedpermutation test consists of using a permutation or randomization test to approximate the probability distribution of a nonparametric statistic
 
 
 
 
-- **Color**: #ffd400 (Yellow)
-- **Date**: 2024-06-03 7:28 pm
+
+- **Color**: #ff6666 (Red)
+- **Date**: 2024-10-25 8:46 pm
 
 ---
+
 
 
 
@@ -62,10 +68,12 @@ url: https://www.sciencedirect.com/science/article/pii/S1878929321001250
 
 
 
+
 - **Color**: #ffd400 (Yellow)
-- **Date**: 2024-06-03 7:28 pm
+- **Date**: 2024-10-25 8:46 pm
 
 ---
+
 
 
 
@@ -77,10 +85,12 @@ url: https://www.sciencedirect.com/science/article/pii/S1878929321001250
 
 
 
+
 - **Color**: #ffd400 (Yellow)
-- **Date**: 2024-06-03 7:29 pm
+- **Date**: 2024-10-25 8:46 pm
 
 ---
+
 
 
 
@@ -92,8 +102,9 @@ url: https://www.sciencedirect.com/science/article/pii/S1878929321001250
 
 
 
+
 - **Color**: #ffd400 (Yellow)
-- **Date**: 2024-06-03 7:34 pm
+- **Date**: 2024-10-25 8:46 pm
 
 ---
 
@@ -113,8 +124,8 @@ url: https://www.sciencedirect.com/science/article/pii/S1878929321001250
 
 
 
-- **Color**: #ffd400 (Yellow)
-- **Date**: 2024-06-03 12:33 pm
+- **Color**: #a28ae5 (Purple)
+- **Date**: 2024-10-25 8:46 pm
 
 ---
 
@@ -127,15 +138,18 @@ url: https://www.sciencedirect.com/science/article/pii/S1878929321001250
 
 
 
+
 > any participant for whom more than 70% of the trials were rejected was excluded from the analysis (Script Section 2.1). This was based on the rationale that with the removal of 70% of the trials (i.e. a reductionto 0.3 times N) the expected standard error of the mean (SEM) in this within-subject design is approximately 2 times larger than the SEM over the full N
 
 
 
 
+
 - **Color**: #ffd400 (Yellow)
-- **Date**: 2024-06-03 9:04 pm
+- **Date**: 2024-10-25 8:46 pm
 
 ---
+
 
 
 
@@ -147,8 +161,26 @@ url: https://www.sciencedirect.com/science/article/pii/S1878929321001250
 
 
 
+
 - **Color**: #ffd400 (Yellow)
-- **Date**: 2024-06-03 9:00 pm
+- **Date**: 2024-10-25 8:46 pm
+
+---
+
+
+
+
+![](<0 - Supplementary/images/meyerEnhancingReproducibilityDevelopmental2021.md/image-6-x41-y354.png>)
+
+
+
+> *(No annotated text)*
+
+
+
+
+- **Color**: #ffd400 (Yellow)
+- **Date**: 2024-10-25 8:46 pm
 
 ---
 
@@ -169,7 +201,7 @@ url: https://www.sciencedirect.com/science/article/pii/S1878929321001250
 
 
 - **Color**: #ffd400 (Yellow)
-- **Date**: 2024-06-03 12:38 pm
+- **Date**: 2024-10-25 8:46 pm
 
 ---
 
@@ -182,13 +214,15 @@ url: https://www.sciencedirect.com/science/article/pii/S1878929321001250
 
 
 
+
 > More pre cisely, we calculated three effect size measures, each based on slightly different parts of the data, and thereby differing in their information content. For all three options, we used Cohen’s d as estimate separately computed for the positive and negative clusters in our infant EEG data.
 
 
 
 
+
 - **Color**: #ffd400 (Yellow)
-- **Date**: 2024-06-03 9:14 pm
+- **Date**: 2024-10-25 8:46 pm
 
 ---
 
@@ -205,7 +239,7 @@ url: https://www.sciencedirect.com/science/article/pii/S1878929321001250
 
 
 - **Color**: #ffd400 (Yellow)
-- **Date**: 2024-06-03 7:26 pm
+- **Date**: 2024-10-25 8:46 pm
 
 ---
 
@@ -218,13 +252,15 @@ url: https://www.sciencedirect.com/science/article/pii/S1878929321001250
 
 
 
+
 > Cluster-based permutation results themselves do not allow for an inference on precisely where in space, time or frequency an effect occurs
 
 
 
 
-- **Color**: #ffd400 (Yellow)
-- **Date**: 2024-06-03 9:49 pm
+
+- **Color**: #ff6666 (Red)
+- **Date**: 2024-10-25 8:46 pm
 
 ---
 
@@ -235,73 +271,7 @@ url: https://www.sciencedirect.com/science/article/pii/S1878929321001250
 ### Notes
 
 
-
-# Annotations  
-(03/06/2024, 21:54:07)
-
-[Go to annotation](zotero://open-pdf/library/items/VAMDEQVL?page=2&annotation=3MBEC9IE) “The basic idea of the cluster-basedpermutation test consists of using a permutation or randomization test to approximate the probability distribution of a nonparametric statistic” ([Meyer et al., 2021, p. 2](zotero://select/library/items/32I68L3U))
-
-[Go to annotation](zotero://open-pdf/library/items/VAMDEQVL?page=2&annotation=GHZXKPHZ) “Since the number of possible permutations is often larger than computationally tractable, it is common to use a Monte Carlo es timate of the permutationdistribution by randomly sampling a subset of all possible permutations.” ([Meyer et al., 2021, p. 2](zotero://select/library/items/32I68L3U))
-
-[Go to annotation](zotero://open-pdf/library/items/VAMDEQVL?page=2&annotation=F7GE4MWD) “A clear advantage of using nonparametric tests, like the cluster-based permutation test, is that any test statistic can be used to investigate the difference between different conditions or the relationship between data and an independent variable. Thereby the statistical sensitivity is increased while also mitigating the risks of multiple comparisons and minimizing false negatives” ([Meyer et al., 2021, p. 2](zotero://select/library/items/32I68L3U))
-
-[Go to annotation](zotero://open-pdf/library/items/VAMDEQVL?page=2&annotation=CIUA5BIU) “One of the effect sizes often used and reportedis Cohen’s d, which quantifies the standardized difference between means.” ([Meyer et al., 2021, p. 2](zotero://select/library/items/32I68L3U))
-
-  
-[Go to annotation](zotero://open-pdf/library/items/VAMDEQVL?page=3&annotation=8WJMCCZK)  
-([Meyer et al., 2021, p. 3](zotero://select/library/items/32I68L3U))
-
-[Go to annotation](zotero://open-pdf/library/items/VAMDEQVL?page=5&annotation=Z5P7W3LJ) “any participant for whom more than 70% of the trials were rejected was excluded from the analysis (Script Section 2.1). This was based on the rationale that with the removal of 70% of the trials (i.e. a reductionto 0.3 times N) the expected standard error of the mean (SEM) in this within-subject design is approximately 2 times larger than the SEM over the full N” ([Meyer et al., 2021, p. 5](zotero://select/library/items/32I68L3U))
-
-[Go to annotation](zotero://open-pdf/library/items/VAMDEQVL?page=5&annotation=GQMUHPXY) “In general, if there is prior information as to when and where to expect an effect this may inform a selection of channels and time points to include in a cluster-based permutation test.” ([Meyer et al., 2021, p. 5](zotero://select/library/items/32I68L3U))
-
-  
-[Go to annotation](zotero://open-pdf/library/items/VAMDEQVL?page=6&annotation=IMBPYFC9)  
-([Meyer et al., 2021, p. 6](zotero://select/library/items/32I68L3U))
-
-[Go to annotation](zotero://open-pdf/library/items/VAMDEQVL?page=7&annotation=IHY6ZX8P) “More pre cisely, we calculated three effect size measures, each based on slightly different parts of the data, and thereby differing in their information content. For all three options, we used Cohen’s d as estimate separately computed for the positive and negative clusters in our infant EEG data.” ([Meyer et al., 2021, p. 7](zotero://select/library/items/32I68L3U))
-
-  
-[Go to annotation](zotero://open-pdf/library/items/VAMDEQVL?page=7&annotation=J75ZKPC4)  
-([Meyer et al., 2021, p. 7](zotero://select/library/items/32I68L3U))
-
-[Go to annotation](zotero://open-pdf/library/items/VAMDEQVL?page=9&annotation=JCWSQDZG) “Cluster-based permutation results themselves do not allow for an inference on precisely where in space, time or frequency an effect occurs” ([Meyer et al., 2021, p. 9](zotero://select/library/items/32I68L3U))
-
----
-
-# Annotations  
-(03/06/2024, 21:54:07)
-
-[Go to annotation](zotero://open-pdf/library/items/undefinedVAMDEQVL?page=2&annotation=3MBEC9IE) “The basic idea of the cluster-basedpermutation test consists of using a permutation or randomization test to approximate the probability distribution of a nonparametric statistic” ([Meyer et al., 2021, p. 2](zotero://select/library/items/undefined77BHHZ4D))
-
-[Go to annotation](zotero://open-pdf/library/items/undefinedVAMDEQVL?page=2&annotation=GHZXKPHZ) “Since the number of possible permutations is often larger than computationally tractable, it is common to use a Monte Carlo es timate of the permutationdistribution by randomly sampling a subset of all possible permutations.” ([Meyer et al., 2021, p. 2](zotero://select/library/items/undefined77BHHZ4D))
-
-[Go to annotation](zotero://open-pdf/library/items/undefinedVAMDEQVL?page=2&annotation=F7GE4MWD) “A clear advantage of using nonparametric tests, like the cluster-based permutation test, is that any test statistic can be used to investigate the difference between different conditions or the relationship between data and an independent variable. Thereby the statistical sensitivity is increased while also mitigating the risks of multiple comparisons and minimizing false negatives” ([Meyer et al., 2021, p. 2](zotero://select/library/items/undefined77BHHZ4D))
-
-[Go to annotation](zotero://open-pdf/library/items/undefinedVAMDEQVL?page=2&annotation=CIUA5BIU) “One of the effect sizes often used and reportedis Cohen’s d, which quantifies the standardized difference between means.” ([Meyer et al., 2021, p. 2](zotero://select/library/items/undefined77BHHZ4D))
-
-  
-[Go to annotation](zotero://open-pdf/library/items/undefinedVAMDEQVL?page=3&annotation=8WJMCCZK)  
-([Meyer et al., 2021, p. 3](zotero://select/library/items/undefined77BHHZ4D))
-
-[Go to annotation](zotero://open-pdf/library/items/undefinedVAMDEQVL?page=5&annotation=Z5P7W3LJ) “any participant for whom more than 70% of the trials were rejected was excluded from the analysis (Script Section 2.1). This was based on the rationale that with the removal of 70% of the trials (i.e. a reductionto 0.3 times N) the expected standard error of the mean (SEM) in this within-subject design is approximately 2 times larger than the SEM over the full N” ([Meyer et al., 2021, p. 5](zotero://select/library/items/undefined77BHHZ4D))
-
-[Go to annotation](zotero://open-pdf/library/items/undefinedVAMDEQVL?page=5&annotation=GQMUHPXY) “In general, if there is prior information as to when and where to expect an effect this may inform a selection of channels and time points to include in a cluster-based permutation test.” ([Meyer et al., 2021, p. 5](zotero://select/library/items/undefined77BHHZ4D))
-
-  
-[Go to annotation](zotero://open-pdf/library/items/undefinedVAMDEQVL?page=6&annotation=IMBPYFC9)  
-([Meyer et al., 2021, p. 6](zotero://select/library/items/undefined77BHHZ4D))
-
-[Go to annotation](zotero://open-pdf/library/items/undefinedVAMDEQVL?page=7&annotation=IHY6ZX8P) “More pre cisely, we calculated three effect size measures, each based on slightly different parts of the data, and thereby differing in their information content. For all three options, we used Cohen’s d as estimate separately computed for the positive and negative clusters in our infant EEG data.” ([Meyer et al., 2021, p. 7](zotero://select/library/items/undefined77BHHZ4D))
-
-  
-[Go to annotation](zotero://open-pdf/library/items/undefinedVAMDEQVL?page=7&annotation=J75ZKPC4)  
-([Meyer et al., 2021, p. 7](zotero://select/library/items/undefined77BHHZ4D))
-
-[Go to annotation](zotero://open-pdf/library/items/undefinedVAMDEQVL?page=9&annotation=JCWSQDZG) “Cluster-based permutation results themselves do not allow for an inference on precisely where in space, time or frequency an effect occurs” ([Meyer et al., 2021, p. 9](zotero://select/library/items/undefined77BHHZ4D))
-
----
-
+No notes available.
 
 
 %% begin notes %%
@@ -343,9 +313,9 @@ Meyer, M., Lamers, D., Kayhan, E., Hunnius, S., & Oostenveld, R. (2021). Enhanci
 ### Tags
 
 
-- #EEG
+- #eeg
 
-- #BIDS
+- #bids
 
 - #cluster-based_permutation_test
 
@@ -361,7 +331,7 @@ Meyer, M., Lamers, D., Kayhan, E., Hunnius, S., & Oostenveld, R. (2021). Enhanci
 
 - **Full Text**: 
 
-- **Full Text**: C:\Users\joaop\Zotero\storage\VAMDEQVL\Meyer et al. - 2021 - Enhancing reproducibility in developmental EEG res.pdf
+- **Full Text**: C:\Users\joaop\Zotero\storage\GKIJ5BWM\Meyer et al. - 2021 - Enhancing reproducibility in developmental EEG res.pdf
 
 - **ScienceDirect Snapshot**: C:\Users\joaop\Zotero\storage\LGJABBGM\S1878929321001250.html
 
@@ -383,5 +353,22 @@ Meyer, M., Lamers, D., Kayhan, E., Hunnius, S., & Oostenveld, R. (2021). Enhanci
 
 
 
+### Backlinking
 
-%% Import Date: 2024-10-01T19:50:07.906+01:00 %%
+
+#### Metadata Links
+
+
+- publicationTitle: [[Developmental Cognitive Neuroscience]]
+
+
+
+
+- date: [[2021]]
+
+
+
+
+
+
+%% Import Date: 2025-01-09T18:03:53.611+00:00 %%

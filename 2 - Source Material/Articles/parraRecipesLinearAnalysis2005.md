@@ -1,4 +1,5 @@
 ---
+citekey: "parraRecipesLinearAnalysis2005"
 title: "Recipes for the linear analysis of EEG"
 itemType: "journalArticle"
 publicationTitle: "NeuroImage"
@@ -37,6 +38,137 @@ tags:
 
 
 
+#### Page 2
+
+
+
+
+
+
+
+
+> [[skin potentials]], [[myographic activity]]
+
+
+
+
+
+- **Color**: #5fb236 (Green)
+- **Date**: 2024-11-05 11:02 pm
+
+---
+
+
+
+
+
+
+
+
+> [[inductive line noise]]
+
+
+
+
+
+- **Color**: #5fb236 (Green)
+- **Date**: 2024-11-05 11:03 pm
+
+---
+
+
+
+
+
+
+
+> Since electrical potentials add linearly, we can summarize the electrodes’ activities as x1(t) = s(t) + n1(t) and x2(t) = s(t) + n2(t). Choosing equal weights, wT = [1,1], for the two neighboring electrodes in Eq. (1) results in a component, y(t) = 2s(t) + n1(t) + n2(t). This component captures the neuronal activity, s(t), with an increased signal-to-noise ratio relative to the individual electrodes
+
+
+
+
+**Comment**: The idea is that signal summation increases snr. This is a good argument to use clusters of electrodes when possible.
+
+
+- **Color**: #ff6666 (Red)
+- **Date**: 2024-11-05 11:06 pm
+
+---
+
+
+
+
+
+
+
+> 3 dB improvement in the case of independent Gaussian noise
+
+
+
+
+
+- **Color**: #e56eee (Magenta)
+- **Date**: 2024-11-05 11:04 pm
+
+---
+
+
+
+
+
+
+
+> This paper shows how three basic criteria, namely maximum difference, maximum power, and statistical independence, can be used to select useful linear integration vectors w.
+
+
+
+
+**Comment**: The choice of the weighting vector is the most important one.
+
+
+- **Color**: #ffd400 (Yellow)
+- **Date**: 2024-11-05 11:08 pm
+
+---
+
+
+
+
+
+
+
+
+> [[penalized logistic regression]]
+
+
+
+
+
+- **Color**: #5fb236 (Green)
+- **Date**: 2024-11-05 11:33 pm
+
+---
+
+
+
+
+
+
+
+
+> [[support vector  machine]]
+
+
+
+
+
+- **Color**: #5fb236 (Green)
+- **Date**: 2024-11-05 11:33 pm
+
+---
+
+
+
 #### Page 7
 
 
@@ -45,7 +177,7 @@ tags:
 
 
 
-> Eye blinks cause a strong deflection of the [[EEG]] signal from baseline lasting 50 – 100 ms. Relative to a common reference the potentials are negative for electrodes placed below the eyes and positive for electrodes above.
+> Eye blinks cause a strong deflection of the EEG signal from baseline lasting 50 – 100 ms. Relative to a common reference the potentials are negative for electrodes placed below the eyes and positive for electrodes above.
 
 
 
@@ -171,6 +303,23 @@ tags:
 
 
 
+
+
+> When compared to an individual sensor the projection y(t) sometimes also called a component – can be a better estimate of neurophysiological activity
+
+
+
+
+
+- **Color**: #ffd400 (Yellow)
+- **Date**: 2024-11-05 11:01 pm
+
+---
+
+
+
+
+
 ### Notes
 
 
@@ -269,7 +418,5 @@ Parra, L. C., Spence, C. D., Gerson, A. D., & Sajda, P. (2005). Recipes for the 
 
 
 
-<!-- Any additional notes or comments -->
 
-
-%% Import Date: 2024-11-05T18:35:21.399+00:00 %%
+%% Import Date: 2025-01-09T18:07:49.985+00:00 %%

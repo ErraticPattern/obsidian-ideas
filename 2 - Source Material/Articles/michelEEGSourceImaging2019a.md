@@ -1,4 +1,5 @@
 ---
+citekey: "michelEEGSourceImaging2019a"
 title: "EEG Source Imaging: A Practical Review of the Analysis Steps"
 itemType: "journalArticle"
 publicationTitle: "Frontiers in Neurology"
@@ -45,6 +46,40 @@ tags:
 
 
 
+> Localization of a limited number of equivalent dipoles is the most classical approach to solve the inverse problem (7).
+
+
+
+
+
+- **Color**: #ffd400 (Yellow)
+- **Date**: 2025-01-05 12:52 am
+
+---
+
+
+
+
+
+
+
+> hese so-called distributed source localization methods do not  make a priori assumption with respect to the number of dipoles.
+
+
+
+
+
+- **Color**: #ffd400 (Yellow)
+- **Date**: 2025-01-05 12:52 am
+
+---
+
+
+
+
+
+
+
 
 > [[LAURA]]
 
@@ -60,6 +95,23 @@ tags:
 
 
 #### Page 3
+
+
+
+
+![](<0 - Supplementary/images/michelEEGSourceImaging2019a.md/image-3-x34-y458.png>)
+
+
+
+> *(No annotated text)*
+
+
+
+
+- **Color**: #ffd400 (Yellow)
+- **Date**: 2024-12-31 6:19 pm
+
+---
 
 
 
@@ -189,6 +241,24 @@ tags:
 
 
 
+
+
+
+
+
+> [[MNI brain]]
+
+
+
+
+
+- **Color**: #5fb236 (Green)
+- **Date**: 2024-12-20 11:30 pm
+
+---
+
+
+
 #### Page 5
 
 
@@ -205,6 +275,87 @@ tags:
 
 - **Color**: #ffd400 (Yellow)
 - **Date**: 2024-10-29 11:00 pm
+
+---
+
+
+
+#### Page 11
+
+
+
+
+
+
+
+
+> [[Tikhonov regularization]]
+
+
+
+
+
+- **Color**: #5fb236 (Green)
+- **Date**: 2025-01-02 5:43 pm
+
+---
+
+
+
+
+
+
+
+> it factors in the equations a level of EEG noise, and enforces a level of smoothness in the inverted results. The more regularization, the smoother the results and the less the sensitivity to noise. However, too much regularization, by over-smoothing the results, will degrade the accuracy of the localization.
+
+
+
+
+
+- **Color**: #ffd400 (Yellow)
+- **Date**: 2025-01-02 5:43 pm
+
+---
+
+
+
+#### Page 14
+
+
+
+
+
+
+
+> In experimental studies, EEG source imaging has become standard to localize different brain areas involved in sensory, motor, and cognitive functions, most often applied to eventrelated potentials (89, 96).
+
+
+
+
+
+- **Color**: #ffd400 (Yellow)
+- **Date**: 2025-01-02 11:21 pm
+
+---
+
+
+
+#### Page 15
+
+
+
+
+
+
+
+> It has thereby become clear that such connectivity measures have to be applied in source space and not on the level of the scalp electrodes, since volume conduction and reference-dependency make the interpretability of sensor-based connectivity measures difficult (105–110).
+
+
+
+
+
+- **Color**: #ffd400 (Yellow)
+- **Date**: 2025-01-05 12:51 am
 
 ---
 
@@ -307,4 +458,4 @@ Michel, C. M., & Brunet, D. (2019). EEG Source Imaging: A Practical Review of th
 
 
 
-%% Import Date: 2024-12-20T23:28:07.886+00:00 %%
+%% Import Date: 2025-01-09T18:03:54.177+00:00 %%

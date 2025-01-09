@@ -1,4 +1,5 @@
 ---
+citekey: "kaneRevisedGlossaryTerms2017"
 title: "A revised glossary of terms most commonly used by clinical electroencephalographers and updated proposal for the report format of the EEG findings. Revision 2017"
 itemType: "journalArticle"
 publicationTitle: "Clinical Neurophysiology Practice"
@@ -694,4 +695,4 @@ Kane, N., Acharya, J., Beniczky, S., Caboclo, L., Finnigan, S., Kaplan, P. W., S
 
 
 
-%% Import Date: 2024-12-01T17:05:11.192+00:00 %%
+%% Import Date: 2025-01-09T17:55:30.280+00:00 %%

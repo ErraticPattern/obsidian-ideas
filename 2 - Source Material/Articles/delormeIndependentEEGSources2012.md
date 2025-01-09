@@ -1,4 +1,5 @@
 ---
+citekey: "delormeIndependentEEGSources2012"
 title: "Independent EEG Sources Are Dipolar"
 itemType: "journalArticle"
 publicationTitle: "PLoS ONE"
@@ -52,7 +53,7 @@ tags:
 
 
 - **Color**: #ff6666 (Red)
-- **Date**: 2024-10-24 6:36 pm
+- **Date**: 2024-10-25 8:46 pm
 
 ---
 
@@ -70,7 +71,7 @@ tags:
 
 
 - **Color**: #5fb236 (Green)
-- **Date**: 2024-10-24 6:37 pm
+- **Date**: 2024-10-25 8:46 pm
 
 ---
 
@@ -88,7 +89,7 @@ tags:
 
 
 - **Color**: #5fb236 (Green)
-- **Date**: 2024-10-24 6:37 pm
+- **Date**: 2024-10-25 8:46 pm
 
 ---
 
@@ -106,7 +107,7 @@ tags:
 
 
 - **Color**: #5fb236 (Green)
-- **Date**: 2024-10-24 6:38 pm
+- **Date**: 2024-10-25 8:46 pm
 
 ---
 
@@ -127,7 +128,7 @@ tags:
 
 
 - **Color**: #ffd400 (Yellow)
-- **Date**: 2024-10-24 6:39 pm
+- **Date**: 2024-10-25 8:46 pm
 
 ---
 
@@ -144,7 +145,7 @@ tags:
 
 
 - **Color**: #ffd400 (Yellow)
-- **Date**: 2024-10-24 6:39 pm
+- **Date**: 2024-10-25 8:46 pm
 
 ---
 
@@ -194,7 +195,7 @@ Delorme, A., Palmer, J., Onton, J., Oostenveld, R., & Makeig, S. (2012). Indepen
 ### Attachments
 
 
-- **Full Text**: C:\Users\joaop\Zotero\storage\4Z6AKKBT\Delorme et al. - 2012 - Independent EEG Sources Are Dipolar.pdf
+- **Full Text**: C:\Users\joaop\Zotero\storage\3MPJWCVG\Delorme et al. - 2012 - Independent EEG Sources Are Dipolar.pdf
 
 
 
@@ -225,7 +226,5 @@ Delorme, A., Palmer, J., Onton, J., Oostenveld, R., & Makeig, S. (2012). Indepen
 
 
 
-<!-- Any additional notes or comments -->
 
-
-%% Import Date: 2024-10-24T18:41:29.538+01:00 %%
+%% Import Date: 2025-01-09T18:05:57.075+00:00 %%

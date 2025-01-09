@@ -1,4 +1,5 @@
 ---
+citekey: "kaurFunctionalBrainImaging2024"
 title: "Functional brain imaging and population-level visits to urban spaces"
 itemType: "journalArticle"
 publicationTitle: "Nature Cities"
@@ -397,4 +398,4 @@ Kaur, A., Rodrigues, A. L., Hoogstraten, S., Blanco-Mora, D. A., Miranda, B., Mo
 
 
 
-%% Import Date: 2024-11-19T13:22:33.931+00:00 %%
+%% Import Date: 2025-01-09T18:06:00.729+00:00 %%

@@ -1,4 +1,5 @@
 ---
+citekey: "debenerHowTakingLowcost2012"
 title: "How about taking a low-cost, small, and wireless EEG for a walk?"
 itemType: "journalArticle"
 publicationTitle: "Psychophysiology"
@@ -192,7 +193,5 @@ Debener, S., Minow, F., Emkes, R., Gandras, K., & de Vos, M. (2012). How about t
 
 
 
-<!-- Any additional notes or comments -->
 
-
-%% Import Date: 2024-11-08T17:20:13.903+00:00 %%
+%% Import Date: 2025-01-09T18:05:56.491+00:00 %%

@@ -1,4 +1,5 @@
 ---
+citekey: "delauxMobileBrainBody2021"
 title: "Mobile brain/body imaging of landmark-based navigation with high-density EEG"
 itemType: "journalArticle"
 publicationTitle: "The European Journal of Neuroscience"
@@ -329,7 +330,5 @@ Delaux, A., de Saint Aubert, J.-B., Ramanoël, S., Bécu, M., Gehrke, L., Klug, 
 
 
 
-<!-- Any additional notes or comments -->
 
-
-%% Import Date: 2024-11-08T17:20:13.914+00:00 %%
+%% Import Date: 2025-01-09T18:07:43.777+00:00 %%

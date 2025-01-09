@@ -1,4 +1,5 @@
 ---
+citekey: "niedermeyerDipoleTheoryElectroencephalography1996"
 title: "Dipole theory and electroencephalography"
 itemType: "journalArticle"
 publicationTitle: "Clinical EEG (electroencephalography)"
@@ -150,6 +151,23 @@ tags:
 
 
 
+> Coming back to Litt'sZ8definition,let us focus on the statement that "electrical potentials .. .can be modeled by dipoles." Again: can be modeled.
+
+
+
+
+
+- **Color**: #ffd400 (Yellow)
+- **Date**: 2025-01-04 12:37 am
+
+---
+
+
+
+
+
+
+
 > even the clinical electroencephalographer occasionally encounters potentials of opposite phase that would have to be considered as the expression of a dipole.
 
 
@@ -168,7 +186,7 @@ tags:
 
 
 
-> [[Sleep spindles]]
+> [[sleep spindles]]
 
 
 
@@ -232,6 +250,116 @@ tags:
 
 - **Color**: #ff6666 (Red)
 - **Date**: 2024-11-06 10:53 pm
+
+---
+
+
+
+#### Page 7
+
+
+
+
+![](<0 - Supplementary/images/niedermeyerDipoleTheoryElectroencephalography1996.md/image-7-x52-y463.png>)
+
+
+
+> *(No annotated text)*
+
+
+
+
+- **Color**: #ffd400 (Yellow)
+- **Date**: 2024-11-08 6:00 pm
+
+---
+
+
+
+#### Page 8
+
+
+
+
+![](<0 - Supplementary/images/niedermeyerDipoleTheoryElectroencephalography1996.md/image-8-x37-y495.png>)
+
+
+
+> *(No annotated text)*
+
+
+
+
+- **Color**: #ffd400 (Yellow)
+- **Date**: 2025-01-04 12:34 am
+
+---
+
+
+
+
+
+
+
+> Its basic tenet is "live and let live!
+
+
+
+
+
+- **Color**: #2ea8e5 (Blue)
+- **Date**: 2024-11-08 6:02 pm
+
+---
+
+
+
+
+
+
+
+> What has to be castigated is not a concept but a singleminded and doctrinary attitude.
+
+
+
+
+
+- **Color**: #2ea8e5 (Blue)
+- **Date**: 2024-11-08 6:02 pm
+
+---
+
+
+
+
+
+
+
+> There must always be a place for alternative solutions.
+
+
+
+
+
+- **Color**: #2ea8e5 (Blue)
+- **Date**: 2024-11-08 6:03 pm
+
+---
+
+
+
+
+
+
+
+> Their advent and rise to a dominant position has been the expression of a new wave of biophysical approaches to EEG. These new trends started in the 1970'sand have gradually overshadowed the classical neurophysiological-neurobiologicalapproach. Electrogenesis in cerebral structures and propagation of EEG signals along pathways characterize the "old"EEG theory.
+
+
+
+
+
+- **Color**: #ffd400 (Yellow)
+- **Date**: 2024-11-08 6:04 pm
 
 ---
 
@@ -687,4 +815,4 @@ Niedermeyer, E. (1996). Dipole theory and electroencephalography. _Clinical EEG 
 
 
 
-%% Import Date: 2024-11-08T17:20:14.105+00:00 %%
+%% Import Date: 2025-01-09T18:03:55.198+00:00 %%

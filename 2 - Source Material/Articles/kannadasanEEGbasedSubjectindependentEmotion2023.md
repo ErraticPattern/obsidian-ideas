@@ -1,4 +1,5 @@
 ---
+citekey: "kannadasanEEGbasedSubjectindependentEmotion2023"
 title: "An EEG-based subject-independent emotion recognition model using a differential-evolution-based feature selection algorithm"
 itemType: "journalArticle"
 publicationTitle: "Knowledge and Information Systems"
@@ -53,7 +54,7 @@ tags:
 
 
 - **Color**: #5fb236 (Green)
-- **Date**: 2024-10-16 11:13 pm
+- **Date**: 2024-10-25 8:46 pm
 
 ---
 
@@ -75,7 +76,7 @@ tags:
 
 
 - **Color**: #5fb236 (Green)
-- **Date**: 2024-10-17 1:58 am
+- **Date**: 2024-10-25 8:46 pm
 
 ---
 
@@ -97,7 +98,7 @@ tags:
 
 
 - **Color**: #5fb236 (Green)
-- **Date**: 2024-10-16 11:19 pm
+- **Date**: 2024-10-25 8:46 pm
 
 ---
 
@@ -119,7 +120,7 @@ tags:
 
 
 - **Color**: #5fb236 (Green)
-- **Date**: 2024-10-16 11:19 pm
+- **Date**: 2024-10-25 8:46 pm
 
 ---
 
@@ -137,7 +138,7 @@ tags:
 
 
 - **Color**: #5fb236 (Green)
-- **Date**: 2024-10-16 11:19 pm
+- **Date**: 2024-10-25 8:46 pm
 
 ---
 
@@ -154,7 +155,7 @@ tags:
 
 
 - **Color**: #ff6666 (Red)
-- **Date**: 2024-10-16 11:20 pm
+- **Date**: 2024-10-25 8:46 pm
 
 ---
 
@@ -171,7 +172,7 @@ tags:
 
 
 - **Color**: #ff6666 (Red)
-- **Date**: 2024-10-16 11:20 pm
+- **Date**: 2024-10-25 8:46 pm
 
 ---
 
@@ -188,7 +189,7 @@ tags:
 
 
 - **Color**: #ff6666 (Red)
-- **Date**: 2024-10-16 11:20 pm
+- **Date**: 2024-10-25 8:46 pm
 
 ---
 
@@ -206,7 +207,7 @@ tags:
 
 
 - **Color**: #5fb236 (Green)
-- **Date**: 2024-10-17 1:47 am
+- **Date**: 2024-10-25 8:46 pm
 
 ---
 
@@ -227,7 +228,7 @@ tags:
 
 
 - **Color**: #ffd400 (Yellow)
-- **Date**: 2024-10-17 1:50 am
+- **Date**: 2024-10-25 8:46 pm
 
 ---
 
@@ -245,7 +246,7 @@ tags:
 
 
 - **Color**: #5fb236 (Green)
-- **Date**: 2024-10-17 1:52 am
+- **Date**: 2024-10-25 8:46 pm
 
 ---
 
@@ -263,7 +264,7 @@ tags:
 
 
 - **Color**: #5fb236 (Green)
-- **Date**: 2024-10-17 1:52 am
+- **Date**: 2024-10-25 8:46 pm
 
 ---
 
@@ -281,7 +282,7 @@ tags:
 
 
 - **Color**: #5fb236 (Green)
-- **Date**: 2024-10-17 1:52 am
+- **Date**: 2024-10-25 8:46 pm
 
 ---
 
@@ -302,7 +303,7 @@ tags:
 
 
 - **Color**: #ffd400 (Yellow)
-- **Date**: 2024-10-17 11:15 am
+- **Date**: 2024-10-25 8:46 pm
 
 ---
 
@@ -323,7 +324,7 @@ tags:
 
 
 - **Color**: #ffd400 (Yellow)
-- **Date**: 2024-10-17 11:15 am
+- **Date**: 2024-10-25 8:46 pm
 
 ---
 
@@ -345,7 +346,7 @@ tags:
 
 
 - **Color**: #5fb236 (Green)
-- **Date**: 2024-10-17 11:15 am
+- **Date**: 2024-10-25 8:46 pm
 
 ---
 
@@ -363,7 +364,7 @@ tags:
 
 
 - **Color**: #5fb236 (Green)
-- **Date**: 2024-10-17 11:15 am
+- **Date**: 2024-10-25 8:46 pm
 
 ---
 
@@ -385,7 +386,7 @@ tags:
 
 
 - **Color**: #5fb236 (Green)
-- **Date**: 2024-10-17 1:54 am
+- **Date**: 2024-10-25 8:46 pm
 
 ---
 
@@ -407,7 +408,7 @@ tags:
 
 
 - **Color**: #5fb236 (Green)
-- **Date**: 2024-10-16 10:05 pm
+- **Date**: 2024-10-25 8:46 pm
 
 ---
 
@@ -425,7 +426,7 @@ tags:
 
 
 - **Color**: #5fb236 (Green)
-- **Date**: 2024-10-16 10:57 pm
+- **Date**: 2024-10-25 8:46 pm
 
 ---
 
@@ -496,7 +497,7 @@ Kannadasan, K., Veerasingam, S., Shameedha Begum, B., & Ramasubramanian, N. (20
 ### Attachments
 
 
-- **Full Text PDF**: C:\Users\joaop\Zotero\storage\WY47C6IU\Kannadasan et al. - 2023 - An EEG-based subject-independent emotion recognition model using a differential-evolution-based feat.pdf
+- **Full Text PDF**: C:\Users\joaop\Zotero\storage\2CLWIKAM\Kannadasan et al. - 2023 - An EEG-based subject-independent emotion recognition model using a differential-evolution-based feat.pdf
 
 
 
@@ -528,4 +529,4 @@ Kannadasan, K., Veerasingam, S., Shameedha Begum, B., & Ramasubramanian, N. (20
 
 
 
-%% Import Date: 2024-10-17T18:45:36.517+01:00 %%
+%% Import Date: 2025-01-09T17:55:30.376+00:00 %%

@@ -1,4 +1,5 @@
 ---
+citekey: "delormeEEGLABOpensourceToolbox2004"
 title: "EEGLAB: an open-source toolbox for analysis of EEG dynamics"
 itemType: "journalArticle"
 publicationTitle: "Journal of neuroscience methods"
@@ -376,7 +377,5 @@ Delorme, A., & Makeig, S. (2004). EEGLAB: An open-source toolbox for analysis of
 
 
 
-<!-- Any additional notes or comments -->
 
-
-%% Import Date: 2024-11-19T13:22:33.916+00:00 %%
+%% Import Date: 2025-01-09T18:03:49.521+00:00 %%

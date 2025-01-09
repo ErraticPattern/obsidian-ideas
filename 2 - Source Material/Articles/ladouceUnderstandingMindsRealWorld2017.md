@@ -1,4 +1,5 @@
 ---
+citekey: "ladouceUnderstandingMindsRealWorld2017"
 title: "Understanding Minds in Real-World Environments: Toward a Mobile Cognition Approach"
 itemType: "journalArticle"
 publicationTitle: "Frontiers in Human Neuroscience"
@@ -328,4 +329,4 @@ Ladouce, S., Donaldson, D. I., Dudchenko, P. A., & Ietswaart, M. (2017). Underst
 
 
 
-%% Import Date: 2024-11-08T17:20:14.022+00:00 %%
+%% Import Date: 2025-01-09T18:09:20.322+00:00 %%

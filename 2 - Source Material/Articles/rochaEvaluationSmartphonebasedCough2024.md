@@ -1,4 +1,5 @@
 ---
+citekey: "rochaEvaluationSmartphonebasedCough2024"
 title: "Evaluation of smartphone-based cough data in amyotrophic lateral sclerosis as a potential predictor of functional disability"
 itemType: "journalArticle"
 publicationTitle: "PLOS ONE"
@@ -142,19 +143,19 @@ No notes available.
 ### Abstract
 
 Objectives
-Cough dysfunction is a feature of patients with amyotrophic lateral sclerosis (ALS). The cough sounds carry information about the respiratory system and bulbar involvement. Our goal was to explore the association between cough sound characteristics and the respiratory and bulbar functions in ALS.
-
-
-Methods
-This was a single-center, cross-sectional, and case-control study. On-demand coughs from ALS patients and healthy controls were collected with a smartphone. A total of 31 sound features were extracted for each cough recording using time-frequency signal processing analysis. Logistic regression was applied to test the differences between patients and controls, and in patients with bulbar and respiratory impairment. Support vector machines (SVM) were employed to estimate the accuracy of classifying between patients and controls and between patients with bulbar and respiratory impairment. Multiple linear regressions were applied to examine correlations between cough sound features and clinical variables.
-
-
-Results
-Sixty ALS patients (28 with bulbar dysfunction, and 25 with respiratory dysfunction) and forty age- and gender-matched controls were recruited. Our results revealed clear differences between patients and controls, particularly within the frequency-related group of features (AUC 0.85, CI 0.79–0.91). Similar results were observed when comparing patients with and without bulbar dysfunction. Sound features related to intensity displayed the strongest correlation with disease severity, and were the most significant in distinguishing patients with and without respiratory dysfunction.
-
-
-Discussion
-We found a good relationship between specific cough sound features and clinical variables related to ALS functional disability. The findings relate well with some expected impact from ALS on both respiratory and bulbar contributions to the physiology of cough. Finally, our approach could be relevant for clinical practice, and it also facilitates home-based data collection.
+              Cough dysfunction is a feature of patients with amyotrophic lateral sclerosis (ALS). The cough sounds carry information about the respiratory system and bulbar involvement. Our goal was to explore the association between cough sound characteristics and the respiratory and bulbar functions in ALS.
+            
+            
+              Methods
+              This was a single-center, cross-sectional, and case-control study. On-demand coughs from ALS patients and healthy controls were collected with a smartphone. A total of 31 sound features were extracted for each cough recording using time-frequency signal processing analysis. Logistic regression was applied to test the differences between patients and controls, and in patients with bulbar and respiratory impairment. Support vector machines (SVM) were employed to estimate the accuracy of classifying between patients and controls and between patients with bulbar and respiratory impairment. Multiple linear regressions were applied to examine correlations between cough sound features and clinical variables.
+            
+            
+              Results
+              Sixty ALS patients (28 with bulbar dysfunction, and 25 with respiratory dysfunction) and forty age- and gender-matched controls were recruited. Our results revealed clear differences between patients and controls, particularly within the frequency-related group of features (AUC 0.85, CI 0.79–0.91). Similar results were observed when comparing patients with and without bulbar dysfunction. Sound features related to intensity displayed the strongest correlation with disease severity, and were the most significant in distinguishing patients with and without respiratory dysfunction.
+            
+            
+              Discussion
+              We found a good relationship between specific cough sound features and clinical variables related to ALS functional disability. The findings relate well with some expected impact from ALS on both respiratory and bulbar contributions to the physiology of cough. Finally, our approach could be relevant for clinical practice, and it also facilitates home-based data collection.
 
 
 ### Formatted Bibliography
@@ -198,7 +199,5 @@ Rocha, P. S., Bento, N., Folgado, D., Carreiro, A. V., Santos, M. O., De Carvalh
 
 
 
-<!-- Any additional notes or comments -->
 
-
-%% Import Date: 2024-12-28T10:56:44.786+00:00 %%
+%% Import Date: 2025-01-09T18:06:04.982+00:00 %%

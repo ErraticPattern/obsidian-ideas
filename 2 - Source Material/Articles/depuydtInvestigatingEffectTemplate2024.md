@@ -1,4 +1,5 @@
 ---
+citekey: "depuydtInvestigatingEffectTemplate2024"
 title: "Investigating the effect of template head models on Event-Related Potential source localization: a simulation and real-data study"
 itemType: "journalArticle"
 publicationTitle: "Frontiers in Neuroscience"
@@ -184,7 +185,5 @@ Depuydt, E., Criel, Y., De Letter, M., & Van Mierlo, P. (2024). Investigating th
 
 
 
-<!-- Any additional notes or comments -->
 
-
-%% Import Date: 2024-12-30T23:05:11.940+00:00 %%
+%% Import Date: 2025-01-09T18:05:57.223+00:00 %%
