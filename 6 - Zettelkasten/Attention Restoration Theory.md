@@ -2,6 +2,7 @@
 creation date: 2024-10-22 18:51
 aliases:
   - ART
+  - Attention–Restoration Theory
 tags:
   - baby
 modification date: Tuesday, 22nd October 2024, 18:51:00

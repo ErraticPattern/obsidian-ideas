@@ -64,7 +64,7 @@ tags:
 
 
 
-> [[Attention–Restoration Theory]]
+> [[Attention Restoration Theory]]
 
 
 

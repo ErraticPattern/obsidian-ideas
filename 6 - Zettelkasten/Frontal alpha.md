@@ -17,9 +17,9 @@ id:
 # Frontal  alpha
 ## Definitions
 ## Associations
-+ [[Attention–Restoration Theory]] ([[#^517bb4]])
++ [[Attention Restoration Theory]] ([[#^517bb4]])
 ## Interpretations
-In light of the [[Attention–Restoration Theory]] 
+In light of the [[Attention Restoration Theory]] 
 
 ---
 # Notes
