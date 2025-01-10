@@ -21,6 +21,8 @@ id:
 
 ---
 # Notes
+### Time-domain
++ ``pop_comperp`` for computing [[ERP]].
 ## Resources
 
 | Website | Description | 

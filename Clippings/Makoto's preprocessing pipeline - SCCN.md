@@ -11,6 +11,8 @@ tags:
 # Makoto's preprocessing pipeline - SCCN
 Thanks [[Makoto Miyakoshi]]!
 # Notes
+>[!quote]
+> Philosophy of science is as useful to scientists as ornithology is to birds 
 # Content 
 ![A diagram of a data flow
 Description automatically generated with medium confidence](file:///C:/Users/joaop/AppData/Local/Temp/msohtmlclip1/01/clip_image002.jpg)
