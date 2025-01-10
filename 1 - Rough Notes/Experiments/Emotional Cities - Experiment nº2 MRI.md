@@ -1,9 +1,9 @@
 ---
 start date: 2025-01-07
 end date: 
-id: 
+id:
   - 3CC30506
-  - exp2_mri
+  - exp_2_mri
 status: in progress
 tags:
   - "#experiment"
@@ -18,7 +18,7 @@ aliases:
 ## To do
 ```dataview
 TASK
-WHERE contains(id, "3CAC0500") OR contains(id, "exp2_mri") AND ( length(id) <= 1 OR (length(id) > 1 AND contains(text, "🆔exp2_mri")) )
+WHERE contains(id, "3CAC0500") OR contains(id, "exp_2_mri") AND ( length(id) <= 1 OR (length(id) > 1 AND contains(text, "🆔exp_2_mri")) )
 WHERE !completed
 ```
 ## Completed (Last 10)
