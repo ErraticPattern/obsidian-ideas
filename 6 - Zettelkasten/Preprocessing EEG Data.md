@@ -14,12 +14,12 @@ id:
 
 
 ---
-# Preprocessed Data
+# Preprocessed EEG Data
 
 
 ---
 # Notes
-
+Check [[Makoto's preprocessing pipeline - SCCN]] to get an idea of the preprocessing steps order.
 ## Definition
 
 ## Associations

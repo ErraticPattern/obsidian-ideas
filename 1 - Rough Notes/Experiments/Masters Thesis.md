@@ -29,7 +29,7 @@ WHERE completed
 LIMIT 10
 ```
 # Files
-
+Remember  that the figures folder still needs to be made available upon request.
 
 ---
 # Entries
